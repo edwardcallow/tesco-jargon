@@ -57,11 +57,11 @@ Central office between the UK and the Hindustan Support Centre that supports the
 A base on wheels used to transport trays of stock.
 
 #### Dotcom
-*Also known as grocery home shopping (GHS)*
+*Also known as grocery home shopping (GHS)*  
 The part of the business where customers order their groceries on the internet through the Tesco website. Selected Tesco stores have Dotcom departments where staff pick these orders from the shop floor and then deliver them to customers. Dotcom departments now also deliver some Tesco Direct (non-food) orders, where the customer has selected the option of having their shopping delivered in a two hour window.
 
 #### Dotcom-only store
-*Also known as customer fulfilment centre (CFC)*
+*Also known as customer fulfilment centre (CFC)*  
 A Tesco store set up solely for picking and delivering Dotcom grocery orders and not open to in-store customers.
 
 #### Double decker
@@ -78,7 +78,3 @@ The number of Dotcom customer orders a single van can deliver in one hour.
 
 #### Dump bin
 A square, free standing display unit which holds promotions or special offers.
-
-
-
-
