@@ -34,5 +34,5 @@ Monthly budget statements showing sales, including and excluding the petrol fill
 #### Budget control sheet
 A statement showing the forecast spend on wages based on store turnover.
 
-### Buy as you earn (BAYE)
+#### Buy as you earn (BAYE)
 A scheme for staff, with three months’ service or more, to buy shares on a regular basis from their gross pay, pre-tax and national insurance.
