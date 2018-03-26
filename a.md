@@ -1,6 +1,6 @@
 # The Tesco jargon buster
 
-## A for…
+## A is for…
 
 #### Accident review board
 A weekly conference call when all incidents involving damage to Dotcom vans are reviewed. The review board makes a decision as to whether each incident was preventable or non-preventable and makes recommendations of appropriate action to the store.
