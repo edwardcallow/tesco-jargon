@@ -61,7 +61,7 @@ A base on wheels used to transport trays of stock.
 The part of the business where customers order their groceries on the internet through the Tesco website. Selected Tesco stores have Dotcom departments where staff pick these orders from the shop floor and then deliver them to customers. Dotcom departments now also deliver some Tesco Direct (non-food) orders, where the customer has selected the option of having their shopping delivered in a two hour window.
 
 #### Dotcom-only store
-See “[customer fulfilment centre](/c.md#Customer-fulfilment-centre-(CFC)]”.
+See “[customer fulfilment centre](c.md#Customer-fulfilment-centre-(CFC))”.
 
 #### Double decker
 A double-decker trailer with two floors.
