@@ -37,3 +37,6 @@ Products with seven days or more until its ‘display until’, ‘use by’ or 
 
 #### Lost cage
 A cage that is lost in the network and its whereabouts is unknown.
+
+#### Lost sales cage
+See [Late cage](#late-cage).
