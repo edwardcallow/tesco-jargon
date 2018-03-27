@@ -5,6 +5,12 @@
 #### Gap scan
 The routine by which stores register and investigate any gap (out of stock) to establish why it is a gap.
 
+#### General Manager (GM)
+See [Depot Manager](d.md#depot-manager).
+
+#### Ghost cage
+See [Lost cage](l.md#lost-cage).
+
 #### Give as you earn
 An easy and tax-free way for staff to support charities. A donation comes directly from you and HM Revenue and Customs pays the amount you would have been taxed.
 
