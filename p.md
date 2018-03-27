@@ -115,6 +115,16 @@ The list of all products shown as out of stock, that are on a delivery, and shou
 #### Privilegecard
 See [Colleague Clubcard](c.md#colleague-clubcard).
 
+#### Priority lebel
+Level of authorisation to perform specific tasks on back office, from 1 to 8. The higher the number, the more tasks can be completed on back office.
+
+See also [Back office](b.md#back-office).
+
+#### Privilege level
+Level of authorisation from 1 to 8 for tasks completed on a progress till. The higher the number, the more tasks can be completed on a till.
+
+See also [Progress](#progress).
+
 #### Produce
 Fruit and vegetables.
 
