@@ -2,6 +2,9 @@
 
 ## S is for…
 
+#### S dock
+See [Pallet delivery](p.md#pallet-delivery).
+
 #### Sack barrow
 The trolley used to help Customer Delivery Assistants transport shopping from the van to the customer’s door.
 
@@ -30,6 +33,9 @@ The Dotcom process where Personal Shoppers scan barcodes when picking to confirm
 
 #### Scratch bakery
 An in-store bakery (ISB) that produces most of its products from raw ingredients.
+
+#### Secondary distribution
+See [Stores distribution](#stores-distribution).
 
 #### Seasonal event
 Promotional events in-store linked to special events or seasons.
