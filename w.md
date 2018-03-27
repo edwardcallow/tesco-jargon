@@ -3,13 +3,22 @@
 ## W is for…
 
 #### Warehouse
+*Previously known as Backroom.*  
 A storage area for products in-store. Some areas were formerly called Backrooms.
 
 #### Warehouse labour planning
+*Previously known as Central labour planning.*  
 The central planning of our people to ensure depots have the right number of people at work at the right time.
 
 #### Warehouse Manager
+*Previously known as Warehouse Team Manager (WTM.*  
 The manager of a team of people and the associated systems and processes within a shift in a depot.
+
+#### Warehouse Shift Manager
+See [Shift Manager](s.md#shift-manager).
+
+#### Warehouse Team Manager (WTM)
+See [Warehouse Manager](#warehouse-manager).
 
 #### Wastage rounding
 This is the process which removes cases from a store’s order where more of that case than the allowed amount would go to waste.
@@ -30,6 +39,9 @@ A type of in-store promotion with limited stock.
 
 #### Work level
 Staff, Managers, and Directors are grouped into grades from Work Level 1 to Work Level 6.
+
+#### Workflow
+See [Paperless goods in](p.md#paperless-goods-in).
 
 #### Workplan
 A web based communication system which is used for communicating with stores. The type ofcommunication sent to stores on the Workplan could include change work, daily communications, ad hoc communications and emergency product withdrawals.
