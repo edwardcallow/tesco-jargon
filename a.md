@@ -46,6 +46,7 @@ An automated process that calculates how much stock will be held on the shelf in
 Measure of whether a customer can buy a product.
 
 #### Availability measure
+*Previously known as Customer service level.*  
 Depot-to-store service level, shown as a percentage.
 
 #### Average weekly sales
