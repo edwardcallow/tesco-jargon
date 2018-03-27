@@ -53,6 +53,9 @@ A smaller delivery received during the day for stores to top up its shelves with
 #### Town meeting
 A conference that brings all Tesco senior managers together for a business update. Usually once a year in May.
 
+#### TPXid
+Universal login details for managers which also acts as an email address.
+
 #### Tractor unit
 The front of a lorry which tows the trailer.
 
