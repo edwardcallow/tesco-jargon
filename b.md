@@ -7,7 +7,7 @@
 #### Backhaul
 See [Tesco supplier collection](t.md#tesco-supplier-collection).
 
-> #### Backroom
+#### Backroom
 > See [Warehouse](w.md#warehouse).
 
 #### Back office
@@ -20,7 +20,7 @@ A checkout designed for customers with fewer than 10 items of shopping, that are
 #### Benefits and concerns (Bs and Cs)
 An agenda item in a Tesco meeting where everyone shares what they think were the benefits from the meeting and any concerns.
 
-> #### Best sellers
+#### Best sellers
 > See [Products that matter most (PTMM)](p.md#products-that-matter-most-ptmm).
 
 #### Better, simpler, cheaper
@@ -32,7 +32,7 @@ A report that scores performance down a grading system as blue, green, amber or 
 #### BOGOF
 Buy one get one free. This is Tesco terminology for a certain promotional offer.
 
-> #### Book-stock accuracy routine
+#### Book-stock accuracy routine
 > See [Stock record check](s.md#stock-record-check).
 
 #### Bill of materials (BOM)
