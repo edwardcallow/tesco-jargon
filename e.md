@@ -5,6 +5,12 @@
 #### E-coupon
 A coupon that customers can redeem online by entering a specific code when placing their orders.
 
+#### Electronic article surveillance
+See [Security tag](s.md#security-tag).
+
+#### Electronic temporary hours adjustment form (ETHAF)
+A payroll document on mainframe used to report changes to basic working hours, for example adding overtime, sick days and holiday.
+
 #### Emergency product withdrawal (EPW)
 A request to remove a product from sale as quickly as possible for health and safety or legal reasons.
 
@@ -16,9 +22,6 @@ Colleagues who have a common interest and who get together to find out informati
 
 #### Essential clothing
 Clothing including men’s, women’s and kids’ socks, hosiery, nightwear, kids’ vests, underwear, bras, briefs and baby basics.
-
-#### Electronic temporary hours adjustment form (ETHAF)
-A payroll document on mainframe used to report changes to basic working hours, for example adding overtime, sick days and holiday.
 
 #### European article number (EAN)
 A unique 13-digit number allocated to each product and sometimes shown after the Tesco Product Number on a shelf edge label. It is more commonly known as a barcode number. You may hear people refer to a product’s EAN – this is the European Article Number.
