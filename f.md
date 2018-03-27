@@ -16,6 +16,10 @@ The internal phone system which allows one area of the business to call another 
 #### Feature space
 A space used to sell our best offers usually found in the foyer or at the end of an aisle.
 
+#### Feet on the floor
+An opportunity for people based at head office to work together with their colleagues in store to learn about our customers and the operation. Usually taken around Christmas, to support stores at their busiest time.
+> Previously known as Tesco week in store together (TWIST).
+
 #### Fill from time
 The time a store should start  lling shelves from.
 > Previously known as demand time.
