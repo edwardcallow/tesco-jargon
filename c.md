@@ -44,6 +44,9 @@ A grouping of stores based on sales and complexity that is used to determine Sto
 #### Catering partners
 Third-party companies who run some of our cafés on behalf of Tesco. These are traditional cafés often with food and cater for Tesco staff or customers.
 
+#### Central labour planning
+See [Warehouse labour planning](w.md#warehouse-labour-planning).
+
 #### Click to Order (C2O)
 The system used for ordering products that are used by stores but not sold to customers, for example, stationery and food wrapping.
 
@@ -76,6 +79,9 @@ Only to be used when referring to Health and Safety or legal matters. For exampl
 #### Consumables
 Products that are used by stores, for example, stationery, till rolls and food wrapping, but are not sold to customers.
 
+#### Continuous-replenishment (CR) system
+See [Stock ordering system](s.md#stock-ordering-system).
+
 #### Core products
 Products that most customers buy every shopping trip, including milk, tea, coffee, eggs, bread, and potatoes.
 
@@ -106,6 +112,12 @@ A count the system tells you that you have to do, for example, because it has id
 #### Critical success factors
 The nine behaviours a Tesco leader should demonstrate: customer focus, drive, developing self/others, team working, personal integrity, analysing and decision making, managing change, managing performance and gaining commitment.
 
+#### Cube
+See [Shelf capacity](s.md#shelf-capacity).
+
+#### Cubi scan
+See [Case measuring](c.md#case-measuring)
+
 #### Customer decision tree
 The way that customers decide what they are going to buy. For example, if they are buying baked beans, they will consider different brands at different prices.
 
@@ -118,3 +130,6 @@ A Tesco store set up solely for picking and delivering Dotcom grocery orders and
 
 #### Customer question time
 A meeting involving customers and staff to get feedback about Tesco and a particular store, often prior to refurbishing a store.
+
+#### Customer service level
+See [Availability measure](a.md#availability-measure).
