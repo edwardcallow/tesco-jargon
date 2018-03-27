@@ -34,6 +34,7 @@ A piece of mechanical equipment used to move pallets or cages around a depot. Ex
 - Picking Truck
 - Loading Truck
 - Fork Lift Truck
+
 > Previously known as mechanical handling equipment.
 
 #### Merchandisable unit (MU)
