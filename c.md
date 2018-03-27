@@ -140,7 +140,7 @@ The way that customers decide what they are going to buy. For example, if they a
 The member of staff responsible for delivering Dotcom orders to customers’ homes using Dotcom vans.
 
 #### Customer fulfilment centre (CFC)
-*Previously known as Dotcom-only store*  
+*Previously known as Dotcom-only store.*  
 A Tesco store set up solely for picking and delivering Dotcom grocery orders and not open to in-store customers.
 
 #### Customer question time
