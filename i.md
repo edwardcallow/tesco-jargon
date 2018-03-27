@@ -20,6 +20,9 @@ Additional sales resulting from trade driving activity.
 #### Individual action pllan
 An action plan driven from a red light on the store steering wheel that shows the activity planned to get the light to green.
 
+#### Inform
+Mobile app available to all Tesco staff with a TPXid or MyAccount login to view stock location and availability in all stores.
+
 #### Information for busness (I4B)
 The name of the system that holds performance information about stores. This can be accessed by managers via a computer to monitor and evaluate performance of their departments and overall store.
 
