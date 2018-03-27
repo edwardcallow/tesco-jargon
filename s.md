@@ -47,6 +47,7 @@ Space for seasonal products or ranges, for example Easter Eggs.
 A manager to whom Team Leaders and staff report.
 
 #### Security tag
+*Previously known as Electronic article surveillance.*  
 An electronic tag placed on high-risk items to improve security.
 
 #### Self-service checkouts
@@ -57,6 +58,7 @@ A checkout where customers can scan their own shopping with a Customer Assistant
 This scheme rewards all eligible employees with free Tesco shares based on their salary. It is linked to the success of the company, so when the company profits, so will staff.
 
 #### Shelf capacity
+*Previously known as Cube.*  
 The volume of stock on the shelf calculated by multiplying the number of products wide, high and deep.
 
 #### Shelf-edge label (SEL)
@@ -69,6 +71,7 @@ The label on the shelf edge that shows the number of the shelving unit and the l
 A plastic holder that clips to the shelf edge to display point of sale of promotional or customer offers.
 
 #### Shift Manager
+*Previously known as Warehouse Shift Manager.*  
 The depot duty manager responsible for all people, systems and processes across a particular time period in a depot.
 
 #### Short life
@@ -106,6 +109,7 @@ The segments within each sector show our objectives. These are scored red, amber
 The amount of stock the system believes is in a store.
 
 #### Stock record check
+*Previously known as Book-stock accuracy routine.*  
 A check carried out on the amount of stock the system believes is in store against the amount of stock actually in store.
 
 #### Stock sharing
@@ -113,12 +117,14 @@ A check carried out on the amount of stock the system believes is in store again
 The method of sharing surplus stock in a depot among stores.
 
 #### Stocked depot
+*Previously known as Pick by store (PBS).*  
 When depots put together an order for stores by store order (grocery, non-food and frozen).
 
 #### Stocked in-store Direct
 A project aiming to have a selection of Tesco Direct products stocked in store for immediate collection by the customer.
 
 #### Stockless depot
+*Previously known as Pick by line (PBL).*  
 When depots put together an order for stores by products (fresh food depots).
 
 #### Store Director
@@ -131,6 +137,7 @@ An online tool where staff can access all the Tesco policies and procedures.
 The person who leads Metro Store Managers within a geographical region.
 
 #### Store ordering system
+*Previously known as Continuous replenishment (CR) system.*  
 The computerised system that automatically orders stock for stores based on the sales through the checkout.
 
 #### Store-specific merchandising plan
