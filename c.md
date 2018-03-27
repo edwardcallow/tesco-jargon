@@ -60,6 +60,10 @@ A situation when any department in a store (or petrol filling station) is unable
 #### Coffee operator
 A company like Costa or Starbucks who run some of our cafés.
 
+#### Colleague Clubcard
+*Previously known as Privilegecard*  
+Staff discount card that entitles staff to a 10% discount when shopping at any Tesco store in the UK or Ireland or with Tesco Direct and Tesco.com. Staff are automatically sent a Colleague Clubcard after six months’ continuous service with Tesco.
+
 #### Commercial
 A head office department responsible for sourcing and ensuring the quality of the products we sell
 
