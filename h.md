@@ -8,7 +8,7 @@
 Hazard Analysis Critical Control Point. This is a system of safety management and controls advocated by the Food Standards Agency as the most effective way for businesses to control the food chain and protect consumers.
 
 #### Handheld computer
-*Also known as a PDA*  
+*Also known as PDA.*  
 A mobile computer unit that is hand held. It is used for a variety of routines in store by different departments, for example stock control and price integrity.
 
 #### Heat map
