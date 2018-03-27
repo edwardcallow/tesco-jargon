@@ -8,11 +8,11 @@
 A set of shelves usually displaying our best offers attached to a promotion end or on the end of an aisle.
 
 #### Late cage
-*Previously known as Lost-sales cage.*  
 A cage that is arriving late at store.
+> Previously known as lost-sales cage.
 
 #### Late picks
-See [Depot gaps](d.md#depot-gaps).
+> See [depot gaps](d.md#depot-gaps).
 
 #### Leadership framework
 The leadership framework was developed by the board of directors to describe what they see our best leaders doing. The Leadership Framework has three key themes, which are:
@@ -21,8 +21,8 @@ The leadership framework was developed by the board of directors to describe wha
 - Live the Values
 
 #### Leadership Team
-*Previously known as Distribution Leadership Team (DLT).*  
 The distribution directors.
+> Previously known as Distribution Leadership Team (DLT).
 
 #### Lifestyle break
 One of Tesco’s flexible working options open to staff with a minimum of one year’s service. A lifestyle break is between 4-12 weeks. The reason for this may include holidays over 4 weeks, voluntary work, study leave, personal matter or religious pilgrimage. A lifestyle break does not affect employment status.
@@ -31,7 +31,7 @@ One of Tesco’s flexible working options open to staff with a minimum of one ye
 Data compared to the same time as last year. For example like-for-like sales is the increase in sales compared to same time in the previous year, excluding new store openings.
 
 #### Lines
-See [Products](p.md#products).
+> See [products](p.md#products).
 
 #### Live the values
 This is one of the key themes of the leadership framework. It’s all about your personal approach and behaving with integrity. If you ‘live the values’ you will support and praise more than criticise and share your knowledge to help others develop.
@@ -40,8 +40,8 @@ This is one of the key themes of the leadership framework. It’s all about your
 Products with seven days or more until its ‘display until’, ‘use by’ or ‘ best before’ date, whichever is soonest.
 
 #### Lost cage
-*Previously known as Ghost cage.*  
 A cage that is lost in the network and its whereabouts is unknown.
+> Previously known as ghost cage.
 
 #### Lost sales cage
-See [Late cage](#late-cage).
+> See [Late cage](#late-cage).
