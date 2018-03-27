@@ -51,7 +51,7 @@ A grouping of stores based on sales and complexity that is used to determine Sto
 Third-party companies who run some of our cafés on behalf of Tesco. These are traditional cafés often with food and cater for Tesco staff or customers.
 
 #### Central labour planning
-> See [Warehouse labour planning](w.md#warehouse-labour-planning).
+> See [warehouse labour planning](w.md#warehouse-labour-planning).
 
 #### Click to Order (C2O)
 The system used for ordering products that are used by stores but not sold to customers, for example, stationery and food wrapping.
@@ -76,7 +76,7 @@ A card which staff in stores can load money onto and use instead of money to buy
 #### Combined service desk
 Type of service desk providing both customer service and tobacco kiosk. Part of the services department.
 
-> See also [Customer service desk (CSD)](#customer-service-desk-csd).
+> See also [customer service desk (CSD)](#customer-service-desk-csd).
 
 #### Commercial
 A head office department responsible for sourcing and ensuring the quality of the products we sell
@@ -91,7 +91,7 @@ Only to be used when referring to Health and Safety or legal matters. For exampl
 Products that are used by stores, for example, stationery, till rolls and food wrapping, but are not sold to customers.
 
 #### Continuous-replenishment (CR) system
-> See [Store ordering system](s.md#store-ordering-system).
+> See [store ordering system](s.md#store-ordering-system).
 
 #### Core products
 Products that most customers buy every shopping trip, including milk, tea, coffee, eggs, bread, and potatoes.
@@ -127,10 +127,10 @@ The nine behaviours a Tesco leader should demonstrate: customer focus, drive, de
 Customer Service & Loyalty Assistant. Dotcom role responsible for making customers feel welcome and helping them to understand the service.
 
 #### Cube
-> See [Shelf capacity](s.md#shelf-capacity).
+> See [shelf capacity](s.md#shelf-capacity).
 
 #### Cubi scan
-> See [Case measuring](c.md#case-measuring)
+> See [case measuring](c.md#case-measuring).
 
 #### Customer decision tree
 The way that customers decide what they are going to buy. For example, if they are buying baked beans, they will consider different brands at different prices.
@@ -138,10 +138,12 @@ The way that customers decide what they are going to buy. For example, if they a
 #### Customer Delivery Driver (CDD)
 *Previously known as Customer Delivery Assistant (CDA).*  
 The member of staff responsible for delivering Dotcom orders to customers’ homes using Dotcom vans.
+> Previously known as Customer Delivery Assistant (CDA).
 
 #### Customer fulfilment centre (CFC)
 *Previously known as Dotcom-only store.*  
 A Tesco store set up solely for picking and delivering Dotcom grocery orders and not open to in-store customers.
+> *Previously known as Dotcom-only store.*  
 
 #### Customer question time
 A meeting involving customers and staff to get feedback about Tesco and a particular store, often prior to refurbishing a store.
