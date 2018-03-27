@@ -27,6 +27,7 @@ Our catalogue and internet-based non-food offer, which allows customers to brows
 A unique number given by Tesco to every product we sell which is shown on a label on the shelf edge.
 
 #### Tesco supplier collection
+*Previously known as Backhaul.*  
 When Tesco vehicles collect loads from a supplier on their way back to the depot.
 
 #### Tesco week in store together (TWIST
@@ -66,9 +67,11 @@ The “know your stuff” framework for training in Tesco split into bronze, sil
 See also [Know your stuff (KYS)](k.md#know-your-stuff-kys).
 
 #### Transport Planning (team)
+*Previously known as Regional Planning (team) and National Planning (team).*  
 The team that centrally plans the vehicle movements and deliveries to stores.
 
 #### Transport-planning system
+*Previously known as Paragon.*  
 A Dotcom software system, which calculates the best route schedule for the customer orders for a shift. The system takes into account the distance between deliveries, the customer’s selected time slot, Customer Delivery Assistant breaks and the weight of orders.
 
 #### Tri-optic scanners
