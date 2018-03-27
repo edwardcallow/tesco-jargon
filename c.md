@@ -96,7 +96,7 @@ See [Store ordering system](s.md#store-ordering-system).
 #### Core products
 Products that most customers buy every shopping trip, including milk, tea, coffee, eggs, bread, and potatoes.
 
-### Core skill
+#### Core skill
 A basic skill everyone in Tesco should have received training on. The core skills training involves the following: emotional cycle of change, effective meeting management, plan do review, roles and accountabilities, rapid action team, root cause analysis and problem solving/team building.
 
 #### Corporate
