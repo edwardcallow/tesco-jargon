@@ -21,5 +21,5 @@ A shelving fixture at the end of an aisle used mainly to display promotions.
 The way we merchandise our stock.
 
 #### Grocery
-*Previously known as ambient*  
+*Previously known as ambient.*  
 A term used to describe products that don’t require refrigeration or freezing, or the department where these products are held. For example, crisps and biscuits are grocery products.
