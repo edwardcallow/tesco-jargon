@@ -6,6 +6,7 @@
 The charge that customers pay to have their Dotcom groceries packed and delivered. It varies across the time of day and day of the week to spread trade evenly over the week.
 
 #### Vehicle maintenance unit
+*Previously known as VMU.*  
 The area of a depot where vehicles are maintained and repaired.
 
 #### Vehicle tracking system
@@ -16,3 +17,6 @@ A product that reduces in sales due to the promotion of another similar product.
 
 #### Viewpoint
 The name of the Tesco staff survey.
+
+#### VMU
+See [Vehicle maintenance unit](#vehicle-maintenance-unit).
