@@ -15,6 +15,7 @@ The internal phone system which allows one area of the business to call another 
 A space used to sell our best offers usually found in the foyer or at the end of an aisle.
 
 #### Fill from time
+*Previously known as Demand time.*  
 The time a store should start  lling shelves from.
 
 #### Fire assembly point
