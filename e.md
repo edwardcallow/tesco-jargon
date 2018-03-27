@@ -55,7 +55,7 @@ A type of Tesco store in the convenience store format. These stores stock a smal
 *Also known as Express safe and legal record*  
 Version of the safe and legal record for Express stores. As well as daily checks to keep stores safe and legal, it includes operational checks.
 
-See also (Safe and legal record)[s.md#safe-and-legal-record].
+See also [Safe and legal record](s.md#safe-and-legal-record).
 
 #### Extension
 A change to a Tesco store to increase its floor space.
