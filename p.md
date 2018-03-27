@@ -16,7 +16,7 @@ The system that automatically allocates work to the Goods In team.
 An electronic system used instead of paper labels when assembling and loading store orders.
 
 #### Paragon
-See [Transport planning system](t.md#transport-planning-system).
+See [Transport-planning system](t.md#transport-planning-system).
 
 #### Part-bake
 Bakery products that have been delivered to stores part-baked and only require baking in store.
