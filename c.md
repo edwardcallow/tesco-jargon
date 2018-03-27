@@ -8,7 +8,7 @@
 A metal unit on wheels used to transport cases of stock.
 
 #### Call Mr Robinson
-A checkout prompt indicating the card used may be blocked.
+A checkout prompt indicating that the card used may be blocked, or requires authorisation.
 
 #### Capital expenditure
 Funds used to buy or upgrade physical things.
