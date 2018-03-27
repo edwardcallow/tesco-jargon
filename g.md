@@ -26,5 +26,8 @@ The way we merchandise our stock.
 *Previously known as ambient.*  
 A term used to describe products that don’t require refrigeration or freezing, or the department where these products are held. For example, crisps and biscuits are grocery products.
 
+#### Grocery home shopping (GHS)
+> See [Dotcom](d.md#dotcom).
+
 #### Group number
 Back office control to decide whether a checkout operator appears on the operator performance report (group 1), operator performance summary (group 2), both (group 3) or neither (group 4).
