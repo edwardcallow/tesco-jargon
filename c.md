@@ -17,10 +17,6 @@ Capping shelves are the shelves that sit on the top of a single shelving unit. I
 #### Cardboard display unit
 A unit that only needs the top taking off to display it on the shelves. This saves time as staff don’t have to transfer all the products on to the shelves.
 
-#### Colleague room card
-*Previously known as colleague room payment card, staffroom card and cardinal card*
-A card which staff in stores can load money onto and use instead of money to buy drinks and confectionery from vending machines. Replaced the cardinal card.
-
 #### Career break
 One of Tesco’s fexible working options open to staff with a minimum of two years’ service. A career break is between three months and five years. The reason for this may include bringing up a family, further education, caring for a sick relative or travelling abroad. With a career break employees are effectively resigning from the company and there is no guarantee of a job on their return.
 
@@ -63,6 +59,10 @@ A company like Costa or Starbucks who run some of our cafés.
 #### Colleague Clubcard
 *Previously known as Privilegecard*  
 Staff discount card that entitles staff to a 10% discount when shopping at any Tesco store in the UK or Ireland or with Tesco Direct and Tesco.com. Staff are automatically sent a Colleague Clubcard after six months’ continuous service with Tesco.
+
+#### Colleague room card
+*Previously known as colleague room payment card, staffroom card and cardinal card*
+A card which staff in stores can load money onto and use instead of money to buy drinks and confectionery from vending machines. Replaced the cardinal card.
 
 #### Commercial
 A head office department responsible for sourcing and ensuring the quality of the products we sell
