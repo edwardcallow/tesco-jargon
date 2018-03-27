@@ -65,7 +65,7 @@ The “know your stuff” framework for training in Tesco split into bronze, sil
 
 See also [Know your stuff (KYS)](k.md#know-your-stuff-kys).
 
-#### Transport Planning Team
+#### Transport Planning (team)
 The team that centrally plans the vehicle movements and deliveries to stores.
 
 #### Transport-planning system
