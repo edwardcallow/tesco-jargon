@@ -141,7 +141,7 @@ The member of staff responsible for delivering Dotcom orders to customers’ hom
 
 #### Customer fulfilment centre (CFC)
 A Tesco store set up solely for picking and delivering Dotcom grocery orders and not open to in-store customers.
-> *Previously known as Dotcom-only store.*  
+> Previously known as Dotcom-only store
 
 #### Customer question time
 A meeting involving customers and staff to get feedback about Tesco and a particular store, often prior to refurbishing a store.
@@ -149,7 +149,7 @@ A meeting involving customers and staff to get feedback about Tesco and a partic
 #### Customer service desk (CSD)
 Service desk at the front of the store responsible for helping customers with queries and complaints. Part of the services department.
 
-> *See also [Combined service desk](#combined-service-desk).*
+> See also [Combined service desk](#combined-service-desk).
 
 #### Customer service level
-> *See [Availability measure](a.md#availability-measure).*
+> See [Availability measure](a.md#availability-measure).
