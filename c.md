@@ -73,6 +73,11 @@ Staff discount card that entitles staff to a 10% discount when shopping at any T
 *Previously known as colleague room payment card, staffroom card and cardinal card*
 A card which staff in stores can load money onto and use instead of money to buy drinks and confectionery from vending machines. Replaced the cardinal card.
 
+#### Combined service desk
+Type of service desk providing both customer service and tobacco kiosk. Part of the services department.
+
+See also [Customer service desk](#customer-service-desk).
+
 #### Commercial
 A head office department responsible for sourcing and ensuring the quality of the products we sell
 
@@ -118,6 +123,9 @@ A count the system tells you that you have to do, for example, because it has id
 #### Critical success factors
 The nine behaviours a Tesco leader should demonstrate: customer focus, drive, developing self/others, team working, personal integrity, analysing and decision making, managing change, managing performance and gaining commitment.
 
+#### CSLA
+Customer Service & Loyalty Assistant. Dotcom role responsible for making customers feel welcome and helping them to understand the service.
+
 #### Cube
 See [Shelf capacity](s.md#shelf-capacity).
 
@@ -136,6 +144,11 @@ A Tesco store set up solely for picking and delivering Dotcom grocery orders and
 
 #### Customer question time
 A meeting involving customers and staff to get feedback about Tesco and a particular store, often prior to refurbishing a store.
+
+#### Customer service desk (CSD)
+Service desk at the front of the store responsible for helping customers with queries and complaints. Part of the services department.
+
+See also [Combined service desk](#combined-service-desk).
 
 #### Customer service level
 See [Availability measure](a.md#availability-measure).
