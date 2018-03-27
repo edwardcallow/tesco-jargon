@@ -8,6 +8,9 @@ A set of shelves usually displaying our best offers attached to a promotion end 
 #### Late cage
 A cage that is arriving late at store.
 
+#### Late picks
+See [Depot gaps](d.md#depot-gaps).
+
 #### Leadership framework
 The leadership framework was developed by the board of directors to describe what they see our best leaders doing. The Leadership Framework has three key themes, which are:
 - Improve the business for customers
@@ -22,6 +25,9 @@ One of Tesco’s flexible working options open to staff with a minimum of one ye
 
 #### Like for like
 Data compared to the same time as last year. For example like-for-like sales is the increase in sales compared to same time in the previous year, excluding new store openings.
+
+#### Lines
+See [Products](p.md#products).
 
 #### Live the values
 This is one of the key themes of the leadership framework. It’s all about your personal approach and behaving with integrity. If you ‘live the values’ you will support and praise more than criticise and share your knowledge to help others develop.
