@@ -80,7 +80,7 @@ Only to be used when referring to Health and Safety or legal matters. For exampl
 Products that are used by stores, for example, stationery, till rolls and food wrapping, but are not sold to customers.
 
 #### Continuous-replenishment (CR) system
-See [Stock ordering system](s.md#stock-ordering-system).
+See [Store ordering system](s.md#store-ordering-system).
 
 #### Core products
 Products that most customers buy every shopping trip, including milk, tea, coffee, eggs, bread, and potatoes.
