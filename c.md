@@ -136,12 +136,10 @@ Customer Service & Loyalty Assistant. Dotcom role responsible for making custome
 The way that customers decide what they are going to buy. For example, if they are buying baked beans, they will consider different brands at different prices.
 
 #### Customer Delivery Driver (CDD)
-*Previously known as Customer Delivery Assistant (CDA).*  
 The member of staff responsible for delivering Dotcom orders to customers’ homes using Dotcom vans.
-> Previously known as Customer Delivery Assistant (CDA).
+> *Previously known as Customer Delivery Assistant (CDA).*
 
 #### Customer fulfilment centre (CFC)
-*Previously known as Dotcom-only store.*  
 A Tesco store set up solely for picking and delivering Dotcom grocery orders and not open to in-store customers.
 > *Previously known as Dotcom-only store.*  
 
@@ -151,7 +149,7 @@ A meeting involving customers and staff to get feedback about Tesco and a partic
 #### Customer service desk (CSD)
 Service desk at the front of the store responsible for helping customers with queries and complaints. Part of the services department.
 
-> See also [Combined service desk](#combined-service-desk).
+> *See also [Combined service desk](#combined-service-desk).*
 
 #### Customer service level
-> See [Availability measure](a.md#availability-measure).
+> *See [Availability measure](a.md#availability-measure).*
