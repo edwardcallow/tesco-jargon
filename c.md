@@ -135,8 +135,9 @@ See [Case measuring](c.md#case-measuring)
 #### Customer decision tree
 The way that customers decide what they are going to buy. For example, if they are buying baked beans, they will consider different brands at different prices.
 
-#### Customer Delivery Assistant (CDA)
-The member of staff responsible for delivering Dotcom customer orders using Dotcom vans.
+#### Customer Delivery Driver (CDD)
+*Previously known as Customer Delivery Assistant (CDA).*  
+The member of staff responsible for delivering Dotcom orders to customers’ homes using Dotcom vans.
 
 #### Customer fulfilment centre (CFC)
 *Previously known as Dotcom-only store*  
