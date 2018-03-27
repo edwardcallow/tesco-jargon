@@ -32,7 +32,7 @@ A unique number given by Tesco to every product we sell which is shown on a labe
 When Tesco vehicles collect loads from a supplier on their way back to the depot.
 > Previously known as Backhaul.
 
-#### T&A
+#### Tesco T&A
 Time and attendance. The system that records clockings in stores and depots.
 
 #### Tesco week in store together (TWIST)
