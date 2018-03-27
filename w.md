@@ -2,24 +2,24 @@
 
 ## W is for…
 
-### Warehouse
+#### Warehouse
 A storage area for products in-store. Some areas were formerly called Backrooms.
 
-### Warehouse labour planning
+#### Warehouse labour planning
 The central planning of our people to ensure depots have the right number of people at work at the right time.
 
-### Warehouse Manager
+#### Warehouse Manager
 The manager of a team of people and the associated systems and processes within a shift in a depot.
 
-### Wastage rounding
+#### Wastage rounding
 This is the process which removes cases from a store’s order where more of that case than the allowed amount would go to waste.
 
-### Waste
+#### Waste
 Products that can’t be sold because they’ve been damaged or are out of code.
 
 See also [Out of code (OOC)](o.md#out-of-code-ooc).
 
-### Weekly range-change report
+#### Weekly range-change report
 An update to tell stores about new and discontinued products and range reductions.
 
 #### What good looks like (WGLL)
