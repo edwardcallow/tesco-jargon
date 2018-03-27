@@ -11,7 +11,7 @@ The measure, in pounds or as a percentage of sales, of products that are damaged
 A diary that is used to record long life fresh products that are about to go out of date.
 
 #### Daventry 1 office (top floor)
-> See [Distribution support centre](#distribution-support-centre).
+> See [distribution support centre](#distribution-support-centre).
 
 #### DDA
 Disability Discrimination Act 1995. Legal regulations requiring equal treatment in access to employment as well as private and public services, regardless of the protected characteristics of age, disability, gender reassignment, marriage and civil partnership, race, religion or belief, sex, and sexual orientation. Replaced by the Equality Act 2010.
@@ -29,14 +29,14 @@ Stock deliveries on time at a store, expressed as a percentage.
 Dotcom customers can choose to receive their shopping without carrier bags. Customers who opt-in have their order packed directly into green trays.
 
 #### Demand time
-> See [Fill from time](f.md#fill-from-time).
+> See [fill from time](f.md#fill-from-time).
 
 #### Department key entry
 Checkout proccess to charge a customer the correct price for a product, when no barcode is available. Only available to operators with privilege level 3.
 
 #### Depot gaps
-*Previously known as Late picks and Mark outs.*  
 Cages in a depot not picked for an order when they should have been.
+> Previously known as late picks and mark outs.
 
 #### Depot Manager
 The manager in charge of running a depot.
@@ -45,8 +45,8 @@ The manager in charge of running a depot.
 Where everyone in the depot stops what they are doing to get the depot fit for the day ahead (see also “Rumble” for similar in stores).
 
 #### Depot senior team
-*Previously known as Distribution centre leadership team (DCLT).*  
 The senior team managers in a depot.
+> Previously known as distribution centre leadership team (DCLT).
 
 #### Development programme
 The schedule of refreshes, extensions and new store openings.
@@ -61,27 +61,27 @@ A way of delivering business plan activity in-store or depot following a briefin
 A Dotcom process where dedicated members of staff prepare and unload trolleys and equipment for Personal Shoppers, enabling them to concentrate solely on picking orders for customers.
 
 #### Distribution centre leadership team (DCTL)
-> See [Depot senior team](d.md#depot-senior-team).
+> See [depot senior team](d.md#depot-senior-team).
 
 #### Distribution direct
 The team of people who handle store queries about distribution over the telephone. Featurenet 55999, option 9.
 
 #### Distribution leadership team (DTL)
-> See [Leadership team](l.md#leadership-team).
+> See [leadership team](l.md#leadership-team).
 
 #### Distribution support centre
-*Previously known as Daventry 1 office (top floor).*  
 Central office between the UK and the Hindustan Support Centre that supports the distribution network.
+> Previously known as Daventry 1 office (top floor).
 
 #### Dolly
 A base on wheels used to transport trays of stock.
 
 #### DOT
-> See [Delivery on time (DOT)](#delivery-on-time-dot).
+> See [delivery on time (DOT)](#delivery-on-time-dot).
 
 #### Dotcom
-*Also known as grocery home shopping (GHS)*  
 The part of the business where customers order their groceries on the internet through the Tesco website. Selected Tesco stores have Dotcom departments where staff pick these orders from the shop floor and then deliver them to customers. Dotcom departments now also deliver some Tesco Direct (non-food) orders, where the customer has selected the option of having their shopping delivered in a two hour window.
+> Also known as grocery home shopping (GHS).
 
 #### Dotcom-only store
 > See [customer fulfilment centre (CFC)](c.md#customer-fulfilment-centre-cfc).
