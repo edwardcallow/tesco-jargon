@@ -5,15 +5,14 @@
 ## S is for…
 
 #### S dock
-See [Pallet delivery](p.md#pallet-delivery).
+> See [pallet delivery](p.md#pallet-delivery).
 
 #### Sack barrow
 The trolley used to help Customer Delivery Assistants transport shopping from the van to the customer’s door.
 
 #### Safe and legal record
 A document with daily checks to keep stores safe and legal. In Express stores this is known as the Express store log book. This contains all the safe and legal plus operational checks.
-
-See also (Express store log book)[e.md#express-store-log-book].
+> See also (Express store log book)[e.md#express-store-log-book].
 
 #### Safe hands
 When someone is temporarily appointed to a position to help with their development.
@@ -37,7 +36,7 @@ The Dotcom process where Personal Shoppers scan barcodes when picking to confirm
 An in-store bakery (ISB) that produces most of its products from raw ingredients.
 
 #### Secondary distribution
-See [Stores distribution](#stores-distribution).
+> See [stores distribution](#stores-distribution).
 
 #### Seasonal event
 Promotional events in-store linked to special events or seasons.
@@ -49,19 +48,19 @@ Space for seasonal products or ranges, for example Easter Eggs.
 A manager to whom Team Leaders and staff report.
 
 #### Security tag
-*Previously known as Electronic article surveillance.*  
 An electronic tag placed on high-risk items to improve security.
+> Previously known as electronic article surveillance.
 
 #### Self-service checkouts
-*Previously known as assisted checkouts*  
 A checkout where customers can scan their own shopping with a Customer Assistant there to help if required.
+> Previously known as assisted checkouts
 
 #### Shares in success
 This scheme rewards all eligible employees with free Tesco shares based on their salary. It is linked to the success of the company, so when the company profits, so will staff.
 
 #### Shelf capacity
-*Previously known as Cube.*  
 The volume of stock on the shelf calculated by multiplying the number of products wide, high and deep.
+> Previously known as cube.
 
 #### Shelf-edge label (SEL)
 The label on the shelf edge showing the Tesco Product Number, the number of products across the shelf, the price, the description and the European Article Number.
@@ -73,8 +72,8 @@ The label on the shelf edge that shows the number of the shelving unit and the l
 A plastic holder that clips to the shelf edge to display point of sale of promotional or customer offers.
 
 #### Shift Manager
-*Previously known as Warehouse Shift Manager.*  
 The depot duty manager responsible for all people, systems and processes across a particular time period in a depot.
+> Previously known as Warehouse Shift Manager.
 
 #### Short life
 Products that have less than seven days until their ‘display until’, ‘use by’ or ‘best before’ date, whichever is soonest.
@@ -111,23 +110,23 @@ The segments within each sector show our objectives. These are scored red, amber
 The amount of stock the system believes is in a store.
 
 #### Stock record check
-*Previously known as Book-stock accuracy routine.*  
 A check carried out on the amount of stock the system believes is in store against the amount of stock actually in store.
+> Previously known as book-stock accuracy routine.
 
 #### Stock sharing
-*Previously known as apportionment.*  
 The method of sharing surplus stock in a depot among stores.
+> Previously known as apportionment.
 
 #### Stocked depot
-*Previously known as Pick by store (PBS).*  
 When depots put together an order for stores by store order (grocery, non-food and frozen).
+> Previously known as pick by store (PBS).
 
 #### Stocked in-store Direct
 A project aiming to have a selection of Tesco Direct products stocked in store for immediate collection by the customer.
 
 #### Stockless depot
-*Previously known as Pick by line (PBL).*  
 When depots put together an order for stores by products (fresh food depots).
+> Previously known as pick by line (PBL).
 
 #### Store Director
 The person who leads Store Managers and Express Area Managers within a geographical region.
@@ -139,8 +138,8 @@ An online tool where staff can access all the Tesco policies and procedures.
 The person who leads Metro Store Managers within a geographical region.
 
 #### Store ordering system
-*Previously known as Continuous replenishment (CR) system.*  
 The computerised system that automatically orders stock for stores based on the sales through the checkout.
+> Previously known as continuous replenishment (CR) system.
 
 #### Store-specific merchandising plan
 A tailor-made plan for each store which identifies where products should go on a shelf.
@@ -149,8 +148,8 @@ A tailor-made plan for each store which identifies where products should go on a
 Usually carried out by the Store or Duty Manager at the start of their shift, they walk around the store looking to see how the  oor looks, for example if there are any major gaps, if all promotional material is out in the correct place, if any cleaning needs doing etc.
 
 #### Stores distribution
-*Previously known as secondary distribution.*  
 The distribution of goods from depot to store, formerly called Secondary Distribution.
+> Previously known as secondary distribution.
 
 #### Stores helpdesk
 The team of people who answer store queries and diagnose and log hardware/software faults over the telephone. Featurenet 55999, option 3.
