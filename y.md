@@ -4,5 +4,8 @@
 
 ## Y is for…
 
+#### Yammer
+Internal social network/forum for communication with all staff nationally. Provided by Microsoft and accessed with a TPXid or MyAccount login.
+
 #### Young worker
 Someone above school-leaving age but below the age of 18. Covered by Young workers policy and subject to restictions on the hours and types of work they can do. 
