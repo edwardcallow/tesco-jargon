@@ -27,7 +27,7 @@ Stock deliveries on time at a store, expressed as a percentage.
 Dotcom customers can choose to receive their shopping without carrier bags. Customers who opt-in have their order packed directly into green trays.
 
 #### Demand time
-See [Fill from time](f.md#fill-from-tieme).
+See [Fill from time](f.md#fill-from-time).
 
 #### Depot gaps
 Cages in a depot not picked for an order when they should have been.
@@ -69,7 +69,7 @@ Central office between the UK and the Hindustan Support Centre that supports the
 A base on wheels used to transport trays of stock.
 
 #### DOT
-See [Delivery on time](#delivery-on-time).
+See [Delivery on time (DOT)](#delivery-on-time-dot).
 
 #### Dotcom
 *Also known as grocery home shopping (GHS)*  
