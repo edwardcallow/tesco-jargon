@@ -14,13 +14,14 @@ See [Warehouse](w.md#warehouse).
 A system used in-store, for example, to download price changes, or to view what’s happening on the checkout operation.
 
 #### Basket checkout
-*Previously known as express checkout*
+*Previously known as express checkout.*  
 A checkout designed for customers with fewer than 10 items of shopping, that are placed straight into a bag once they have been scanned at the checkout.
 
 #### Benefits and concerns (Bs and Cs)
 An agenda item in a Tesco meeting where everyone shares what they think were the benefits from the meeting and any concerns.
 
 #### Best sellers
+<span style="background-color: #ffcc00">Replaced term</span>
 See [Products that matter most (PTMM)](p.md#products-that-matter-most-ptmm).
 
 #### Better, simpler, cheaper
