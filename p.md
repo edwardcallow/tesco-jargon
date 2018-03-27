@@ -26,6 +26,9 @@ Bakery products that have been delivered to stores part-baked and only require b
 #### Pay as you earn (PAYE)
 The payroll system, operated by HM Revenue & Customs, where tax and national insurance are deducted from pay.
 
+#### PDA
+> See [handheld computer](h.md#handheld-computer).
+
 #### Pensions builder
 The Tesco pension scheme. You can join at any time and save, with help from Tesco, for your retirement. As soon as you join, the scheme also gives you life cover (cash, partner and children’s pensions) and ill-health cover (immediate income for life).
 
