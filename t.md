@@ -6,6 +6,7 @@
 
 #### Take people with you
 This is one of the key themes of the leadership framework. It’s all about working through others and communicating to others so everyone knows what needs to be done to achieve results.
+> See also [leadership framework](l.md#leadership-framework).
 
 #### Talent planning
 The Tesco process for succession and career planning, which includes forecasting the number of people we will need in the future, and individual career discussions for our people.
