@@ -24,6 +24,7 @@ Retail excellence at customer’s home handheld device. A type of PDA, used in D
 Fork-lift truck.
 
 #### Recycling unit
+*Previously known as RSU.*  
 Area at a depot where we recycle plastic and cardboard, and clean trays.
 
 #### Reduction
@@ -54,6 +55,7 @@ Products returned to a depot or a supplier by a store or products returned to st
 This is the net profit divided by the capital employed and shows whether the business has made the most of its spending on equipment and physical assets, therefore a measure of profitability.
 
 #### Roles and accountabilities
+*Previously known as RACI.*  
 A way of showing who is responsible and accountable for an activity and who should be consulted and informed.
 
 #### Root-cause analysis
