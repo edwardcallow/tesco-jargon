@@ -131,6 +131,10 @@ Customer Service & Loyalty Assistant. Dotcom role responsible for making custome
 #### Cubi scan
 > See [case measuring](c.md#case-measuring).
 
+#### Customer Assistant (CA)
+Job role in stores. Specialised in one department, though likely multiskilled.
+> See also [multiskilling](m.md#multiskilling).
+
 #### Customer decision tree
 The way that customers decide what they are going to buy. For example, if they are buying baked beans, they will consider different brands at different prices.
 
