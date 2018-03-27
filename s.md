@@ -103,6 +103,7 @@ The amount of stock the system believes is in a store.
 A check carried out on the amount of stock the system believes is in store against the amount of stock actually in store.
 
 #### Stock sharing
+*Previously known as apportionment.*  
 The method of sharing surplus stock in a depot among stores.
 
 #### Stocked depot
