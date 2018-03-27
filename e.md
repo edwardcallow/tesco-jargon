@@ -51,6 +51,11 @@ The amount of a product expected to sell in store in any given week based on tra
 #### Express store
 A type of Tesco store in the convenience store format. These stores stock a small amount of everyday items and can be on petrol forecourts.
 
+#### Express store log book
+Version of the safe and legal record for Express stores. As well as daily checks to keep stores safe and legal, it includes operational checks.
+
+See also (Safe and legal record)[s.md#safe-and-legal-record].
+
 #### Extension
 A change to a Tesco store to increase its floor space.
 
