@@ -15,6 +15,9 @@ The system that automatically allocates work to the Goods In team.
 #### Paperless picking
 An electronic system used instead of paper labels when assembling and loading store orders.
 
+#### Paragon
+See [Transport planning system](t.md#transport-planning-system).
+
 #### Part-bake
 Bakery products that have been delivered to stores part-baked and only require baking in store.
 
@@ -24,10 +27,15 @@ The payroll system, operated by HM Revenue & Customs, where tax and national ins
 #### Pensions builder
 The Tesco pension scheme. You can join at any time and save, with help from Tesco, for your retirement. As soon as you join, the scheme also gives you life cover (cash, partner and children’s pensions) and ill-health cover (immediate income for life).
 
+#### People Manager
+*Previously known as Personnel Manager and Personnel & Training Manager (PTM).*  
+A manager in a depot or store whose main focus is on supporting our staff and their welfare.
+
 #### Permanent multibuys
 Items that are permanently on multibuy offer. For example buy three yoghurts get the fourth free.
 
 #### Perpetual inventory
+*Previously known as PI.*  
 Where a product’s stock levels are manually counted and adjusted.
 
 #### Personal day
@@ -35,10 +43,6 @@ An additional day’s holiday that all staff are entitled to over and above thei
 
 #### Personal development plan (PDP)
 A plan that shows someone’s development objectives, the actions to achieve them and the measure and target.
-
-#### People Manager
-*Previously known as Personnel Manager*  
-A manager in a depot or store whose main focus is on supporting our staff and their welfare.
 
 #### Personal Shopper
 The member of staff responsible for selecting and packing grocery products for Dotcom customers before delivery.
@@ -54,6 +58,12 @@ The list of Dotcom groceries for one Personal Shopper to pick. Each list can con
 
 #### Picking sequence snake
 The method of loading a Dotcom van in a snake-like pattern, which ensures that weight is evenly distributed and the trays for the first customer deliveries are the easiest to access.
+
+#### Pick by line (PBL)
+See [Stockless depot](s.md#stockless-depot).
+
+#### Pick by store (PBS)
+See [Stocked depot](s.md#stocked-depot).
 
 #### Pick rate
 The number of Dotcom products picked in an hour.
