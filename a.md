@@ -17,6 +17,12 @@ A weekly conference call with Store Managers, representing all formats and all p
 #### Alliance site
 An Express site selling Esso fuel which is part of the Tesco/Esso alliance.
 
+#### Ambient
+See [Grocery](g.md#grocery).
+
+### Apportionment
+See [Stock sharing](s.md#stock-sharing).
+
 #### Arm computer
 *Previously known as AMT.*  
 A small computer terminal worn on the arm, used in distribution to help a picker assemble a store order.
