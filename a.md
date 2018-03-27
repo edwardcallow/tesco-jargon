@@ -20,10 +20,10 @@ A weekly conference call with Store Managers, representing all formats and all p
 An Express site selling Esso fuel which is part of the Tesco/Esso alliance.
 
 #### Ambient
-See [Grocery](g.md#grocery).
+> See [Grocery](g.md#grocery).
 
 ### Apportionment
-See [Stock sharing](s.md#stock-sharing).
+> See [Stock sharing](s.md#stock-sharing).
 
 #### Arm computer
 *Previously known as AMT.*  
@@ -38,7 +38,7 @@ A skill taught in Tesco training sessions to help people focus on questioning an
 #### Assembly
 Putting together an order for a store in depots.
 
-#### Assisted order point (AOP) [till]
+#### Assisted order point (AOP)
 A till screen at Tesco Direct desks and operated by Customer Assistants which enables customers to place, pay for and collect their orders.
 
 #### Autocube
