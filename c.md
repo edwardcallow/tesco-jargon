@@ -27,6 +27,7 @@ A conversation between a member of staff and their manager about where they are 
 A box containing a number of single products.
 
 #### Case measuring
+*Previously known as Cubi scan.*  
 Determining the height, width, depth and weight of cases of product so they can be stored, assembled and transported safely and efficiently.
 
 #### Cash return on investment
