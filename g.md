@@ -8,7 +8,7 @@
 The routine by which stores register and investigate any gap (out of stock) to establish why it is a gap.
 
 #### General Assistant (GA)
-> See [Customer Assistant (CA](c.md#customer-assistant-ca).
+> See [Customer Assistant (CA)](c.md#customer-assistant-ca).
 
 #### General Manager (GM)
 > See [Depot Manager](d.md#depot-manager).
