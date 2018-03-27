@@ -66,8 +66,8 @@ A situation when any department in a store (or petrol filling station) is unable
 A company like Costa or Starbucks who run some of our cafés.
 
 #### Colleague Clubcard
-*Previously known as Privilegecard*  
 Staff discount card that entitles staff to a 10% discount when shopping at any Tesco store in the UK or Ireland or with Tesco Direct and Tesco.com. Staff are automatically sent a Colleague Clubcard after six months’ continuous service with Tesco.
+> Previously known as Privilegecard.
 
 #### Colleague room card
 *Previously known as colleague room payment card, staffroom card and cardinal card*
@@ -137,11 +137,11 @@ The way that customers decide what they are going to buy. For example, if they a
 
 #### Customer Delivery Driver (CDD)
 The member of staff responsible for delivering Dotcom orders to customers’ homes using Dotcom vans.
-> *Previously known as Customer Delivery Assistant (CDA).*
+> Previously known as Customer Delivery Assistant (CDA).
 
 #### Customer fulfilment centre (CFC)
 A Tesco store set up solely for picking and delivering Dotcom grocery orders and not open to in-store customers.
-> Previously known as Dotcom-only store
+> Previously known as Dotcom-only store.
 
 #### Customer question time
 A meeting involving customers and staff to get feedback about Tesco and a particular store, often prior to refurbishing a store.
