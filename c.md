@@ -7,6 +7,9 @@
 #### Cage
 A metal unit on wheels used to transport cases of stock.
 
+#### Call Mr Robinson
+A checkout prompt indicating the card used may be blocked.
+
 #### Capital expenditure
 Funds used to buy or upgrade physical things.
 
