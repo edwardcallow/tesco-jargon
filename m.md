@@ -60,3 +60,7 @@ The point of time during the day when a store should be at its fullest.
 
 #### Multiskilling
 Training and working on another department to your own. Most commonly checkouts, to provide support at busy periods.
+
+#### MyAccount
+Self-service login details for all staff. Used to access Inform, Yammer and store apps.
+> Previously known as MyTescoLogin.
