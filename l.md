@@ -35,6 +35,7 @@ Data compared to the same time as last year. For example like-for-like sales is 
 
 #### Live the values
 This is one of the key themes of the leadership framework. It’s all about your personal approach and behaving with integrity. If you ‘live the values’ you will support and praise more than criticise and share your knowledge to help others develop.
+> See also [leadership framework](#leadership-framework).
 
 #### Long life
 Products with seven days or more until its ‘display until’, ‘use by’ or ‘ best before’ date, whichever is soonest.
