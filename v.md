@@ -8,11 +8,12 @@
 The charge that customers pay to have their Dotcom groceries packed and delivered. It varies across the time of day and day of the week to spread trade evenly over the week.
 
 #### Vehicle maintenance unit
-*Previously known as VMU.*  
 The area of a depot where vehicles are maintained and repaired.
+> Previously known as VMU.
 
 #### Vehicle tracking system
 Tracks vehicle movements of arrival times at store, its scheduled time, any de-briefs, driver’s movements while on route. Can also be used for urgent messages to the driver.
+> Previously known as Isotrack.
 
 #### Victim product
 A product that reduces in sales due to the promotion of another similar product. For example, when pre-packed broccoli is on promotion, loose broccoli will be a victim product.
@@ -21,4 +22,4 @@ A product that reduces in sales due to the promotion of another similar product.
 The name of the Tesco staff survey.
 
 #### VMU
-See [Vehicle maintenance unit](#vehicle-maintenance-unit).
+> See [vehicle maintenance unit](#vehicle-maintenance-unit).
