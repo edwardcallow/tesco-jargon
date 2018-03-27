@@ -76,7 +76,7 @@ A card which staff in stores can load money onto and use instead of money to buy
 #### Combined service desk
 Type of service desk providing both customer service and tobacco kiosk. Part of the services department.
 
-See also [Customer service desk](#customer-service-desk).
+See also [Customer service desk (CSD)](#customer-service-desk-csd).
 
 #### Commercial
 A head office department responsible for sourcing and ensuring the quality of the products we sell
