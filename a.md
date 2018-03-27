@@ -18,6 +18,7 @@ A weekly conference call with Store Managers, representing all formats and all p
 An Express site selling Esso fuel which is part of the Tesco/Esso alliance.
 
 #### Arm computer
+*Previously known as AMT.*  
 A small computer terminal worn on the arm, used in distribution to help a picker assemble a store order.
 
 #### Area Manager
