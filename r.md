@@ -2,6 +2,9 @@
 
 ## R is for…
 
+#### RACI
+See [Roles and accountabilities](#roles-and-accountabilities).
+
 #### Radio-frequency price integrity
 A simpler system and routine for price changes to ensure products are always offered at the right price, with the display material and labels.
 
@@ -29,6 +32,9 @@ A routine to reduce the price on a product.
 #### Refresh
 A five-year refresh involves minor works to the store environment to last for five years. A 10-year refresh is a remodelling of the store to bring it up to current format layout and reopen as a new store.
 
+#### Regional Planning (team)
+See [Transport Planning (team)](t.md#transport-planning-team).
+
 #### Replenishment
 The process of filling the shelves.
 
@@ -55,6 +61,9 @@ A core skill taught within the Tesco training session of the same name to identi
 
 #### Rotation
 A routine to rotate products to ensure the products with the shortest time until their ‘display until’, ‘best before’ or ‘use by’ date (whichever is sooner) are placed at the front.
+
+#### RSU
+See [Recycling unit](r.md#recycling-unit).
 
 #### Rumble
 Where everyone in the store comes together for about an hour to get the store fit for the evening trade. During a Rumble staff:
