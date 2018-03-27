@@ -13,8 +13,9 @@ A process for collecting and reviewing ideas from store staff.
 #### IDQ report
 I don’t queue report. A document showing all stores’ ability to reach the I don’t queue target.
 
-#### Improving the busness for customers
+#### Improving the business for customers
 This is one of the key themes of the leadership framework. It’s all about the business and involves using experience and judgment to deliver customer value and make money.
+> See also [leadership framework](l.md#leadership-framework).
 
 #### Incremental sales
 Additional sales resulting from trade driving activity.
