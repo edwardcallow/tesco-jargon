@@ -5,7 +5,7 @@
 ## H is for…
 
 #### HACAP
-Hazard Analysis Critical Control Point. This is a system of safety management and controls advocated by the Food Standards Agency as the most effective way for businesses to control the food chain and protect consumers.
+Hazard analysis critical control point. This is a system of safety management and controls advocated by the Food Standards Agency as the most effective way for businesses to control the food chain and protect consumers.
 
 #### Handheld computer
 *Also known as PDA.*  
