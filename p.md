@@ -36,6 +36,10 @@ The Tesco pension scheme. You can join at any time and save, with help from Tesc
 A manager in a depot or store whose main focus is on supporting our staff and their welfare.
 > Previously known as Personnel Manager and Personnel & Training Manager (PTM).
 
+#### People policies
+The formal written policies which set out the requirements and commitments between yourself and Tesco. Formerly a series of folders in stores, now available on OurTesco.
+> Previously known as policies for our people (PFOP)
+
 #### Permanent multibuys
 Items that are permanently on multibuy offer. For example buy three yoghurts get the fourth free.
 
@@ -90,6 +94,9 @@ Posters, display material and labels which give information on an event or promo
 
 #### Point of sale brochure (POS brochure)
 A guide to where point of sale goes in store.
+
+#### Policies for our people (PFOP)
+> See [people policies](#people-policies).
 
 #### Potential reductions
 A routine on Fresh Food to identify products with a short code life so they can be reduced in price.
