@@ -1,4 +1,4 @@
-![Tesco logo](resources/tesco-logo.svg)
+![Tesco logo](resources/tesco-logo.png)
 
 # The Tesco jargon buster
 
