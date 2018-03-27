@@ -20,10 +20,7 @@ A checkout designed for customers with fewer than 10 items of shopping, that are
 #### Benefits and concerns (Bs and Cs)
 An agenda item in a Tesco meeting where everyone shares what they think were the benefits from the meeting and any concerns.
 
-#### Best sellers
-
-<span style="background-color: #ffcc00">Replaced term</span>
-
+#### &bull; Best sellers
 See [Products that matter most (PTMM)](p.md#products-that-matter-most-ptmm).
 
 #### Better, simpler, cheaper
