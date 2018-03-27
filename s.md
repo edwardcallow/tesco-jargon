@@ -169,5 +169,4 @@ A store that has been identi ed as facing a different set of challenges due to:
 The process we use to encourage attendance and manage absence in Tesco.
 
 #### System archiving reports
-
 Reports that help manage stock records and stock loss through inaccurate stock recording or theft.
