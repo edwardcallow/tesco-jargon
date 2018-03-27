@@ -5,7 +5,7 @@
 ## R is for…
 
 #### RACI
-See [Roles and accountabilities](#roles-and-accountabilities).
+> See [roles and accountabilities](#roles-and-accountabilities).
 
 #### Radio-frequency price integrity
 A simpler system and routine for price changes to ensure products are always offered at the right price, with the display material and labels.
@@ -26,8 +26,8 @@ Retail excellence at customer’s home handheld device. A type of PDA, used in D
 Fork-lift truck.
 
 #### Recycling unit
-*Previously known as RSU.*  
 Area at a depot where we recycle plastic and cardboard, and clean trays.
+> Previously known as RSU.
 
 #### Reduction
 A routine to reduce the price on a product.
@@ -36,7 +36,7 @@ A routine to reduce the price on a product.
 A five-year refresh involves minor works to the store environment to last for five years. A 10-year refresh is a remodelling of the store to bring it up to current format layout and reopen as a new store.
 
 #### Regional Planning (team)
-See [Transport Planning (team)](t.md#transport-planning-team).
+> See [Transport Planning (team)](t.md#transport-planning-team).
 
 #### Replenishment
 The process of filling the shelves.
@@ -57,8 +57,8 @@ Products returned to a depot or a supplier by a store or products returned to st
 This is the net profit divided by the capital employed and shows whether the business has made the most of its spending on equipment and physical assets, therefore a measure of profitability.
 
 #### Roles and accountabilities
-*Previously known as RACI.*  
 A way of showing who is responsible and accountable for an activity and who should be consulted and informed.
+> Previously known as RACI.
 
 #### Root-cause analysis
 A core skill taught within the Tesco training session of the same name to identify the real causes of an issue.
@@ -67,12 +67,11 @@ A core skill taught within the Tesco training session of the same name to identi
 A routine to rotate products to ensure the products with the shortest time until their ‘display until’, ‘best before’ or ‘use by’ date (whichever is sooner) are placed at the front.
 
 #### RSU
-See [Recycling unit](r.md#recycling-unit).
+> See [recycling unit](r.md#recycling-unit).
 
 #### Rumble
 Where everyone in the store comes together for about an hour to get the store fit for the evening trade. During a Rumble staff:
 - Level out stock on the shelves and remove cardboard trays
 - Pull products forward on top and bottom shelves, so customers can see and reach them
 - Target fill any major gaps on the shelves
-
-See also [Depot rumble](d.md#depot-rumble).
+> See also [depot rumble](d.md#depot-rumble).
