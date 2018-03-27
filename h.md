@@ -11,6 +11,9 @@ Hazard Analysis Critical Control Point. This is a system of safety management an
 *Also known as a PDA*  
 A mobile computer unit that is hand held. It is used for a variety of routines in store by different departments, for example stock control and price integrity.
 
+#### Heat map
+Document showing the jobs, and associated number of hours, to be performed by each department in store.
+
 #### Home-delivery network
 The courier service used by Tesco Direct to deliver orders directly to customers’ homes.
 
