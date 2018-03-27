@@ -32,8 +32,8 @@ A conversation between a member of staff and their manager about where they are 
 A box containing a number of single products.
 
 #### Case measuring
-*Previously known as Cubi scan.*  
 Determining the height, width, depth and weight of cases of product so they can be stored, assembled and transported safely and efficiently.
+> Previously known as Cubi scan.
 
 #### Cash return on investment
 The return on a one-off cash investment calculated by dividing the cash return by the average investment.
@@ -75,7 +75,6 @@ A card which staff in stores can load money onto and use instead of money to buy
 
 #### Combined service desk
 Type of service desk providing both customer service and tobacco kiosk. Part of the services department.
-
 > See also [customer service desk (CSD)](#customer-service-desk-csd).
 
 #### Commercial
@@ -148,8 +147,7 @@ A meeting involving customers and staff to get feedback about Tesco and a partic
 
 #### Customer service desk (CSD)
 Service desk at the front of the store responsible for helping customers with queries and complaints. Part of the services department.
-
-> See also [Combined service desk](#combined-service-desk).
+> See also [combined service desk](#combined-service-desk).
 
 #### Customer service level
-> See [Availability measure](a.md#availability-measure).
+> See [availability measure](a.md#availability-measure).
