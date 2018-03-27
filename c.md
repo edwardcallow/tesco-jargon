@@ -5,7 +5,7 @@
 ## C is for…
 
 #### Cage
-A metal unit on wheels used to transport cases of stock.
+A metal unit on wheels used to transport cases of stock. Available with two sides (two-sider), with straps, or four sides (four-sider), with gates.
 
 #### Call Mr Robinson
 A checkout prompt indicating that the card used may be blocked, or requires authorisation.
