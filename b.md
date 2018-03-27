@@ -41,6 +41,9 @@ Every new store receives an equipment package. The new store opening package con
 #### Branch accounts reports
 Monthly budget statements showing sales, including and excluding the petrol filling station, waste, shrinkage, payroll, expenses and proft found on the information for business system.
 
+#### BST
+Business support team. A team responsible for supporing an area of the business.
+
 #### Budget control sheet
 A statement showing the forecast spend on wages based on store turnover.
 
