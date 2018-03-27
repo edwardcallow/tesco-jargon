@@ -11,7 +11,7 @@ A group of Directors which meets weekly to review performance and agree next ste
 #### Unusable sales
 A system setting you can request through store order direct, to be applied to a product that will ensure orders are not based on the day’s sales. Used when sales change significantly, but were not forecasted and you do not expect this level of sales to be sustained.
 
-#### Unit of delivery (UoD)
+#### Unit of delivery (UOD)
 For example, a cage, pallet or dolly.
 
 #### Units per driver hour
