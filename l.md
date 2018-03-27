@@ -44,4 +44,4 @@ A cage that is lost in the network and its whereabouts is unknown.
 > Previously known as ghost cage.
 
 #### Lost sales cage
-> See [Late cage](#late-cage).
+> See [late cage](#late-cage).
