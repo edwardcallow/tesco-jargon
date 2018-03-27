@@ -6,6 +6,7 @@
 A set of shelves usually displaying our best offers attached to a promotion end or on the end of an aisle.
 
 #### Late cage
+*Previously known as Lost-sales cage.*  
 A cage that is arriving late at store.
 
 #### Late picks
@@ -17,7 +18,8 @@ The leadership framework was developed by the board of directors to describe wha
 - Take People with You
 - Live the Values
 
-#### Leadership team
+#### Leadership Team
+*Previously known as Distribution Leadership Team (DLT).*  
 The distribution directors.
 
 #### Lifestyle break
@@ -36,6 +38,7 @@ This is one of the key themes of the leadership framework. It’s all about your
 Products with seven days or more until its ‘display until’, ‘use by’ or ‘ best before’ date, whichever is soonest.
 
 #### Lost cage
+*Previously known as Ghost cage.*  
 A cage that is lost in the network and its whereabouts is unknown.
 
 #### Lost sales cage
