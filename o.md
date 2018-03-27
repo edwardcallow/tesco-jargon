@@ -20,7 +20,7 @@ The bag of mail sent to stores each week from head office, containing promotiona
 When a product is past its ‘display until’, ‘use by’ or ‘best before’ date, whichever is sooner and is recorded as waste and disposed of, it is deemed to be out of code.
 
 #### Out of Hours Trading Manager
-See [Night Manager](n.md#night-manager).
+> See [Night Manager](n.md#night-manager).
 
 #### Out of stock (TOS)
 When a product normally available in store, isn’t available.
