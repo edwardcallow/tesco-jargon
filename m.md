@@ -23,18 +23,18 @@ The process used in-store to ensure we comply with the law and can prove our due
 The stock control process which identifies the exact shelf location of every product in store, to allow Dotcom Personal Shoppers to find the products on their picking lists. The location appears on the team pad next to each product.
 
 #### Mark outs
-See [Depot gaps](d.md#depot-gaps).
+> See [depot gaps](d.md#depot-gaps).
 
 #### Marshalling & tramming
 Sorting cages out into store order and/or moving them to their relevant areas in a distribution centre.
 
 #### Mechanical equipment
-*Previously known as mechanical handling equipment.*  
 A piece of mechanical equipment used to move pallets or cages around a depot. Examples include:
 - Tipping Truck
 - Picking Truck
 - Loading Truck
 - Fork Lift Truck
+> Previously known as mechanical handling equipment.
 
 #### Merchandisable unit (MU)
 A display cage or box that can be wheeled or placed straight out on the shop floor or shelf, without being unpacked, for example, high-volume products such as milk or baked beans.
@@ -55,4 +55,4 @@ One complete shelving unit, which is joined to other units in an aisle.
 The point of time during the day when a store should be at its fullest.
 
 #### Mr Robinson
-See [Call Mr Robinson](c.md#call-mr-robinson).
+> See [Call Mr Robinson](c.md#call-mr-robinson).
