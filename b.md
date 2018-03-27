@@ -21,7 +21,9 @@ A checkout designed for customers with fewer than 10 items of shopping, that are
 An agenda item in a Tesco meeting where everyone shares what they think were the benefits from the meeting and any concerns.
 
 #### Best sellers
+
 <span style="background-color: #ffcc00">Replaced term</span>
+
 See [Products that matter most (PTMM)](p.md#products-that-matter-most-ptmm).
 
 #### Better, simpler, cheaper
