@@ -8,6 +8,9 @@ The measure, in pounds or as a percentage of sales, of products that are damaged
 #### Date code diary
 A diary that is used to record long life fresh products that are about to go out of date.
 
+#### Daventry 1 office (top floor)
+See [Distribution support centre](#distribution-support-centre).
+
 #### DDA
 Disability Discrimination Act 1995. Legal regulations requiring equal treatment in access to employment as well as private and public services, regardless of the protected characteristics of age, disability, gender reassignment, marriage and civil partnership, race, religion or belief, sex, and sexual orientation. Replaced by the Equality Act 2010.
 
@@ -17,11 +20,14 @@ A pension scheme, like the Tesco scheme, that pays you benefits based on your pa
 #### De-kit
 Unloading empty cages from a trailer at the depot.
 
-#### Delivery on time
+#### Delivery on time (DOT)
 Stock deliveries on time at a store, expressed as a percentage.
 
 #### Delivery without bags
 Dotcom customers can choose to receive their shopping without carrier bags. Customers who opt-in have their order packed directly into green trays.
+
+#### Demand time
+See [Fill from time](f.md#fill-from-tieme).
 
 #### Depot gaps
 Cages in a depot not picked for an order when they should have been.
@@ -47,14 +53,23 @@ A way of delivering business plan activity in-store or depot following a briefin
 #### Dispatcher
 A Dotcom process where dedicated members of staff prepare and unload trolleys and equipment for Personal Shoppers, enabling them to concentrate solely on picking orders for customers.
 
+#### Distribution centre leadership team (DCTL)
+See [Depot senior team](d.md#depot-senior-team).
+
 #### Distribution direct
 The team of people who handle store queries about distribution over the telephone. Featurenet 55999, option 9.
+
+#### Distribution leadership team (DTL)
+See [Leadership team](l.md#leadership-team).
 
 #### Distribution support centre
 Central office between the UK and the Hindustan Support Centre that supports the distribution network.
 
 #### Dolly
 A base on wheels used to transport trays of stock.
+
+#### DOT
+See [Delivery on time](#delivery-on-time).
 
 #### Dotcom
 *Also known as grocery home shopping (GHS)*  
