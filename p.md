@@ -8,8 +8,8 @@
 When you add together the count of a product on the shop floor with the count of a product in the Warehouse.
 
 #### Pallet delivery
-*Previously known as pallet pick or S dock.*  
 A product delivered as a full pallet to reduce unnecessary handling to a cage.
+> Previously known as pallet pick or S dock.
 
 #### Paperless goods in
 The system that automatically allocates work to the Goods In team.
@@ -18,7 +18,7 @@ The system that automatically allocates work to the Goods In team.
 An electronic system used instead of paper labels when assembling and loading store orders.
 
 #### Paragon
-See [Transport-planning system](t.md#transport-planning-system).
+> See [transport-planning system](t.md#transport-planning-system).
 
 #### Part-bake
 Bakery products that have been delivered to stores part-baked and only require baking in store.
@@ -33,15 +33,15 @@ The payroll system, operated by HM Revenue & Customs, where tax and national ins
 The Tesco pension scheme. You can join at any time and save, with help from Tesco, for your retirement. As soon as you join, the scheme also gives you life cover (cash, partner and children’s pensions) and ill-health cover (immediate income for life).
 
 #### People Manager
-*Previously known as Personnel Manager and Personnel & Training Manager (PTM).*  
 A manager in a depot or store whose main focus is on supporting our staff and their welfare.
+> Previously known as Personnel Manager and Personnel & Training Manager (PTM).
 
 #### Permanent multibuys
 Items that are permanently on multibuy offer. For example buy three yoghurts get the fourth free.
 
 #### Perpetual inventory
-*Previously known as PI.*  
 Where a product’s stock levels are manually counted and adjusted.
+> Previously known as PI.
 
 #### Personal day
 An additional day’s holiday that all staff are entitled to over and above their annual leave and bank holidays, given at Christmas.
@@ -65,10 +65,10 @@ The list of Dotcom groceries for one Personal Shopper to pick. Each list can con
 The method of loading a Dotcom van in a snake-like pattern, which ensures that weight is evenly distributed and the trays for the first customer deliveries are the easiest to access.
 
 #### Pick by line (PBL)
-See [Stockless depot](s.md#stockless-depot).
+> See [stockless depot](s.md#stockless-depot).
 
 #### Pick by store (PBS)
-See [Stocked depot](s.md#stocked-depot).
+> See [stocked depot](s.md#stocked-depot).
 
 #### Pick rate
 The number of Dotcom products picked in an hour.
@@ -116,17 +116,15 @@ The Tesco management of the distribution of products from suppliers and factorie
 The list of all products shown as out of stock, that are on a delivery, and should be filled straight away.
 
 #### Privilegecard
-See [Colleague Clubcard](c.md#colleague-clubcard).
+> See [Colleague Clubcard](c.md#colleague-clubcard).
 
 #### Priority lebel
 Level of authorisation to perform specific tasks on back office, from 1 to 8. The higher the number, the more tasks can be completed on back office.
-
-See also [Back office](b.md#back-office).
+> See also [back office](b.md#back-office).
 
 #### Privilege level
 Level of authorisation from 1 to 8 for tasks completed on a progress till. The higher the number, the more tasks can be completed on a till.
-
-See also [Progress](#progress).
+> See also [progress](#progress).
 
 #### Produce
 Fruit and vegetables.
@@ -144,8 +142,8 @@ The percentage of products sold on each day totalling 100% for the week.
 The goods sold by Tesco.
 
 #### Products that matter most (PTMM)
-*Previously know as best sellers*
 Products we can’t ever run out of because we sell the greatest number of them and they are the most important products to our customers.
+> Previously know as best sellers.
 
 #### Progress
 The electronic checkout system which is the software that runs the checkouts.
