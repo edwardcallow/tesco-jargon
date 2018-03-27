@@ -30,6 +30,7 @@ Dotcom customers can choose to receive their shopping without carrier bags. Cust
 See [Fill from time](f.md#fill-from-time).
 
 #### Depot gaps
+*Previously known as Late picks and Mark outs.*  
 Cages in a depot not picked for an order when they should have been.
 
 #### Depot Manager
@@ -39,6 +40,7 @@ The manager in charge of running a depot.
 Where everyone in the depot stops what they are doing to get the depot fit for the day ahead (see also “Rumble” for similar in stores).
 
 #### Depot senior team
+*Previously known as Distribution centre leadership team (DCLT).*  
 The senior team managers in a depot.
 
 #### Development programme
@@ -63,6 +65,7 @@ The team of people who handle store queries about distribution over the telephon
 See [Leadership team](l.md#leadership-team).
 
 #### Distribution support centre
+*Previously known as Daventry 1 office (top floor).*  
 Central office between the UK and the Hindustan Support Centre that supports the distribution network.
 
 #### Dolly
