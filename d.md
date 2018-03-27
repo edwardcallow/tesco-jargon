@@ -31,6 +31,9 @@ Dotcom customers can choose to receive their shopping without carrier bags. Cust
 #### Demand time
 See [Fill from time](f.md#fill-from-time).
 
+#### Department key entry
+Checkout proccess to charge a customer the correct price for a product, when no barcode is available. Only available to operators with privilege level 3.
+
 #### Depot gaps
 *Previously known as Late picks and Mark outs.*  
 Cages in a depot not picked for an order when they should have been.
