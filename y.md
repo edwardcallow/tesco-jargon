@@ -4,4 +4,7 @@
 
 ## Y is for…
 
-…nothing really.
+#### Young worker
+Someone above school-leaving age but below the age of 18. Subject to restictions on the hours and types of work they can do.
+
+See Young workers policy.
