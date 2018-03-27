@@ -28,3 +28,6 @@ The name of the system that holds performance information about stores. This can
 
 #### Institute of grocery Distribution
 A measure of total Grocery market growth. Tesco out performance of the Institute of Grocery Distribution is a measure of Tesco growth minus the rest of the market.
+
+#### In-store bakery (ISB)
+The bakery department in a store which prepares its own baked goods.
