@@ -133,7 +133,7 @@ A tailor-made plan for each store which identifies where products should go on a
 Usually carried out by the Store or Duty Manager at the start of their shift, they walk around the store looking to see how the  oor looks, for example if there are any major gaps, if all promotional material is out in the correct place, if any cleaning needs doing etc.
 
 #### Stores distribution
-*Previously known as secondard distribution.*  
+*Previously known as secondary distribution.*  
 The distribution of goods from depot to store, formerly called Secondary Distribution.
 
 #### Stores helpdesk
