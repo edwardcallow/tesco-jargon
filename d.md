@@ -89,6 +89,9 @@ See [customer fulfilment centre (CFC)](c.md#customer-fulfilment-centre-cfc).
 #### Double decker
 A double-decker trailer with two floors.
 
+#### Double scan
+When a product is scanned more than once at the checkout, but the customer has only purchased one item.
+
 #### DRC
 Disability Rights Commission. A government body responsible for investigating and enforcing disability law. Replaced by the Equality and Human Rights Commission.
 
