@@ -20,14 +20,14 @@ A weekly conference call with Store Managers, representing all formats and all p
 An Express site selling Esso fuel which is part of the Tesco/Esso alliance.
 
 #### Ambient
-> See [Grocery](g.md#grocery).
+> See [grocery](g.md#grocery).
 
 ### Apportionment
-> See [Stock sharing](s.md#stock-sharing).
+> See [stock sharing](s.md#stock-sharing).
 
 #### Arm computer
-*Previously known as AMT.*  
 A small computer terminal worn on the arm, used in distribution to help a picker assemble a store order.
+> Previously known as AMT.
 
 #### Area Manager
 The person who leads Express Operations Managers within a geographical region.
@@ -48,8 +48,8 @@ An automated process that calculates how much stock will be held on the shelf in
 Measure of whether a customer can buy a product.
 
 #### Availability measure
-*Previously known as Customer service level.*  
 Depot-to-store service level, shown as a percentage.
+> Previously known as customer service level.
 
 #### Average weekly sales
 The average sales per week calculated over the last four weeks.
