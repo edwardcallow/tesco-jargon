@@ -8,20 +8,20 @@
 > See [Tesco supplier collection](t.md#tesco-supplier-collection).
 
 #### Backroom
-> See [Warehouse](w.md#warehouse).
+> See [warehouse](w.md#warehouse).
 
 #### Back office
 A system used in-store, for example, to download price changes, or to view what’s happening on the checkout operation.
 
 #### Basket checkout
-*Previously known as express checkout.*  
 A checkout designed for customers with fewer than 10 items of shopping, that are placed straight into a bag once they have been scanned at the checkout.
+> Previously known as express checkout.
 
 #### Benefits and concerns (Bs and Cs)
 An agenda item in a Tesco meeting where everyone shares what they think were the benefits from the meeting and any concerns.
 
 #### Best sellers
-> See [Products that matter most (PTMM)](p.md#products-that-matter-most-ptmm).
+> See [products that matter most (PTMM)](p.md#products-that-matter-most-ptmm).
 
 #### Better, simpler, cheaper
 The guiding principles that should underpin everything that’s done in Tesco. Better for customers, simpler for staff, cheaper for Tesco.
@@ -33,7 +33,7 @@ A report that scores performance down a grading system as blue, green, amber or 
 Buy one get one free. This is Tesco terminology for a certain promotional offer.
 
 #### Book-stock accuracy routine
-> See [Stock record check](s.md#stock-record-check).
+> See [stock record check](s.md#stock-record-check).
 
 #### Bill of materials (BOM)
 Every new store receives an equipment package. The new store opening package contains stationery, materials and equipment needed to open a new store.
