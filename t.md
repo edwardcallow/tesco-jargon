@@ -11,7 +11,7 @@ This is one of the key themes of the leadership framework. It’s all about work
 The Tesco process for succession and career planning, which includes forecasting the number of people we will need in the future, and individual career discussions for our people.
 
 #### Team 5
-A five-minute brie ng for staff comprising important information on the department, the store/depot and Tesco.
+A five-minute briefing for staff comprising important information on the department, the store/depot and Tesco.
 
 #### Team Leader
 A Team Leader should take decisions around routine things on their departments, escalating non-routine things they can’t deal with to a manager.
