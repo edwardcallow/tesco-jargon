@@ -19,8 +19,7 @@ A Team Leader should take decisions around routine things on their departments, 
 #### Team pad
 The touch-screen computer mounted on Dotcom trolleys which lets Personal Shoppers know which products to pick. Each Team pad has a hand held scanner attached, which is used to scan the barcode on each product.  
 Team pads connect to the picking control system via a wireless radio signal, transmitted for the Dotcom area. Each new model of team pad is distinguished by number, for example team pad 3.
-
-See also [picking control system](p.md#picking-control-system).
+> See also [picking control system](p.md#picking-control-system).
 
 #### Tesco Direct
 Our catalogue and internet-based non-food offer, which allows customers to browse the product selection on the website or in the Direct catalogue. Customers can then place their order either online via the Tesco.com website, by phone, or at a Tesco Direct desk in selected stores.
@@ -29,20 +28,20 @@ Our catalogue and internet-based non-food offer, which allows customers to brows
 A unique number given by Tesco to every product we sell which is shown on a label on the shelf edge.
 
 #### Tesco supplier collection
-*Previously known as Backhaul.*  
 When Tesco vehicles collect loads from a supplier on their way back to the depot.
+> Previously known as Backhaul.
 
-#### Tesco T&A
+#### T&A
 Time and attendance. The system that records clockings in stores and depots.
 
-#### Tesco week in store together (TWIST
-An opportunity for people based at head office to work together with their colleagues in store to learn about our customers and the operation.
+#### Tesco week in store together (TWIST)
+> See [feet on the floor](f.md#feet-on-the-floor).
 
 #### Tesco week numbers
 For accounting reasons, Tesco breaks the year into 52 or 53 weeks. These weeks are called Tesco Week numbers and start in March.
 
 #### Tip ‘n’ fill
-Where everyone helps Warehouse staff unload full cages and reload empty cages to cut down the time it takes to receive a delivery.
+Where everyone helps warehouse staff unload full cages and reload empty cages to cut down the time it takes to receive a delivery.
 
 #### Think 25
 Government-backed policy that staff should ask all customers for ID when they are buying age restricted products, if they look under 25.
@@ -68,16 +67,15 @@ A manager in-store accountable for a particular area or timeframe, for example n
 
 #### Training framework
 The “know your stuff” framework for training in Tesco split into bronze, silver and gold levels.
-
-See also [Know your stuff (KYS)](k.md#know-your-stuff-kys).
+> See also [know your stuff (KYS)](k.md#know-your-stuff-kys).
 
 #### Transport Planning (team)
-*Previously known as Regional Planning (team) and National Planning (team).*  
 The team that centrally plans the vehicle movements and deliveries to stores.
+> Previously known as Regional Planning (team) and National Planning (team).
 
 #### Transport-planning system
-*Previously known as Paragon.*  
 A Dotcom software system, which calculates the best route schedule for the customer orders for a shift. The system takes into account the distance between deliveries, the customer’s selected time slot, Customer Delivery Assistant breaks and the weight of orders.
+> Previously known as paragon.
 
 #### Tri-optic scanners
 Scanners on checkouts which read barcodes from all sides.
