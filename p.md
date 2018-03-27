@@ -6,6 +6,7 @@
 When you add together the count of a product on the shop floor with the count of a product in the Warehouse.
 
 #### Pallet delivery
+*Previously known as pallet pick or S dock.*  
 A product delivered as a full pallet to reduce unnecessary handling to a cage.
 
 #### Paperless goods in
