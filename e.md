@@ -44,13 +44,13 @@ For customers these are:
 - I can get what I want
 - The prices are good
 - I don’t queue
-- The staff are great.
+- The staff are great
 
 For staff these are:
 - To be treated with respect
 - A manager who helps me
 - An interesting job
-- An opportunity to get on.
+- An opportunity to get on
 
 #### Everyone is welcome at Tesco
 The name we give to all of our work on diversity within Tesco.
@@ -70,7 +70,6 @@ A type of Tesco store in the convenience store format. These stores stock a smal
 #### Express store log book
 Version of the safe and legal record for Express stores. As well as daily checks to keep stores safe and legal, it includes operational checks.
 > Also known as Express safe and legal record.  
-
 > See also [safe and legal record](s.md#safe-and-legal-record).
 
 #### Extension
