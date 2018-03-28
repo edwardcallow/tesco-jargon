@@ -88,6 +88,9 @@ The part of the business where customers order their groceries on the internet t
 #### Dotcom-only store
 > See [customer fulfilment centre (CFC)](c.md#customer-fulfilment-centre-cfc).
 
+#### Dotcom Team Support (DTS)
+> See [Team Support](t.md#team-support).
+
 #### Double decker
 A double-decker trailer with two floors.
 
