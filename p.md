@@ -109,7 +109,7 @@ An aisle which is at the front of a store which is filled with seasonal promotio
 #### PPTH
 Pence per thousand. This is how we measure our cash loss in a percentage.
 
-#### Price integrity
+#### Price integrity (PI)
 The department in-store accountable for ensuring we meet our legal obligations in pricing.
 
 #### Price-sensitive store
