@@ -196,8 +196,8 @@ A store that has been identified as facing a different set of challenges due to:
 - Warehouse difficulties
 - Difficult location
 
-#### Supporting your attendance
-The process we use to encourage attendance and manage absence in Tesco.
+#### Supporting your attendance (SYA)
+The process used to encourage attendance and manage absence in Tesco.
 
 #### System archiving reports
 Reports that help manage stock records and stock loss through inaccurate stock recording or theft.
