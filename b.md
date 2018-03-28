@@ -28,6 +28,13 @@ An agenda item in a Tesco meeting where everyone shares what they think were the
 #### Better, simpler, cheaper
 The guiding principles that should underpin everything that’s done in Tesco. Better for customers, simpler for staff, cheaper for Tesco.
 
+#### Better waste routines (BWR) report
+Report available on G drive that details waste from each store, reported by year-to-date, quarter, period and week.
+> Also known as blended waste report (BWR).
+
+#### Bill of materials (BOM)
+Every new store receives an equipment package. The new store opening package contains stationery, materials and equipment needed to open a new store.
+
 #### Blue, red, amber, green report (BRAG report)
 A report that scores performance down a grading system as blue, green, amber or red where blue means you’ve exceeded your target positively down to red, meaning you’ve missed your target.
 
@@ -36,9 +43,6 @@ Buy one get one free. This is Tesco terminology for a certain promotional offer.
 
 #### Book-stock accuracy routine
 > See [stock record check](s.md#stock-record-check).
-
-#### Bill of materials (BOM)
-Every new store receives an equipment package. The new store opening package contains stationery, materials and equipment needed to open a new store.
 
 #### Branch accounts reports
 Monthly budget statements showing sales, including and excluding the petrol filling station, waste, shrinkage, payroll, expenses and proft found on the information for business system.
