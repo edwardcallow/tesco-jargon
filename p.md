@@ -28,10 +28,6 @@ Bakery products that have been delivered to stores part-baked and only require b
 #### Pay as you earn (PAYE)
 The payroll system, operated by HM Revenue & Customs, where tax and national insurance are deducted from pay.
 
-#### Period
-A Tesco period is made up of four or five Tesco weeks. There are 12 each Tesco year.
-> See also [week](w.md#week) and [year](y.md#year).
-
 #### PDA
 > See [handheld computer](h.md#handheld-computer).
 
@@ -48,6 +44,10 @@ A manager in a depot or store whose main focus is on supporting our staff and th
 #### People policies
 The formal written policies which set out the requirements and commitments between yourself and Tesco. Formerly a series of folders in stores, now available on OurTesco.
 > Previously known as policies for our people (PFOP)
+
+#### Period
+A Tesco period is made up of four or five weeks. There are three per quarter and 12 each year.
+> See also [week](w.md#week), [quarter](q.md#quarter) and [year](y.md#year).
 
 #### Permanent multibuys
 Items that are permanently on multibuy offer. For example buy three yoghurts get the fourth free.
