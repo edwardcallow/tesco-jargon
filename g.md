@@ -6,6 +6,9 @@ Search this page by pressing Ctrl+F on Windows, ⌘+F on Mac, or choosing ‘fin
 
 ## G is for…
 
+#### G drive
+Network storage area available on MPCs for sharing files between stores, depots and offices.
+
 #### Gap scan
 The routine by which stores register and investigate any gap (out of stock) to establish why it is a gap.
 
