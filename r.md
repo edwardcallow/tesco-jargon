@@ -82,4 +82,5 @@ Where everyone in the store comes together for about an hour to get the store fi
 - Level out stock on the shelves and remove cardboard trays
 - Pull products forward on top and bottom shelves, so customers can see and reach them
 - Target fill any major gaps on the shelves
+
 > See also [depot rumble](d.md#depot-rumble).
