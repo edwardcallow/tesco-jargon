@@ -71,6 +71,9 @@ A routine to rotate products to ensure the products with the shortest time until
 #### Routines (report)
 > See [Stock-control routines report](s.md#stock-control-routines-report).
 
+#### RP125
+Product report. Quality report, completed by the customer service desk, made on a product when a complaint has been made by a customer.
+
 #### RSU
 > See [recycling unit](r.md#recycling-unit).
 
