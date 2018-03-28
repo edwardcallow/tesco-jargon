@@ -98,6 +98,9 @@ When stock is removed from an order at depot that is too big to handle, to make 
 #### Space and merchandising system
 This system details all fixtures and space in store and what product groups are in them.
 
+#### Staff-reception buzzer
+Button at staff reception in large stores to trigger an automated announcement over the tannoy: ‘there is a caller at staff reception, please attend’.
+
 #### Steering wheel
 The tool we use to manage our business in a balanced way. There’s a sector for each area of our business plan:
 – Customer
