@@ -6,6 +6,10 @@ Search this page by pressing Ctrl+F on Windows, ⌘+F on Mac, or choosing ‘fin
 
 ## T is for…
 
+#### T&A card
+Time and attendance card. Used to record clockings in stores and depots.
+> See also [time and attendance](#time-and-attendance).
+
 #### Take people with you
 This is one of the key themes of the leadership framework. It’s all about working through others and communicating to others so everyone knows what needs to be done to achieve results.
 > See also [leadership framework](l.md#leadership-framework).
@@ -41,14 +45,15 @@ A unique number given by Tesco to every product we sell which is shown on a labe
 When Tesco vehicles collect loads from a supplier on their way back to the depot.
 > Previously known as Backhaul.
 
-#### Tesco T&A
-Time and attendance. The system that records clockings in stores and depots.
-
 #### Tesco week in store together (TWIST)
 > See [feet on the floor](f.md#feet-on-the-floor).
 
 #### Tesco week numbers
 For accounting reasons, Tesco breaks the year into 52 or 53 weeks. These weeks are called Tesco Week numbers and start in March.
+
+#### Time and attendance
+The system that records clockings in stores and depots.
+> Also known as Tesco T&A
 
 #### Tip ‘n’ fill
 Where everyone helps warehouse staff unload full cages and reload empty cages to cut down the time it takes to receive a delivery.
