@@ -12,6 +12,10 @@ A display that stands alone away from a fixture, usually made from cardboard and
 #### Operations Director
 The person who leads a group of Store Directors or Express Operations Managers.
 
+#### Operator number
+Personal login details used to sign on to progress tills and back office.
+> See also [progress](p.md#progress) and [back office](b.md#back-office).
+
 #### Options
 A development programme that helps staff progress, for example from a Customer Assistant role into management.
 
