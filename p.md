@@ -47,7 +47,7 @@ The formal written policies which set out the requirements and commitments betwe
 
 #### Period
 A Tesco period is made up of four or five weeks. There are three per quarter and 12 each year.
-> See also [week](w.md#week), [quarter](q.md#quarter) and [year](y.md#year).
+> See also [week](w.md#week-payroll), [quarter](q.md#quarter) and [year](y.md#year).
 
 #### Permanent multibuys
 Items that are permanently on multibuy offer. For example buy three yoghurts get the fourth free.
