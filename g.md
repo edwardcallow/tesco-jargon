@@ -39,3 +39,6 @@ A term used to describe products that don’t require refrigeration or freezing,
 
 #### Group number
 Back office control to decide whether a checkout operator appears on the operator performance report (group 1), operator performance summary (group 2), both (group 3) or neither (group 4).
+
+#### Gun
+> See [handheld computer](h.md#handheld-computer).
