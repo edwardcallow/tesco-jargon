@@ -7,7 +7,7 @@ Search this page by pressing Ctrl+F on Windows, ⌘+F on Mac, or choosing ‘fin
 ## O is for…
 
 #### Off-fixture display (OFD)
-A display that stands alone away from the fixture, usually made from cardboard.
+A display that stands alone away from a fixture, usually made from cardboard and used to highlight promotions.
 
 #### Operations Director
 The person who leads a group of Store Directors or Express Operations Managers.
