@@ -10,7 +10,7 @@ Search this page by pressing Ctrl+F on Windows, ⌘+F on Mac, or choosing ‘fin
 A weekly conference call when all incidents involving damage to Dotcom vans are reviewed. The review board makes a decision as to whether each incident was preventable or non-preventable and makes recommendations of appropriate action to the store.
 
 #### Achievements, benefits, concerns, do next
-An agenda that can be used for a one-to- one meeting where someone talks though their achievements, the bene ts these have brought, their concerns and the next steps.
+An agenda that can be used for a one-to-one meeting where someone talks though their achievements, the bene ts these have brought, their concerns and the next steps.
 
 #### Advanced shipping notification
 Electronic process that noti es a depot of a delivery as it is being unloaded by the supplier.
