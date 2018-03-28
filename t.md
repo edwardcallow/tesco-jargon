@@ -52,8 +52,8 @@ When Tesco vehicles collect loads from a supplier on their way back to the depot
 For accounting reasons, Tesco breaks the year into 52 or 53 weeks. These weeks are called Tesco Week numbers and start in March.
 
 #### Time and attendance
-The system that records clockings in stores and depots.
-> Also known as Tesco T&A
+The system that records clockings by T&A cards in stores and depots.
+> Also known as Tesco T&A.
 
 #### Tip ‘n’ fill
 Where everyone helps warehouse staff unload full cages and reload empty cages to cut down the time it takes to receive a delivery.
