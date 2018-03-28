@@ -12,7 +12,7 @@ Hazard analysis critical control point. This is a system of safety management an
 #### Handheld computer
 A mobile computer unit that is hand-held. It is used for a variety of routines in store by different departments, for example stock control and price integrity.
 > Also known as PDA.  
-> Previously known as gun.
+> Previously known as PDCU and gun.
 
 #### Heat map
 Document showing the jobs, and associated number of hours, to be performed by each department in store.
