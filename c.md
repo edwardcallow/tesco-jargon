@@ -53,7 +53,7 @@ A grouping of stores based on sales and complexity that is used to determine Sto
 Third-party companies who run some of our cafés on behalf of Tesco. These are traditional cafés often with food and cater for Tesco staff or customers.
 
 #### CBL
-`Definition to do`
+`Definition unavailable.`
 
 #### Central labour planning
 > See [warehouse labour planning](w.md#warehouse-labour-planning).
