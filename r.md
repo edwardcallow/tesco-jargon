@@ -68,6 +68,9 @@ A core skill taught within the Tesco training session of the same name to identi
 #### Rotation
 A routine to rotate products to ensure the products with the shortest time until their ‘display until’, ‘best before’ or ‘use by’ date (whichever is sooner) are placed at the front.
 
+#### Routines (report)
+> See [Stock-control routines report](s.md#stock-control-routines-report).
+
 #### RSU
 > See [recycling unit](r.md#recycling-unit).
 
