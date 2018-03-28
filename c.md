@@ -61,6 +61,9 @@ Third-party companies who run some of our cafés on behalf of Tesco. These are t
 #### Checkout Team Support (CTS)
 > See [Team Support](t.md#team-support).
 
+#### Click and collect (C+C)
+Service allowing Dotcom and Direct customers to order products online and then collect them in-store.
+
 #### Click to Order (C2O)
 The system used for ordering products that are used by stores but not sold to customers, for example, stationery and food wrapping.
 
