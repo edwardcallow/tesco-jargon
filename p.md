@@ -32,7 +32,7 @@ The payroll system, operated by HM Revenue & Customs, where tax and national ins
 > See [handheld computer](h.md#handheld-computer).
 
 #### Permit to work (RP2K740)
-Form visiting contractors must complete, and have signed by a member of staff, if they will be working in high-risk areas or undertaking high-risk tasks.
+Form visiting contractors must complete, and have signed by a member of staff, if they will be working in high-risk areas or undertaking high-risk tasks. Completed alongside an authorisation to work.
 > See also [authorisation to work (PR2K741](a.md#authorisation-to-work-rp2k741).
 
 #### Personal digital counting unit (PDCU)
