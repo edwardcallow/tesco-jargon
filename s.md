@@ -181,6 +181,10 @@ All the Superstore groups in the North of the United Kingdom, including groups i
 #### Superstores South
 All the Superstore groups in the South of the United Kingdom, including groups in England and Wales.
 
+#### Supervisor number
+Operator number for progress and back office which allows supervisor functions and authorisations to be carried out.
+> See also [progress](p.md#progress) and [back office](b.md#back-office).
+
 #### Support office
 A department at head office which supports our stores.
 
