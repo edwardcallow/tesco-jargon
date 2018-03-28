@@ -24,6 +24,10 @@ The touch-screen computer mounted on Dotcom trolleys which lets Personal Shopper
 Team pads connect to the picking control system via a wireless radio signal, transmitted for the Dotcom area. Each new model of team pad is distinguished by number, for example team pad 3.
 > See also [picking control system](p.md#picking-control-system).
 
+#### Team Support
+Job role in checkouts and dotcom with additional responsibilities. A Team Support should take decisions around routine things on their department, escalating non-routine things they can’t deal with to a manager.
+> Previously known as Team Leader (TL).
+
 #### Tesco Direct
 Our catalogue and internet-based non-food offer, which allows customers to browse the product selection on the website or in the Direct catalogue. Customers can then place their order either online via the Tesco.com website, by phone, or at a Tesco Direct desk in selected stores.
 
@@ -48,6 +52,10 @@ Where everyone helps warehouse staff unload full cages and reload empty cages to
 
 #### Think 25
 Government-backed policy that staff should ask all customers for ID when they are buying age restricted products, if they look under 25.
+
+#### TL menu
+Soft-key option on progress tills to access additional functions and the supervisor menu.
+> See also [progress](p.md#progress).
 
 #### Top-up
 A smaller delivery received during the day for stores to top up its shelves with the products it needs to keep in stock until the next main fill.
