@@ -59,3 +59,6 @@ A statement showing the forecast spend on wages based on store turnover.
 
 #### Buy as you earn (BAYE)
 A scheme for staff, with three months’ service or more, to buy shares on a regular basis from their gross pay, pre-tax and national insurance.
+
+#### BWS
+Beers, wines and spirits. An in-store department dedicated to alcoholic beverages.
