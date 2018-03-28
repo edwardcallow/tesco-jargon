@@ -28,6 +28,10 @@ Bakery products that have been delivered to stores part-baked and only require b
 #### Pay as you earn (PAYE)
 The payroll system, operated by HM Revenue & Customs, where tax and national insurance are deducted from pay.
 
+#### Period
+A Tesco period is made up of four or five Tesco weeks. There are 12 each Tesco year.
+> See also [week](w.md#week) and [year](y.md#year).
+
 #### PDA
 > See [handheld computer](h.md#handheld-computer).
 
