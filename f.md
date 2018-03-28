@@ -22,6 +22,9 @@ A space used to sell our best offers usually found in the foyer or at the end of
 An opportunity for people based at head office to work together with their colleagues in store to learn about our customers and the operation. Usually taken around Christmas, to support stores at their busiest time.
 > Previously known as Tesco week in store together (TWIST).
 
+#### File maintenance control (FMC)
+> See [price integrity](p.md#price-integrity-pi).
+
 #### Fill from time
 The time a store should start  lling shelves from.
 > Previously known as demand time.
