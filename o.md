@@ -6,7 +6,7 @@ Search this page by pressing Ctrl+F on Windows, ⌘+F on Mac, or choosing ‘fin
 
 ## O is for…
 
-#### OBF
+#### OBP
 Order by phone. Service allowing customers to order Direct products over the phone.
 
 #### Off-fixture display (OFD)
