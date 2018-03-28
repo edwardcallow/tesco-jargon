@@ -31,6 +31,17 @@ This is the process which removes cases from a store’s order where more of tha
 Products that can’t be sold because they’ve been damaged or are out of code.
 > See also [out of code (OOC)](o.md#out-of-code-ooc).
 
+#### Week (payroll)
+A Tesco payroll week runs from Friday to Thursday. Wages are finalised on Friday, so Thursday is the last day to code wages and pay overtime.
+
+#### Week (trading)
+The Tesco trading week runs from Monday to Sunday. There are four or five trading weeks each period.
+> See also [period](p.md#period).
+
+#### Week (working)
+A Tesco working week runs from Sunday to Saturday. All hours scheduling is done by working week.
+> Also known as WSS week.
+
 #### Weekly range-change report
 An update to tell stores about new and discontinued products and range reductions.
 
@@ -39,6 +50,9 @@ A description of what people will see if they’re on the right track.
 
 #### What it’s gone, it’s gone
 A type of in-store promotion with limited stock.
+
+#### Whole-store scheduler (WSS)
+Online system for calculating the numbers of hours needed to complete all jobs in-store.
 
 #### Work level
 Staff, Managers, and Directors are grouped into grades from Work Level 1 to Work Level 6.
