@@ -173,7 +173,7 @@ All the Superstore groups in the South of the United Kingdom, including groups i
 A department at head office which supports our stores.
 
 #### Support store
-A store that has been identi ed as facing a different set of challenges due to:
+A store that has been identified as facing a different set of challenges due to:
 - High labour turnover
 - High absenteeism
 - High sales per square foot
