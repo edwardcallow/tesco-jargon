@@ -14,7 +14,7 @@ You can’t do business sitting on your arse. The original Tesco (internal) mott
 
 #### Year
 A Tesco year starts in the first week of March and is made up of four quarters, 12 periods and 52 weeks.
-> See also [quarter](q.md#quarter), [period](p.md#period) and [week](w.md#week).
+> See also [quarter](q.md#quarter), [period](p.md#period) and [week](w.md#week-payroll).
 
 #### Young worker
 Someone above school-leaving age but below the age of 18. Covered by Young workers policy and subject to restictions on the hours and types of work they can do. 
