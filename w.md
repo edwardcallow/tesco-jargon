@@ -41,7 +41,7 @@ The Tesco trading week runs from Monday to Sunday. There are four or five tradin
 #### Week (working)
 A Tesco working week runs from Sunday to Saturday. This is the week used for the whole-store scheduler and calculating all hours.
 > Also known as WSS week.  
-> See also [whole-store scheduler](w.md#whole-store-scheduler).
+> See also [whole-store scheduler](#whole-store-scheduler-wss).
 
 #### Weekly range-change report
 An update to tell stores about new and discontinued products and range reductions.
