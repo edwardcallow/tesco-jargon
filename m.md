@@ -48,6 +48,10 @@ A planogram that shows how much of each product should go where on the shelf. Me
 #### Metro store
 A type of Tesco store that’s compact and usually on the high street. They tend to be between 4,000 and 20,000 square feet in size. They have a limited non-food range and no petrol station.
 
+#### Mismatch
+A failed price verification (and the associated report).
+> See also [price verification](p.md#price-verification).
+
 #### Mobile stock control (MSC)
 A system which allows you to view or action processes from a handheld device anywhere in a store for departments such as stock control and price integrity.
 
