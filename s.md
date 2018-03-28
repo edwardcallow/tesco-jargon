@@ -14,7 +14,7 @@ The trolley used to help Customer Delivery Assistants transport shopping from th
 
 #### Safe and legal record
 A document with daily checks to keep stores safe and legal. In Express stores this is known as the Express store log book. This contains all the safe and legal plus operational checks.
-> See also (Express store log book)[e.md#express-store-log-book].
+> See also [Express store log book](e.md#express-store-log-book).
 
 #### Safe hands
 When someone is temporarily appointed to a position to help with their development.
