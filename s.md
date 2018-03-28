@@ -98,6 +98,10 @@ When stock is removed from an order at depot that is too big to handle, to make 
 #### Space and merchandising system
 This system details all fixtures and space in store and what product groups are in them.
 
+#### Staff reception
+Area by the staff and visitor entrance in large stores, rarely used as entrance in the day. Often used to store handheld computers and the colleague shop. 
+> See also [colleague shop](c.md#colleague-shop).
+
 #### Staff-reception buzzer
 Button at staff reception in large stores to trigger an automated announcement over the tannoy: ‘there is a caller at staff reception, please attend’.
 
