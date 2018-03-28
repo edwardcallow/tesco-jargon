@@ -30,6 +30,10 @@ A shelving fixture at the end of an aisle used mainly to display promotions.
 #### Good, better, best
 The way we merchandise our stock.
 
+#### Goodwill
+A payment made to customers when a product or service falls short of expectations. Decision made at store level.
+> Also known as GOGW.
+
 #### Grocery
 A term used to describe products that don’t require refrigeration or freezing, or the department where these products are held. For example, crisps and biscuits are grocery products.
 > Previously known as ambient.
