@@ -62,10 +62,10 @@ This scheme rewards all eligible employees with free Tesco shares based on their
 
 #### Shelf capacity
 The volume of stock on the shelf calculated by multiplying the number of products wide, high and deep.
-> Previously known as cube.
+> Previously known as cube and job 27.
 
 #### Shelf-edge label (SEL)
-The label on the shelf edge showing the Tesco Product Number, the number of products across the shelf, the price, the description and the European Article Number.
+The label on the shelf edge showing the Tesco product number, the number of products across the shelf, the price, the description and the European Article Number.
 
 #### Shelf-identifying shelf-edge label (SISEL)
 The label on the shelf edge that shows the number of the shelving unit and the letter of the shelf. Usually given in the format 04L12A, meaning aisle 4 on the left, mod 12, shelf A. Uses include identifying product location for Dotcom and stock control.
