@@ -98,6 +98,9 @@ When stock is removed from an order at depot that is too big to handle, to make 
 #### Space and merchandising system
 This system details all fixtures and space in store and what product groups are in them.
 
+#### SRTB
+Login details used by price integrity.
+
 #### Staff reception
 Area by the staff and visitor entrance in large stores, rarely used as entrance in the day. Often used to store handheld computers and the colleague shop. 
 > See also [colleague shop](c.md#colleague-shop).
@@ -115,8 +118,11 @@ The tool we use to manage our business in a balanced way. There’s a sector for
 
 The segments within each sector show our objectives. These are scored red, amber, green or blue to show how we are performing against them.
 
-#### Stock-control routines report
+#### Stock control routines report
 Report, available on G drive, detailing all routines undertaken by the stock control department.
+
+#### Stock exceptions
+PDA app for price integrity tasks including printing shelf-edge labels.
 
 #### Stock record
 The amount of stock the system believes is in a store.
