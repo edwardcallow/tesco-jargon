@@ -27,7 +27,7 @@ Team pads connect to the picking control system via a wireless radio signal, tra
 #### Tesco Direct
 Our catalogue and internet-based non-food offer, which allows customers to browse the product selection on the website or in the Direct catalogue. Customers can then place their order either online via the Tesco.com website, by phone, or at a Tesco Direct desk in selected stores.
 
-#### Tesco product number
+#### Tesco product number (TPN)
 A unique number given by Tesco to every product we sell which is shown on a label on the shelf edge.
 
 #### Tesco supplier collection
