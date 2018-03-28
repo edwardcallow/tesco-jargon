@@ -64,7 +64,7 @@ The point of time during the day when a store should be at its fullest.
 Training and working on another department to your own, most commonly checkouts, to provide support at busy periods.
 
 #### Multi-purpose computer (MPC)
-Store computer that can be used for a variety of tasks by different departments. Usually located in the confidential office, front end and shop floor.
+Store computer with applications for a variety of tasks by different departments. Usually located in the confidential office, at the front end and on the shop floor.
 
 #### MyAccount
 Self-service login details for all staff. Used to access Inform, Yammer and store apps.
