@@ -52,6 +52,9 @@ For staff these are:
 #### Everyone is welcome at Tesco
 The name we give to all of our work on diversity within Tesco.
 
+#### Exceptions
+> See [stock exceptions](s.md#stock-exceptions).
+
 #### Expectations
 An agenda item at a Tesco meeting where everyone shares what they expect to get from the meeting.
 
