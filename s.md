@@ -108,6 +108,9 @@ The tool we use to manage our business in a balanced way. There’s a sector for
 
 The segments within each sector show our objectives. These are scored red, amber, green or blue to show how we are performing against them.
 
+#### Stock-control routines report
+Report, available on G drive, detailing all routines undertaken by the stock control department.
+
 #### Stock record
 The amount of stock the system believes is in a store.
 
