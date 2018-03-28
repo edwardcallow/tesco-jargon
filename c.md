@@ -75,8 +75,11 @@ Staff discount card that entitles staff to a 10% discount when shopping at any T
 > Previously known as Privilegecard.
 
 #### Colleague room card
-*Previously known as colleague room payment card, staffroom card and cardinal card*
 A card which staff in stores can load money onto and use instead of money to buy drinks and confectionery from vending machines. Replaced the cardinal card.
+> Previously known as colleague room payment card, staffroom card and cardinal card.
+
+#### Colleague shop
+Opportunity for in-store staff to purchase end-of-life products, reduced to 1p, in the evenings. Intended to reduce food waste from stores. Usually located in staff reception.
 
 #### Combined service desk
 Type of service desk providing both customer service and tobacco kiosk. Part of the services department.
