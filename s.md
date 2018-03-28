@@ -183,7 +183,7 @@ All the Superstore groups in the South of the United Kingdom, including groups i
 
 #### Supervisor number
 Operator number for progress and back office which allows supervisor functions and authorisations to be carried out.
-> See also [progress](p.md#progress) and [back office](b.md#back-office).
+> See also [operator number](o.md#operator-number), [progress](p.md#progress) and [back office](b.md#back-office).
 
 #### Support office
 A department at head office which supports our stores.
