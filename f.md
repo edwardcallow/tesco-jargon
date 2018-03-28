@@ -23,7 +23,7 @@ An opportunity for people based at head office to work together with their colle
 > Previously known as Tesco week in store together (TWIST).
 
 #### File maintenance control (FMC)
-> See [price integrity](p.md#price-integrity-pi).
+> See [price integrity (PI)](p.md#price-integrity-pi).
 
 #### Fill from time
 The time a store should start  lling shelves from.
