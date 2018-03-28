@@ -49,6 +49,10 @@ The customer-management system used by Dotcom and Direct.
 #### Autocube
 An automated process that calculates how much stock will be held on the shelf in stores.
 
+#### Authorisation to work (RP2K741)
+Form visiting contractors must complete, and have signed by a member of staff, whenever they start working on Tesco propery. Used to decide if a permit to work must also be completed.
+> See also [permit to work (PR2K740](p.md#permit-to-work-rp2k740).
+
 #### Availability
 Measure of whether a customer can buy a product.
 
