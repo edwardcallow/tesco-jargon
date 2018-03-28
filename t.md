@@ -13,6 +13,9 @@ This is one of the key themes of the leadership framework. It’s all about work
 #### Talent planning
 The Tesco process for succession and career planning, which includes forecasting the number of people we will need in the future, and individual career discussions for our people.
 
+#### Tannoy
+Public-address system installed in stores to allow announcements to be made to the shop floor.
+
 #### Team 5
 A five-minute briefing for staff comprising important information on the department, the store/depot and Tesco.
 
