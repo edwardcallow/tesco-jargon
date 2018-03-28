@@ -28,7 +28,7 @@ Retail excellence at customer’s home handheld device. A type of PDA, used in D
 Fork-lift truck.
 
 #### Recycling unit
-Area at a depot where we recycle plastic and cardboard, and clean trays.
+Area at a depot where we recycle plastic, cardboard and clean trays.
 > Previously known as RSU.
 
 #### Reduction
