@@ -7,7 +7,7 @@ Search this page by pressing Ctrl+F on Windows, ⌘+F on Mac, or choosing ‘fin
 ## F is for…
 
 #### Face-up
-The process of bringing products to the front of the shelf in order to display them better. Stores will also do this when there is insuf cient product to fill the shelf front to back. Product labels should all face the front so customers can read them easily.
+The process of bringing products to the front of the shelf in order to display them better. Stores will also do this when there is insufficient stock to fill the shelf front to back. Product labels should all face the front so customers can read them easily.
 
 #### Facing
 The number of identical products placed next to each other at the front of a shelf, facing toward the customer.
