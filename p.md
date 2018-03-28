@@ -105,7 +105,7 @@ A guide to where point of sale goes in store.
 
 #### Potential reductions
 A routine on Fresh Food to identify products with a short code life so they can be reduced in price.
-> Previously known as job 14.
+> Previously known as job 14 and potentials.
 
 #### Power aisle
 An aisle which is at the front of a store which is filled with seasonal promotional product which could include any products from the store range.
