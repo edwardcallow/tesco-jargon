@@ -106,6 +106,9 @@ Trunked deliveries that are delivered on time, expressed as a percentage.
 #### Trunking station
 A warehouse that sorts cages sent from a national depot to send out to stores (see under Trunk), and also handles merchandisable units.
 
+#### TTS
+Tesco technical support. Helpline available to support customers with electrical products.
+
 #### Turnaround time
 The time it takes to unload stock from a delivery lorry and then reload the delivery lorry with empty cages and/or recycling.
 
