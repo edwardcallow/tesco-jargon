@@ -75,7 +75,7 @@ A routine to rotate products to ensure the products with the shortest time until
 > See [recycling unit](r.md#recycling-unit).
 
 #### Rumble
-Where everyone in the store comes together for about an hour to get the store fit for the evening trade. During a Rumble staff:
+Where everyone in the store comes together for about an hour to get the store fit for the evening trade. During a rumble, staff:
 - Level out stock on the shelves and remove cardboard trays
 - Pull products forward on top and bottom shelves, so customers can see and reach them
 - Target fill any major gaps on the shelves
