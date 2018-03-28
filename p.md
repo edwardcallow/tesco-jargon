@@ -98,7 +98,7 @@ Vacuum tube system for transporting cash and items to the cash office via pod co
 Posters, display material and labels which give information on an event or promotion.
 
 #### Point of sale brochure (POS brochure)
-A guide to where point of sale goes in store.
+A weekly guide to which point of sale is allowed, and where it goes in store.
 
 #### Policies for our people (PFOP)
 > See [people policies](#people-policies).
