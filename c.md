@@ -71,7 +71,7 @@ The system used for ordering products that are used by stores but not sold to cu
 A strip of plastic which hooks on to a shelf to display things customers wouldn’t buy unless they saw it. For example a potato peeler displayed next to potatoes.
 
 #### Clocking card
-> See [Time and attendance](t.md#time-and-attendance).
+> See [time and attendance](t.md#time-and-attendance).
 
 #### Code 10
 A situation when any department in a store (or petrol filling station) is unable to serve customers for any reason, including power cuts and natural disasters.
