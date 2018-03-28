@@ -14,7 +14,7 @@ Search this page by pressing Ctrl+F on Windows, ⌘+F on Mac, or choosing ‘fin
 > See [warehouse](w.md#warehouse).
 
 #### Back-gate buzzer
-Button at the back gate in large stores to trigger an automated announcement over the tannoy: ‘There is a caller at the back gate, please attend.
+Button at the back gate in large stores to trigger an automated announcement over the tannoy: ‘there is a caller at the back gate, please attend’.
 
 #### Back office
 A system used in-store, for example, to download price changes, or to view what’s happening on the checkout operation.
