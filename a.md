@@ -43,6 +43,9 @@ Putting together an order for a store in depots.
 #### Assisted order point (AOP)
 A till screen at Tesco Direct desks and operated by Customer Assistants which enables customers to place, pay for and collect their orders.
 
+#### ATG
+The customer-management system used by Dotcom and Direct.
+
 #### Autocube
 An automated process that calculates how much stock will be held on the shelf in stores.
 
