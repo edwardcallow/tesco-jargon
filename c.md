@@ -55,6 +55,9 @@ Third-party companies who run some of our cafés on behalf of Tesco. These are t
 #### Central labour planning
 > See [warehouse labour planning](w.md#warehouse-labour-planning).
 
+#### Checkout Team Support (CTS)
+> See [Team Support](t.md#team-support).
+
 #### Click to Order (C2O)
 The system used for ordering products that are used by stores but not sold to customers, for example, stationery and food wrapping.
 
