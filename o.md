@@ -6,6 +6,9 @@ Search this page by pressing Ctrl+F on Windows, ⌘+F on Mac, or choosing ‘fin
 
 ## O is for…
 
+#### OBF
+Order by phone. Service allowing customers to order Direct products over the phone.
+
 #### Off-fixture display (OFD)
 A display that stands alone away from a fixture, usually made from cardboard and used to highlight promotions.
 
