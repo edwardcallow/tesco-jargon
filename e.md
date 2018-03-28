@@ -24,6 +24,9 @@ A skill taught in a Tesco training session to help people understand reactions t
 #### Employee networks
 Colleagues who have a common interest and who get together to find out information. For example, share knowledge and experience to benefit the individual and the business.
 
+#### End of…
+Series of processes to be completed at the end of a given time period. Commonly end of day (EOD), week (EOW), period (EOP) and year (EOY).
+
 #### Essential clothing
 Clothing including men’s, women’s and kids’ socks, hosiery, nightwear, kids’ vests, underwear, bras, briefs and baby basics.
 
