@@ -166,7 +166,7 @@ The goods sold by Tesco.
 Products we can’t ever run out of because we sell the greatest number of them and they are the most important products to our customers.
 > Previously know as best sellers.
 
-#### Progress ![Checkouts](assets/images/tags/checkouts.png)
+#### Progress ![Checkouts](assets/images/tag-checkouts.png)
 The electronic checkout system which is the software that runs the checkouts.
 
 #### Promotion
