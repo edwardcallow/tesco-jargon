@@ -9,14 +9,14 @@ Search this page by pressing Ctrl+F on Windows, ⌘+F on Mac, or choosing ‘fin
 #### Paired counts
 When you add together the count of a product on the shop floor with the count of a product in the Warehouse.
 
-#### Pallet delivery
+#### Pallet delivery ![Distribution](assets/images/tag-distribution.png)
 A product delivered as a full pallet to reduce unnecessary handling to a cage.
 > Previously known as pallet pick or S dock.
 
-#### Paperless goods in
+#### Paperless goods in ![Distribution](assets/images/tag-distribution.png)
 The system that automatically allocates work to the goods in team at a depot.
 
-#### Paperless picking
+#### Paperless picking ![Distribution](assets/images/tag-distribution.png)
 An electronic system used instead of paper labels when assembling and loading store orders.
 
 #### Paragon ![Dotcom](assets/images/tag-dotcom.png)
@@ -69,11 +69,11 @@ A plan that shows someone’s development objectives, the actions to achieve the
 #### Personal Shopper ![Dotcom](assets/images/tag-dotcom.png)
 The member of staff responsible for selecting and packing grocery products for Dotcom customers before delivery.
 
-#### Picker (Assembler)
+#### Picker (Assembler) ![Distribution](assets/images/tag-distribution.png)
 Warehouse person who puts together the order to be delivered to a store.
 
 #### Picking control system ![Dotcom](assets/images/tag-dotcom.png)
-The desktop computer in the Dotcom department, which controls the collation, picking and processing of customers’ orders.
+The desktop computer in the Dotcom department which controls the collation, picking and processing of customers’ orders.
 
 #### Picking list ![Dotcom](assets/images/tag-dotcom.png)
 The list of Dotcom groceries for one Personal Shopper to pick. Each list can contain products for a number of customers.
@@ -81,10 +81,10 @@ The list of Dotcom groceries for one Personal Shopper to pick. Each list can con
 #### Picking sequence snake ![Dotcom](assets/images/tag-dotcom.png)
 The method of loading a Dotcom van in a snake-like pattern, which ensures that weight is evenly distributed and the trays for the first customer deliveries are the easiest to access.
 
-#### Pick by line (PBL)
+#### Pick by line (PBL) ![Distribution](assets/images/tag-distribution.png)
 > See [stockless depot](s.md#stockless-depot).
 
-#### Pick by store (PBS)
+#### Pick by store (PBS) ![Distribution](assets/images/tag-distribution.png)
 > See [stocked depot](s.md#stocked-depot).
 
 #### Pick rate ![Dotcom](assets/images/tag-dotcom.png)
@@ -130,10 +130,10 @@ A store in an area where customers are more conscious of what they spend.
 #### Price verification
 A price integrity routine that checks all prices on all labels match the price of the product when it is put through the checkout. This will ensure that our labels comply with the law.
 
-#### Primary distribution
+#### Primary distribution ![Distribution](assets/images/tag-distribution.png)
 The Tesco management of the distribution of products from suppliers and factories to Tesco depots.
 
-#### Priority fill list
+#### Priority fill list ![Distribution](assets/images/tag-distribution.png)
 The list of all products shown as out of stock, that are on a delivery, and should be filled straight away.
 
 #### Privilegecard
