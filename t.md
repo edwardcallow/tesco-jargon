@@ -58,10 +58,10 @@ The system that records clockings by T&A cards in stores and depots.
 #### Tip ‘n’ fill
 Where everyone helps warehouse staff unload full cages and reload empty cages to cut down the time it takes to receive a delivery.
 
-#### Think 25
+#### Think 25 ![Checkouts](assets/images/tag-checkouts.png)
 Government-backed policy that staff should ask all customers for ID when they are buying age restricted products, if they look under 25.
 
-#### TL menu
+#### TL menu ![Checkouts](assets/images/tag-checkouts.png)
 Soft-key option on progress tills to access additional functions and the supervisor menu.
 > See also [progress](p.md#progress).
 
