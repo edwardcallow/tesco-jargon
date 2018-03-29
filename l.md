@@ -29,7 +29,7 @@ The distribution directors.
 #### Lifestyle break
 One of Tesco’s flexible working options open to staff with a minimum of one year’s service. A lifestyle break is between 4-12 weeks. The reason for this may include holidays over 4 weeks, voluntary work, study leave, personal matter or religious pilgrimage. A lifestyle break does not affect employment status.
 
-#### Like for like
+#### Like for like (LFL)
 Data compared to the same time as last year. For example like-for-like sales is the increase in sales compared to same time in the previous year, excluding new store openings.
 
 #### Lines
