@@ -46,7 +46,7 @@ When Tesco vehicles collect loads from a supplier on their way back to the depot
 > Previously known as Backhaul.
 
 #### Tesco week in store together (TWIST)
-> See [feet on the floor](f.md#feet-on-the-floor).
+> See [feet on the floor (FOTF)](f.md#feet-on-the-floor-fotf).
 
 #### Tesco week numbers
 > See [week](w.md#week-payroll).
