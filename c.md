@@ -64,7 +64,7 @@ Third-party companies who run some of our cafés on behalf of Tesco. These are t
 #### Chiller
 Fancy word for a big fridge.
 
-#### Click and collect (C+C) ![Dotcom](assets/images/tag-dotcom.png)
+#### Click and collect (C+C) ![Direct](assets/images/tag-direct.png) ![Dotcom](assets/images/tag-dotcom.png)
 Service allowing Dotcom and Direct customers to order products online and then collect them in-store.
 
 #### Click to Order (C2O)
@@ -74,7 +74,7 @@ The system used for ordering products that are used by stores but not sold to cu
 A strip of plastic which hooks on to a shelf to display things customers wouldn’t buy unless they saw it. For example a potato peeler displayed next to potatoes.
 
 #### Clocking card
-> See [time and attendance](t.md#time-and-attendance).
+> See [T&A card](t.md#ta-card).
 
 #### Code 10
 A situation when any department in a store (or petrol filling station) is unable to serve customers for any reason, including power cuts and natural disasters.
