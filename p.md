@@ -96,10 +96,10 @@ A skill taught in a Tesco training session to ensure work is completed effective
 #### Plant bread
 Pre-packed bread and cakes supplied direct from a supplier.
 
-#### Pod
+#### Pod ![Checkouts](assets/images/tag-checkouts.png)
 Container for securely transfering cash and items to the cash office from the front end. 
 
-#### Pod shute
+#### Pod shute ![Checkouts](assets/images/tag-checkouts.png)
 Vacuum tube system for transporting cash and items to the cash office via pod containers.
 
 #### Point of sale (POS)
