@@ -35,13 +35,13 @@ Team pads connect to the picking control system via a wireless radio signal, tra
 Job role in checkouts and dotcom with additional responsibilities. A Team Support should take decisions around routine things on their department, escalating non-routine things they can’t deal with to a manager.
 > Previously known as Team Leader (TL).
 
-#### Tesco Direct
+#### Tesco Direct  ![Direct](assets/images/tag-direct.png)
 Our catalogue and internet-based non-food offer, which allows customers to browse the product selection on the website or in the Direct catalogue. Customers can then place their order either online via the Tesco.com website, by phone, or at a Tesco Direct desk in selected stores.
 
 #### Tesco product number (TPN)
 A unique number given by Tesco to every product we sell which is shown on a label on the shelf edge.
 
-#### Tesco supplier collection
+#### Tesco supplier collection ![Distribution](assets/images/tag-distribution.png)
 When Tesco vehicles collect loads from a supplier on their way back to the depot.
 > Previously known as Backhaul.
 
@@ -55,7 +55,7 @@ When Tesco vehicles collect loads from a supplier on their way back to the depot
 The system that records clockings by T&A cards in stores and depots.
 > Also known as Tesco T&A.
 
-#### Tip ‘n’ fill
+#### Tip ‘n’ fill ![Distribution](assets/images/tag-distribution.png)
 Where everyone helps warehouse staff unload full cages and reload empty cages to cut down the time it takes to receive a delivery.
 
 #### Think 25 ![Checkouts](assets/images/tag-checkouts.png)
@@ -65,16 +65,16 @@ Government-backed policy that staff should ask all customers for ID when they ar
 Soft-key option on progress tills (now labeled ‘Menu’) to access additional functions and the supervisor menu.
 > See also [progress](p.md#progress).
 
-#### Top-up
+#### Top-up ![Distribution](assets/images/tag-distribution.png)
 A smaller delivery received during the day for stores to top up its shelves with the products it needs to keep in stock until the next main fill.
 
 #### Town meeting
 A conference that brings all Tesco senior managers together for a business update. Usually once a year in May.
 
 #### TPXid
-Universal login details for managers which also acts as an email address.
+Universal login details for managers which also act as an email address.
 
-#### Tractor unit
+#### Tractor unit ![Distribution](assets/images/tag-distribution.png)
 The front of a lorry which tows the trailer.
 
 #### Trade driver
@@ -91,31 +91,31 @@ A manager in-store accountable for a particular area or timeframe, for example n
 The “know your stuff” framework for training in Tesco split into bronze, silver and gold levels.
 > See also [know your stuff (KYS)](k.md#know-your-stuff-kys).
 
-#### Transport Planning (team)
+#### Transport Planning (team) ![Distribution](assets/images/tag-distribution.png)
 The team that centrally plans the vehicle movements and deliveries to stores.
 > Previously known as Regional Planning (team) and National Planning (team).
 
 #### Transport-planning system ![Dotcom](assets/images/tag-dotcom.png)
-A Dotcom software system, which calculates the best route schedule for the customer orders for a shift. The system takes into account the distance between deliveries, the customer’s selected time slot, Customer Delivery Assistant breaks and the weight of orders.
+A Dotcom software system, which calculates the best route schedule for the customer orders for a shift. The system takes into account the distance between deliveries, the customer’s selected time slot, Customer Delivery Driver breaks and the weight of orders.
 > Previously known as paragon.
 
 #### Tri-optic scanners
 Scanners on checkouts which read barcodes from all sides.
 
-#### Trunk
+#### Trunk ![Distribution](assets/images/tag-distribution.png)
 Stock sent from a national depot (which holds slower moving products centrally) to a regional depot (which holds faster moving products and is nearer to stores) to be sorted and sent out to stores.
 
-#### Trunk on-time
+#### Trunk on-time ![Distribution](assets/images/tag-distribution.png)
 Trunked deliveries that are delivered on time, expressed as a percentage.
 
-#### Trunking station
+#### Trunking station ![Distribution](assets/images/tag-distribution.png)
 A warehouse that sorts cages sent from a national depot to send out to stores (see under Trunk), and also handles merchandisable units.
 
 #### TTS
 Tesco technical support. Helpline available to support customers with electrical products.
 
-#### Turnaround time
+#### Turnaround time ![Distribution](assets/images/tag-distribution.png)
 The time it takes to unload stock from a delivery lorry and then reload the delivery lorry with empty cages and/or recycling.
 
-#### Twice-daily delivery
+#### Twice-daily delivery ![Distribution](assets/images/tag-distribution.png)
 Stores with a twice daily delivery frequency get a delivery for a fill-up and a delivery for top-up.
