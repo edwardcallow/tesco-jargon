@@ -10,21 +10,21 @@ Search this page by pressing Ctrl+F on Windows, ⌘+F on Mac, or choosing ‘fin
 A storage area for products in-store, away from the shop floor.
 > Previously known as backroom.
 
-#### Warehouse labour planning
+#### Warehouse labour planning ![Distribution](assets/images/tag-distribution.png)
 The central planning of our people to ensure depots have the right number of people at work at the right time.
 > Previously known as central labour planning.
 
-#### Warehouse Manager
+#### Warehouse Manager ![Distribution](assets/images/tag-distribution.png)
 The manager of a team of people and the associated systems and processes within a shift in a depot.
 > Previously known as Warehouse Team Manager (WTM).
 
-#### Warehouse Shift Manager
+#### Warehouse Shift Manager ![Distribution](assets/images/tag-distribution.png)
 > See [Shift Manager](s.md#shift-manager).
 
-#### Warehouse Team Manager (WTM)
+#### Warehouse Team Manager (WTM) ![Distribution](assets/images/tag-distribution.png)
 > See [Warehouse Manager](#warehouse-manager).
 
-#### Wastage rounding
+#### Wastage rounding ![Distribution](assets/images/tag-distribution.png)
 This is the process which removes cases from a store’s order where more of that case than the allowed amount would go to waste.
 
 #### Waste
@@ -49,7 +49,7 @@ An update to tell stores about new and discontinued products and range reduction
 #### What good looks like (WGLL)
 A description of what people will see if they’re on the right track.
 
-#### What it’s gone, it’s gone
+#### When it’s gone, it’s gone
 A type of in-store promotion with limited stock.
 
 #### Whole-store scheduler (WSS)
@@ -58,7 +58,7 @@ Online system for calculating the numbers of hours needed to complete all jobs i
 #### Work level
 Staff, Managers, and Directors are grouped into grades from Work Level 1 to Work Level 6.
 
-#### Workflow
+#### Workflow ![Distribution](assets/images/tag-distribution.png)
 > See [paperless goods in](p.md#paperless-goods-in).
 
 #### Workplan
