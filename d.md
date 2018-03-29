@@ -27,7 +27,7 @@ Unloading empty cages from a trailer at the depot.
 #### Delivery on time (DOT)
 Stock deliveries on time at a store, expressed as a percentage.
 
-#### Delivery without bags
+#### Delivery without bags ![Dotcom](assets/images/tag-dotcom.png)
 Dotcom customers can choose to receive their shopping without carrier bags. Customers who opt-in have their order packed directly into green trays.
 
 #### Demand time
@@ -81,14 +81,14 @@ A base on wheels used to transport trays of stock.
 #### DOT
 > See [delivery on time (DOT)](#delivery-on-time-dot).
 
-#### Dotcom
+#### Dotcom ![Dotcom](assets/images/tag-dotcom.png)
 The part of the business where customers order their groceries on the internet through the Tesco website. Selected Tesco stores have Dotcom departments where staff pick these orders from the shop floor and then deliver them to customers. Dotcom departments now also deliver some Tesco Direct (non-food) orders, where the customer has selected the option of having their shopping delivered in a two hour window.
 > Also known as grocery home shopping (GHS).
 
-#### Dotcom-only store
+#### Dotcom-only store ![Dotcom](assets/images/tag-dotcom.png)
 > See [customer fulfilment centre (CFC)](c.md#customer-fulfilment-centre-cfc).
 
-#### Dotcom Team Support (DTS)
+#### Dotcom Team Support (DTS) ![Dotcom](assets/images/tag-dotcom.png)
 > See [Team Support](t.md#team-support).
 
 #### Double decker
@@ -103,7 +103,7 @@ Disability Rights Commission. A government body responsible for investigating an
 #### Driver-controlled delivery
 Where a petrol tanker driver delivers fuel without the need for Tesco supervision.
 
-#### Drop rate
+#### Drop rate ![Dotcom](assets/images/tag-dotcom.png)
 The number of Dotcom customer orders a single van can deliver in one hour.
 
 #### Dump bin
