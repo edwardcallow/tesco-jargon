@@ -9,11 +9,11 @@ Search this page by pressing Ctrl+F on Windows, ⌘+F on Mac, or choosing ‘fin
 #### Ladder rack
 A set of shelves usually displaying our best offers attached to a promotion end or on the end of an aisle.
 
-#### Late cage
+#### Late cage ![Distribution](assets/images/tag-distribution.png)
 A cage that is arriving late at store.
 > Previously known as lost-sales cage.
 
-#### Late picks
+#### Late picks ![Distribution](assets/images/tag-distribution.png)
 > See [depot gaps](d.md#depot-gaps).
 
 #### Leadership framework
@@ -22,7 +22,7 @@ The leadership framework was developed by the board of directors to describe wha
 - Take People with You
 - Live the Values
 
-#### Leadership Team
+#### Leadership Team ![Distribution](assets/images/tag-distribution.png)
 The distribution directors.
 > Previously known as Distribution Leadership Team (DLT).
 
@@ -42,9 +42,9 @@ This is one of the key themes of the leadership framework. It’s all about your
 #### Long life
 Products with seven days or more until its ‘display until’, ‘use by’ or ‘ best before’ date, whichever is soonest.
 
-#### Lost cage
+#### Lost cage ![Distribution](assets/images/tag-distribution.png)
 A cage that is lost in the network and its whereabouts is unknown.
 > Previously known as ghost cage.
 
-#### Lost sales cage
+#### Lost sales cage ![Distribution](assets/images/tag-distribution.png)
 > See [late cage](#late-cage).
