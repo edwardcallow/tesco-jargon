@@ -19,7 +19,7 @@ The system that automatically allocates work to the goods in team at a depot.
 #### Paperless picking
 An electronic system used instead of paper labels when assembling and loading store orders.
 
-#### Paragon
+#### Paragon ![Dotcom](assets/images/tag-dotcom.png)
 > See [transport-planning system](t.md#transport-planning-system).
 
 #### Part-bake
