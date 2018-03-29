@@ -24,10 +24,10 @@ An Express site selling Esso fuel which is part of the Tesco/Esso alliance.
 #### Ambient
 > See [grocery](g.md#grocery).
 
-#### Apportionment
+#### Apportionment ![Distribution](assets/images/tag-distribution.png)
 > See [stock sharing](s.md#stock-sharing).
 
-#### Arm computer
+#### Arm computer ![Distribution](assets/images/tag-distribution.png)
 A small computer terminal worn on the arm, used in distribution to help a picker assemble a store order.
 > Previously known as AMT.
 
@@ -40,10 +40,10 @@ A skill taught in Tesco training sessions to help people focus on questioning an
 #### Assembly ![Distribution](assets/images/tag-distribution.png)
 Putting together an order for a store in depots.
 
-#### Assisted order point (AOP)
+#### Assisted order point (AOP) ![Direct](assets/images/tag-direct.png)
 A till screen at Tesco Direct desks and operated by Customer Assistants which enables customers to place, pay for and collect their orders.
 
-#### ATG ![Dotcom](assets/images/tag-dotcom.png)
+#### ATG ![Direct](assets/images/tag-direct.png) ![Dotcom](assets/images/tag-dotcom.png)
 The customer-management system used by Dotcom and Direct.
 
 #### Autocube
