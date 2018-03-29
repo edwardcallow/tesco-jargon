@@ -15,10 +15,10 @@ The routine by which stores register and investigate any gap (out of stock) to e
 #### General Assistant (GA)
 > See [Customer Assistant (CA)](c.md#customer-assistant-ca).
 
-#### General Manager (GM)
+#### General Manager (GM) ![Distribution](assets/images/tag-distribution.png)
 > See [Depot Manager](d.md#depot-manager).
 
-#### Ghost cage
+#### Ghost cage ![Distribution](assets/images/tag-distribution.png)
 > See [lost cage](l.md#lost-cage).
 
 #### Give as you earn
