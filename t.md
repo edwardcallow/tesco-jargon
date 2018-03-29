@@ -23,8 +23,8 @@ Public-address system installed in stores to allow announcements to be made to t
 #### Team 5
 A five-minute briefing for staff comprising important information on the department, the store/depot and Tesco.
 
-#### Team Leader
-A Team Leader should take decisions around routine things on their departments, escalating non-routine things they can’t deal with to a manager.
+#### Team Leader (TL)
+> See [Team Support](#team-support).
 
 #### Team pad ![Dotcom](assets/images/tag-dotcom.png)
 The touch-screen computer mounted on Dotcom trolleys which lets Personal Shoppers know which products to pick. Each Team pad has a hand held scanner attached, which is used to scan the barcode on each product.  
