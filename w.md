@@ -7,7 +7,7 @@ Search this page by pressing Ctrl+F on Windows, ⌘+F on Mac, or choosing ‘fin
 ## W is for…
 
 #### Warehouse
-A storage area for products in-store. Some areas were formerly called Backrooms.
+A storage area for products in-store, away from the shop floor.
 > Previously known as backroom.
 
 #### Warehouse labour planning
