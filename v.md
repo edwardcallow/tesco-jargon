@@ -9,11 +9,11 @@ Search this page by pressing Ctrl+F on Windows, ⌘+F on Mac, or choosing ‘fin
 #### Variable service charge ![Dotcom](assets/images/tag-dotcom.png)
 The charge that customers pay to have their Dotcom groceries packed and delivered. It varies across the time of day and day of the week to spread trade evenly over the week.
 
-#### Vehicle maintenance unit
+#### Vehicle maintenance unit ![Distribution](assets/images/tag-distribution.png)
 The area of a depot where vehicles are maintained and repaired.
 > Previously known as VMU.
 
-#### Vehicle tracking system
+#### Vehicle tracking system ![Distribution](assets/images/tag-distribution.png) ![Dotcom](assets/images/tag-dotcom.png)
 Tracks vehicle movements and arrival times at store, its scheduled time, any de-briefs, driver’s movements while on route. Can also be used for urgent messages to the driver.
 > Previously known as Isotrack.
 
@@ -23,5 +23,5 @@ A product that reduces in sales due to the promotion of another similar product.
 #### Viewpoint
 The name of the Tesco staff survey.
 
-#### VMU
+#### VMU ![Distribution](assets/images/tag-distribution.png)
 > See [vehicle maintenance unit](#vehicle-maintenance-unit).
