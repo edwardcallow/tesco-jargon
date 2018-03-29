@@ -6,7 +6,7 @@ Search this page by pressing Ctrl+F on Windows, ⌘+F on Mac, or choosing ‘fin
 
 ## C is for…
 
-#### Cage
+#### Cage ![Distribution](assets/images/tag-distribution.png)
 A metal unit on wheels used to transport cases of stock. Available with two sides (two-sider), with straps, or four sides (four-sider), with gates.
 
 #### Call Mr Robinson ![Checkouts](assets/images/tag-checkouts.png)
@@ -15,7 +15,7 @@ A checkout prompt indicating that the card used may be blocked, or requires auth
 #### Capital expenditure
 Funds used to buy or upgrade physical things.
 
-#### Capping
+#### Capping ![Dotcom](assets/images/tag-dotcom.png)
 The process of temporarily restricting Dotcom delivery slots, before customers have booked them. This may be due to equipment issues, van damage, severe weather or lack of staff.
 
 #### Capping shelves
@@ -33,7 +33,7 @@ A conversation between a member of staff and their manager about where they are 
 #### Case
 A box containing a number of single products.
 
-#### Case measuring
+#### Case measuring ![Distribution](assets/images/tag-distribution.png)
 Determining the height, width, depth and weight of cases of product so they can be stored, assembled and transported safely and efficiently.
 > Previously known as Cubi scan.
 
@@ -50,19 +50,19 @@ A grouping of similar products, for example, the Frozen category.
 A grouping of stores based on sales and complexity that is used to determine Store Manager pay and benefits. Categories range from the smallest category 5 to the largest and most complex Category 10 store.
 
 #### Catering partners
-Third-party companies who run some of our cafés on behalf of Tesco. These are traditional cafés often with food and cater for Tesco staff or customers.
+Third-party companies who run some of our cafés on behalf of Tesco. These are traditional cafés, often with food, and cater for Tesco staff or customers.
 
 #### CBL
 `Definition unavailable.`
 
-#### Central labour planning
+#### Central labour planning ![Distribution](assets/images/tag-distribution.png)
 > See [warehouse labour planning](w.md#warehouse-labour-planning).
 
 #### Checkout Team Support (CTS) ![Checkouts](assets/images/tag-checkouts.png)
 > See [Team Support](t.md#team-support).
 
 #### Chiller
-Fancy word for big fridge.
+Fancy word for a big fridge.
 
 #### Click and collect (C+C) ![Dotcom](assets/images/tag-dotcom.png)
 Service allowing Dotcom and Direct customers to order products online and then collect them in-store.
@@ -140,7 +140,16 @@ The process of counting stock.
 A count the system tells you that you have to do, for example, because it has identified an error in the stock records in stores.
 
 #### Critical success factors
-The nine behaviours a Tesco leader should demonstrate: customer focus, drive, developing self/others, team working, personal integrity, analysing and decision making, managing change, managing performance and gaining commitment.
+The nine behaviours a Tesco leader should demonstrate:
+- customer focus
+- drive
+- developing self/others
+- team working
+- personal integrity
+- analysing and decision making
+- managing change
+- managing performance
+- gaining commitment.
 
 #### CSLA ![Dotcom](assets/images/tag-dotcom.png)
 Customer Service & Loyalty Assistant. Dotcom role responsible for making customers feel welcome and helping them to understand the service.
