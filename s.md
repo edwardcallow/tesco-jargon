@@ -9,8 +9,9 @@ Search this page by pressing Ctrl+F on Windows, ⌘+F on Mac, or choosing ‘fin
 #### S dock
 > See [pallet delivery](p.md#pallet-delivery).
 
-#### Sack barrow
-The trolley used to help Customer Delivery Assistants transport shopping from the van to the customer’s door.
+#### Sack barrow ![Dotcom](assets/images/tag-dotcom.png)
+The trolley used to help Customer Delivery Drivers transport shopping from the van to the customer’s door.
+> See also [Customer Delivery Driver (CDD)](c.md#customer-delivery-driver-cdd).
 
 #### Safe and legal record
 A document with daily checks to keep stores safe and legal. In Express stores this is known as the Express store log book. This contains all the safe and legal plus operational checks.
