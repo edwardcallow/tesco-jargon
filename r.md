@@ -19,9 +19,9 @@ The different products within a particular product group.
 A small team brought together to address a specific issue. The process of running a rapid action team can be learned from a Tesco training session.
 
 #### Ratio pack
-A pack which contains products of many sizes or colours which is then unpacked so that each size can be put on display and the rest kept in the warehouse. Ratio Packs are often used for clothing.
+A pack which contains products of many sizes or colours which is then unpacked so that each size can be put on display and the rest kept in the warehouse. Ratio packs are often used for clothing.
 
-#### REACH device
+#### REACH device ![Dotcom](assets/images/tag-dotcom.png)
 Retail excellence at customer’s home handheld device. A type of PDA, used in Dotcom, it displays details of a Customer Delivery Assistant’s deliveries and is signed by the customer to acknowledge receipt of their shopping.
 
 #### Reach truck
@@ -37,7 +37,7 @@ A routine to reduce the price on a product.
 #### Refresh
 A five-year refresh involves minor works to the store environment to last for five years. A 10-year refresh is a remodelling of the store to bring it up to current format layout and reopen as a new store.
 
-#### Regional Planning (team)
+#### Regional Planning (team) ![Distribution](assets/images/tag-distribution.png)
 > See [Transport Planning (team)](t.md#transport-planning-team).
 
 #### Replenishment
