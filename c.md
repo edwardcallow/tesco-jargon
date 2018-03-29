@@ -64,7 +64,7 @@ Third-party companies who run some of our cafés on behalf of Tesco. These are t
 #### Chiller
 Fancy word for big fridge.
 
-#### Click and collect (C+C)
+#### Click and collect (C+C) ![Dotcom](assets/images/tag-dotcom.png)
 Service allowing Dotcom and Direct customers to order products online and then collect them in-store.
 
 #### Click to Order (C2O)
@@ -142,7 +142,7 @@ A count the system tells you that you have to do, for example, because it has id
 #### Critical success factors
 The nine behaviours a Tesco leader should demonstrate: customer focus, drive, developing self/others, team working, personal integrity, analysing and decision making, managing change, managing performance and gaining commitment.
 
-#### CSLA
+#### CSLA ![Dotcom](assets/images/tag-dotcom.png)
 Customer Service & Loyalty Assistant. Dotcom role responsible for making customers feel welcome and helping them to understand the service.
 
 #### Cube
@@ -158,11 +158,11 @@ Job role in stores. Specialised in one department, though likely multiskilled.
 #### Customer decision tree
 The way that customers decide what they are going to buy. For example, if they are buying baked beans, they will consider different brands at different prices.
 
-#### Customer Delivery Driver (CDD)
+#### Customer Delivery Driver (CDD) ![Dotcom](assets/images/tag-dotcom.png)
 The member of staff responsible for delivering Dotcom orders to customers’ homes using Dotcom vans.
 > Previously known as Customer Delivery Assistant (CDA).
 
-#### Customer fulfilment centre (CFC)
+#### Customer fulfilment centre (CFC) ![Dotcom](assets/images/tag-dotcom.png)
 A Tesco store set up solely for picking and delivering Dotcom grocery orders and not open to in-store customers.
 > Previously known as Dotcom-only store.
 
