@@ -49,7 +49,7 @@ When Tesco vehicles collect loads from a supplier on their way back to the depot
 > See [feet on the floor](f.md#feet-on-the-floor).
 
 #### Tesco week numbers
-For accounting reasons, Tesco breaks the year into 52 or 53 weeks. These weeks are called Tesco Week numbers and start in March.
+> See [week](w.md#week-payroll).
 
 #### Time and attendance
 The system that records clockings by T&A cards in stores and depots.
