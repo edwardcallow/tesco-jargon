@@ -24,7 +24,7 @@ An Express site selling Esso fuel which is part of the Tesco/Esso alliance.
 #### Ambient
 > See [grocery](g.md#grocery).
 
-### Apportionment
+#### Apportionment
 > See [stock sharing](s.md#stock-sharing).
 
 #### Arm computer
