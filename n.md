@@ -19,6 +19,6 @@ A team of people from different departments with a stake in a particular project
 The manager of a store at night, whose main task is to replenish the shelves and get the store ready for the next day’s trade.
 > Previously known as Out of Hours Trading Manager.
 
-#### Not on file (NOF)
-A checkout prompt given when a product cannot be sold, usually because it has been withdrawn.
+#### Not on file (NOF) ![Checkouts](assets/images/tag-checkouts.png)
+A checkout prompt given when a product cannot be sold, usually because it is subject to an EPW.
 > See also [emergency product withdrawal (EPW)](e.md#emergency-product-withdrawal-epw).
