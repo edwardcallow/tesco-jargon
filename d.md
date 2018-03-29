@@ -53,6 +53,9 @@ The senior team managers in a depot.
 #### Development programme
 The schedule of refreshes, extensions and new store openings.
 
+#### Direct ![Direct](assets/images/tag-direct.png)
+> See [Tesco Direct](t.md#tesco-direct).
+
 #### Direct delivery ![Distribution](assets/images/tag-distribution.png)
 A delivery that does not come from a Tesco or agency distribution centre.
 
