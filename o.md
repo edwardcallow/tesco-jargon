@@ -6,7 +6,7 @@ Search this page by pressing Ctrl+F on Windows, ⌘+F on Mac, or choosing ‘fin
 
 ## O is for…
 
-#### OBP
+#### OBP ![Direct](assets/images/tag-direct.png)
 Order by phone. Service allowing customers to order Direct products over the phone.
 
 #### Off-fixture display (OFD)
@@ -32,7 +32,7 @@ When a product is past its ‘display until’, ‘use by’ or ‘best before�
 > See [Night Manager](n.md#night-manager).
 
 #### Out of stock (TOS)
-When a product normally available in store, isn’t available.
+When a product normally available in store isn’t available.
 
 #### Outer-case code
 A barcode, which can be scanned, on the outside of a case of products.
