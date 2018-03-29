@@ -28,7 +28,7 @@ Automatic ordering system that orders stock based on sales and stock in the stor
 #### Save as you earn
 A saving scheme, over three or five years, for staff with more than one year’s service, with an option to buy Tesco shares at a discounted rate at the end of the saving term.
 
-#### Scan as you Shop (SayS)
+#### Scan as you Shop (SayS) ![Checkouts](assets/images/tag-checkouts.png)
 Clubcard customers can pick up a handheld scanning device which allows them to scan and pack their own shopping while going around the store. They can then pay at an assisted service payment point which is purpose built for Scan as you Shop. Scan as you Shop is ideal for customers with larger trolley/bigger basket shops.
 
 #### Scan item, scan tray
@@ -53,7 +53,7 @@ A manager to whom Team Leaders and staff report.
 An electronic tag placed on high-risk items to improve security.
 > Previously known as electronic article surveillance.
 
-#### Self-service checkouts
+#### Self-service checkouts ![Checkouts](assets/images/tag-checkouts.png)
 A checkout where customers can scan their own shopping with a Customer Assistant there to help if required.
 > Previously known as assisted checkouts
 
@@ -163,7 +163,7 @@ The computerised system that automatically orders stock for stores based on the 
 A tailor-made plan for each store which identifies where products should go on a shelf.
 
 #### Store walk
-Usually carried out by the Store or Duty Manager at the start of their shift, they walk around the store looking to see how the  oor looks, for example if there are any major gaps, if all promotional material is out in the correct place, if any cleaning needs doing etc.
+Usually carried out by the Store or Duty Manager at the start of their shift, they walk around the store looking to see how the floor looks, for example if there are any major gaps, if all promotional material is out in the correct place, if any cleaning needs doing etc.
 
 #### Stores distribution
 The distribution of goods from depot to store, formerly called Secondary Distribution.
@@ -187,7 +187,7 @@ All the Superstore groups in the North of the United Kingdom, including groups i
 #### Superstores South
 All the Superstore groups in the South of the United Kingdom, including groups in England and Wales.
 
-#### Supervisor number
+#### Supervisor number ![Checkouts](assets/images/tag-checkouts.png)
 Operator number for progress tills and back office which allows supervisor functions and authorisations to be carried out.
 > See also [operator number](o.md#operator-number), [progress](p.md#progress) and [back office](b.md#back-office).
 
