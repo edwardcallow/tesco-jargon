@@ -7,7 +7,7 @@ Search this page by pressing Ctrl+F on Windows, ⌘+F on Mac, or choosing ‘fin
 ## B is for…
 
 
-#### Backhaul
+#### Backhaul ![Distribution](assets/images/tag-distribution.png)
 > See [Tesco supplier collection](t.md#tesco-supplier-collection).
 
 #### Backroom
@@ -16,7 +16,7 @@ Search this page by pressing Ctrl+F on Windows, ⌘+F on Mac, or choosing ‘fin
 #### Back-gate buzzer
 Button at the back gate in large stores to trigger an automated announcement over the tannoy: ‘there is a caller at the back gate, please attend’.
 
-#### Back office
+#### Back office ![Checkouts](assets/images/tag-checkouts.png)
 A system used in-store, for example, to download price changes, or to view what’s happening on the checkout operation.
 
 #### Basket checkout ![Checkouts](assets/images/tag-checkouts.png)
