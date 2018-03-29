@@ -17,7 +17,7 @@ A mobile computer unit that is hand-held. It is used for a variety of routines i
 #### Heat map
 Document showing the jobs, and associated number of hours, to be performed by each department in store.
 
-#### Home-delivery network
+#### Home-delivery network ![Direct](assets/images/tag-direct.png)
 The courier service used by Tesco Direct to deliver orders directly to customers’ homes.
 
 #### Homeplus store
