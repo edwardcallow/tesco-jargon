@@ -30,7 +30,7 @@ The time a store should start filling shelves from.
 > Previously known as demand time.
 
 #### Fire assembly point
-The point where all staff should assemble if there is a  re alarm.
+The point where all staff should assemble if there is a fire alarm.
 
 #### Five-star weekend
 A weekend when we expect stores to be extra busy, for example, a Bank Holiday.
