@@ -26,12 +26,12 @@ A five-minute briefing for staff comprising important information on the departm
 #### Team Leader
 A Team Leader should take decisions around routine things on their departments, escalating non-routine things they can’t deal with to a manager.
 
-#### Team pad
+#### Team pad ![Dotcom](assets/images/tag-dotcom.png)
 The touch-screen computer mounted on Dotcom trolleys which lets Personal Shoppers know which products to pick. Each Team pad has a hand held scanner attached, which is used to scan the barcode on each product.  
 Team pads connect to the picking control system via a wireless radio signal, transmitted for the Dotcom area. Each new model of team pad is distinguished by number, for example team pad 3.
 > See also [picking control system](p.md#picking-control-system).
 
-#### Team Support
+#### Team Support ![Checkouts](assets/images/tag-checkouts.png) ![Dotcom](assets/images/tag-dotcom.png)
 Job role in checkouts and dotcom with additional responsibilities. A Team Support should take decisions around routine things on their department, escalating non-routine things they can’t deal with to a manager.
 > Previously known as Team Leader (TL).
 
@@ -62,7 +62,7 @@ Where everyone helps warehouse staff unload full cages and reload empty cages to
 Government-backed policy that staff should ask all customers for ID when they are buying age restricted products, if they look under 25.
 
 #### TL menu ![Checkouts](assets/images/tag-checkouts.png)
-Soft-key option on progress tills to access additional functions and the supervisor menu.
+Soft-key option on progress tills (now labeled ‘Menu’) to access additional functions and the supervisor menu.
 > See also [progress](p.md#progress).
 
 #### Top-up
@@ -95,7 +95,7 @@ The “know your stuff” framework for training in Tesco split into bronze, sil
 The team that centrally plans the vehicle movements and deliveries to stores.
 > Previously known as Regional Planning (team) and National Planning (team).
 
-#### Transport-planning system
+#### Transport-planning system ![Dotcom](assets/images/tag-dotcom.png)
 A Dotcom software system, which calculates the best route schedule for the customer orders for a shift. The system takes into account the distance between deliveries, the customer’s selected time slot, Customer Delivery Assistant breaks and the weight of orders.
 > Previously known as paragon.
 
