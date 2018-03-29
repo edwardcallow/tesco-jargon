@@ -19,7 +19,7 @@ Button at the back gate in large stores to trigger an automated announcement ove
 #### Back office
 A system used in-store, for example, to download price changes, or to view what’s happening on the checkout operation.
 
-#### Basket checkout
+#### Basket checkout ![Checkouts](assets/images/tag-checkouts.png)
 A checkout designed for customers with fewer than 10 items of shopping, that are placed straight into a bag once they have been scanned at the checkout.
 > Previously known as express checkout.
 
