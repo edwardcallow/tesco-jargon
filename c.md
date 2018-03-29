@@ -182,5 +182,5 @@ A meeting involving customers and staff to get feedback about Tesco and a partic
 Service desk at the front of the store responsible for helping customers with queries and complaints. Part of the services department.
 > See also [combined service desk](#combined-service-desk).
 
-#### Customer service level
+#### Customer service level ![Distribution](assets/images/tag-distribution.png)
 > See [availability measure](a.md#availability-measure).
