@@ -6,14 +6,14 @@ Search this page by pressing Ctrl+F on Windows, ⌘+F on Mac, or choosing ‘fin
 
 ## A is for…
 
-#### Accident review board
+#### Accident review board ![Dotcom](assets/images/tag-dotcom.png)
 A weekly conference call when all incidents involving damage to Dotcom vans are reviewed. The review board makes a decision as to whether each incident was preventable or non-preventable and makes recommendations of appropriate action to the store.
 
 #### Achievements, benefits, concerns, do next
 An agenda that can be used for a one-to-one meeting where someone talks though their achievements, the bene ts these have brought, their concerns and the next steps.
 
-#### Advanced shipping notification
-Electronic process that noti es a depot of a delivery as it is being unloaded by the supplier.
+#### Advanced shipping notification ![Distribution](assets/images/tag-distribution.png)
+Electronic process that notifies a depot of a delivery as it is being unloaded by the supplier.
 
 #### Air traffic control (ATC)
 A weekly conference call with Store Managers, representing all formats and all parts of the country, which provides a snapshot of benefits and concerns in-store. All stores can also feed back any benefits and concerns via the Workplan and all feedback is collated in the air traffic control report. The benefit of this is that the key issues raised by stores can be addressed by the office.
@@ -37,13 +37,13 @@ The person who leads Express Operations Managers within a geographical region.
 #### Ask more than tell
 A skill taught in Tesco training sessions to help people focus on questioning and listening rather than simply telling.
 
-#### Assembly
+#### Assembly ![Distribution](assets/images/tag-distribution.png)
 Putting together an order for a store in depots.
 
 #### Assisted order point (AOP)
 A till screen at Tesco Direct desks and operated by Customer Assistants which enables customers to place, pay for and collect their orders.
 
-#### ATG
+#### ATG ![Dotcom](assets/images/tag-dotcom.png)
 The customer-management system used by Dotcom and Direct.
 
 #### Autocube
@@ -56,7 +56,7 @@ Form visiting contractors must complete, and have signed by a member of staff, t
 #### Availability
 Measure of whether a customer can buy a product.
 
-#### Availability measure
+#### Availability measure ![Distribution](assets/images/tag-distribution.png)
 Depot-to-store service level, shown as a percentage.
 > Previously known as customer service level.
 
