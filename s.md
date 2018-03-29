@@ -6,7 +6,7 @@ Search this page by pressing Ctrl+F on Windows, ⌘+F on Mac, or choosing ‘fin
 
 ## S is for…
 
-#### S dock
+#### S dock ![Distribution](assets/images/tag-distribution.png)
 > See [pallet delivery](p.md#pallet-delivery).
 
 #### Sack barrow ![Dotcom](assets/images/tag-dotcom.png)
@@ -32,13 +32,13 @@ A saving scheme, over three or five years, for staff with more than one year’s
 #### Scan as you Shop (SayS) ![Checkouts](assets/images/tag-checkouts.png)
 Clubcard customers can pick up a handheld scanning device which allows them to scan and pack their own shopping while going around the store. They can then pay at an assisted service payment point which is purpose built for Scan as you Shop. Scan as you Shop is ideal for customers with larger trolley/bigger basket shops.
 
-#### Scan item, scan tray
+#### Scan item, scan tray ![Dotcom](assets/images/tag-dotcom.png)
 The Dotcom process where Personal Shoppers scan barcodes when picking to confirm they are placing products into the correct trays on their trolleys, helping to make sure we give every customer exactly what they ordered.
 
 #### Scratch bakery
 An in-store bakery (ISB) that produces most of its products from raw ingredients.
 
-#### Secondary distribution
+#### Secondary distribution ![Distribution](assets/images/tag-distribution.png)
 > See [stores distribution](#stores-distribution).
 
 #### Seasonal event
@@ -90,10 +90,10 @@ Stock lost through theft or inaccurate stock recording. Shrinkage is the differe
 #### Shroud
 Long, padded material that wraps around a cage to maintain its temperature.
 
-#### Shunter
-Someone who works in goods out and drives a shunting unit which moves trailers around at the depot.
+#### Shunter ![Distribution](assets/images/tag-distribution.png)
+Someone who works in goods out and drives a shunting unit, which moves trailers around at the depot.
 
-#### Smoothing
+#### Smoothing ![Distribution](assets/images/tag-distribution.png)
 When stock is removed from an order at depot that is too big to handle, to make the delivery manageable.
 
 #### Space and merchandising system
@@ -132,18 +132,18 @@ The amount of stock the system believes is in a store.
 A check carried out on the amount of stock the system believes is in store against the amount of stock actually in store.
 > Previously known as book-stock accuracy routine.
 
-#### Stock sharing
+#### Stock sharing ![Distribution](assets/images/tag-distribution.png)
 The method of sharing surplus stock in a depot among stores.
 > Previously known as apportionment.
 
-#### Stocked depot
+#### Stocked depot ![Distribution](assets/images/tag-distribution.png)
 When depots put together an order for stores by store order (grocery, non-food and frozen).
 > Previously known as pick by store (PBS).
 
-#### Stocked in-store Direct
+#### Stocked in-store Direct ![Direct](assets/images/tag-direct.png)
 A project aiming to have a selection of Tesco Direct products stocked in store for immediate collection by the customer.
 
-#### Stockless depot
+#### Stockless depot ![Distribution](assets/images/tag-distribution.png)
 When depots put together an order for stores by products (fresh food depots).
 > Previously known as pick by line (PBL).
 
@@ -166,7 +166,7 @@ A tailor-made plan for each store which identifies where products should go on a
 #### Store walk
 Usually carried out by the Store or Duty Manager at the start of their shift, they walk around the store looking to see how the floor looks, for example if there are any major gaps, if all promotional material is out in the correct place, if any cleaning needs doing etc.
 
-#### Stores distribution
+#### Stores distribution ![Distribution](assets/images/tag-distribution.png)
 The distribution of goods from depot to store, formerly called Secondary Distribution.
 > Previously known as secondary distribution.
 
