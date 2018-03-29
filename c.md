@@ -9,7 +9,7 @@ Search this page by pressing Ctrl+F on Windows, ⌘+F on Mac, or choosing ‘fin
 #### Cage
 A metal unit on wheels used to transport cases of stock. Available with two sides (two-sider), with straps, or four sides (four-sider), with gates.
 
-#### Call Mr Robinson
+#### Call Mr Robinson ![Checkouts](assets/images/tag-checkouts.png)
 A checkout prompt indicating that the card used may be blocked, or requires authorisation.
 
 #### Capital expenditure
@@ -19,7 +19,7 @@ Funds used to buy or upgrade physical things.
 The process of temporarily restricting Dotcom delivery slots, before customers have booked them. This may be due to equipment issues, van damage, severe weather or lack of staff.
 
 #### Capping shelves
-Capping shelves are the shelves that sit on the top of a single shelving unit. It is the top shelf above all other shelves on which we sell no products. Often capping shelves are used to store excess items of a product that will not fit on the shelf. Stock should be placed directly above the product it relates to wherever possible.
+The shelves that sit on the top of a single shelving unit. It is the top shelf above all other shelves on which we sell no products. Often capping shelves are used to store excess items of a product that will not fit on the shelf. Stock should be placed directly above the product it relates to wherever possible.
 
 #### Cardboard display unit
 A unit that only needs the top taking off to display it on the shelves. This saves time as staff don’t have to transfer all the products on to the shelves.
@@ -58,7 +58,7 @@ Third-party companies who run some of our cafés on behalf of Tesco. These are t
 #### Central labour planning
 > See [warehouse labour planning](w.md#warehouse-labour-planning).
 
-#### Checkout Team Support (CTS)
+#### Checkout Team Support (CTS) ![Checkouts](assets/images/tag-checkouts.png)
 > See [Team Support](t.md#team-support).
 
 #### Chiller
