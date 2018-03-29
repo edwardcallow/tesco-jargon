@@ -28,14 +28,14 @@ An action plan driven from a red light on the store steering wheel that shows th
 #### Inform
 Mobile app available to all Tesco staff with a TPXid or MyAccount login to view stock location and availability in all stores.
 
-#### Information for busness (I4B)
+#### Information for business (I4B)
 The name of the system that holds performance information about stores. This can be accessed by managers via a computer to monitor and evaluate performance of their departments and overall store.
 
-#### Institute of grocery Distribution
+#### Institute of Grocery Distribution
 A measure of total Grocery market growth. Tesco out performance of the Institute of Grocery Distribution is a measure of Tesco growth minus the rest of the market.
 
 #### In-store bakery (ISB)
 The bakery department in a store which prepares its own baked goods.
 
-#### Isotrack
+#### Isotrack ![Distribution](assets/images/tag-distribution.png) ![Dotcom](assets/images/tag-dotcom.png)
 > See [vehicle tracking system](v.md#vehicle-tracking-system).
