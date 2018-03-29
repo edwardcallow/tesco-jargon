@@ -15,13 +15,13 @@ A group of Directors which meets weekly to review performance and agree next ste
 #### Unusable sales
 A system setting you can request through store order direct, to be applied to a product that will ensure orders are not based on the day’s sales. Used when sales change significantly, but were not forecasted and you do not expect this level of sales to be sustained.
 
-#### Unit of delivery (UOD)
+#### Unit of delivery (UOD) ![Distribution](assets/images/tag-distribution.png)
 For example, a cage, pallet or dolly. Also the reference number given to a unit.
 
-#### Units per driver hour
+#### Units per driver hour ![Distribution](assets/images/tag-distribution.png)
 A unit of measurement within distribution - how many units of product are delivered per hour of a driver’s time.
 
-#### Units per man hour
+#### Units per man hour ![Distribution](assets/images/tag-distribution.png)
 A unit of measurement within distribution depots - how many units of product are delivered per hour of a person at work.
 
 #### Upmarket store
