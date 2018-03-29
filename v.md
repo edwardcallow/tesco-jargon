@@ -6,7 +6,7 @@ Search this page by pressing Ctrl+F on Windows, ⌘+F on Mac, or choosing ‘fin
 
 ## V is for…
 
-#### Variable service charge
+#### Variable service charge ![Dotcom](assets/images/tag-dotcom.png)
 The charge that customers pay to have their Dotcom groceries packed and delivered. It varies across the time of day and day of the week to spread trade evenly over the week.
 
 #### Vehicle maintenance unit
@@ -14,7 +14,7 @@ The area of a depot where vehicles are maintained and repaired.
 > Previously known as VMU.
 
 #### Vehicle tracking system
-Tracks vehicle movements of arrival times at store, its scheduled time, any de-briefs, driver’s movements while on route. Can also be used for urgent messages to the driver.
+Tracks vehicle movements and arrival times at store, its scheduled time, any de-briefs, driver’s movements while on route. Can also be used for urgent messages to the driver.
 > Previously known as Isotrack.
 
 #### Victim product
