@@ -12,7 +12,7 @@ The measure, in pounds or as a percentage of sales, of products that are damaged
 #### Date code diary
 A diary that is used to record long life fresh products that are about to go out of date.
 
-#### Daventry 1 office (top floor)
+#### Daventry 1 office (top floor) ![Distribution](assets/images/tag-distribution.png)
 > See [distribution support centre](#distribution-support-centre).
 
 #### DDA
@@ -21,10 +21,10 @@ Disability Discrimination Act 1995. Legal regulations requiring equal treatment 
 #### Defined benefit
 A pension scheme, like the Tesco scheme, that pays you benefits based on your pay and how long you are in a scheme, helping you to plan for your retirement.
 
-#### De-kit
+#### De-kit ![Distribution](assets/images/tag-distribution.png)
 Unloading empty cages from a trailer at the depot.
 
-#### Delivery on time (DOT)
+#### Delivery on time (DOT) ![Distribution](assets/images/tag-distribution.png)
 Stock deliveries on time at a store, expressed as a percentage.
 
 #### Delivery without bags ![Dotcom](assets/images/tag-dotcom.png)
@@ -36,49 +36,49 @@ Dotcom customers can choose to receive their shopping without carrier bags. Cust
 #### Department key entry ![Checkouts](assets/images/tag-checkouts.png)
 Checkout proccess to charge a customer the correct price for a product, when no barcode is available, by manually entering the department and price. Only available to operators with privilege level 3.
 
-#### Depot gaps
+#### Depot gaps ![Distribution](assets/images/tag-distribution.png)
 Cages in a depot not picked for an order when they should have been.
 > Previously known as late picks and mark outs.
 
-#### Depot Manager
+#### Depot Manager ![Distribution](assets/images/tag-distribution.png)
 The manager in charge of running a depot.
 
-#### Depot rumble
+#### Depot rumble ![Distribution](assets/images/tag-distribution.png)
 Where everyone in the depot stops what they are doing to get the depot fit for the day ahead (see also “Rumble” for similar in stores).
 
-#### Depot senior team
+#### Depot senior team ![Distribution](assets/images/tag-distribution.png)
 The senior team managers in a depot.
 > Previously known as distribution centre leadership team (DCLT).
 
 #### Development programme
 The schedule of refreshes, extensions and new store openings.
 
-#### Direct delivery
+#### Direct delivery ![Distribution](assets/images/tag-distribution.png)
 A delivery that does not come from a Tesco or agency distribution centre.
 
 #### Direct to store/depot
 A way of delivering business plan activity in-store or depot following a briefing pack delivered direct to store/depot two weeks before activity starts.
 
-#### Dispatcher
+#### Dispatcher ![Dotcom](assets/images/tag-dotcom.png)
 A Dotcom process where dedicated members of staff prepare and unload trolleys and equipment for Personal Shoppers, enabling them to concentrate solely on picking orders for customers.
 
-#### Distribution centre leadership team (DCTL)
+#### Distribution centre leadership team (DCTL) ![Distribution](assets/images/tag-distribution.png)
 > See [depot senior team](d.md#depot-senior-team).
 
-#### Distribution direct
+#### Distribution direct ![Distribution](assets/images/tag-distribution.png)
 The team of people who handle store queries about distribution over the telephone. Featurenet 55999, option 9.
 
-#### Distribution leadership team (DTL)
+#### Distribution leadership team (DTL) ![Distribution](assets/images/tag-distribution.png)
 > See [leadership team](l.md#leadership-team).
 
-#### Distribution support centre
+#### Distribution support centre ![Distribution](assets/images/tag-distribution.png)
 Central office between the UK and the Hindustan Support Centre that supports the distribution network.
 > Previously known as Daventry 1 office (top floor).
 
 #### Dolly
 A base on wheels used to transport trays of stock.
 
-#### DOT
+#### DOT ![Distribution](assets/images/tag-distribution.png)
 > See [delivery on time (DOT)](#delivery-on-time-dot).
 
 #### Dotcom ![Dotcom](assets/images/tag-dotcom.png)
@@ -91,10 +91,10 @@ The part of the business where customers order their groceries on the internet t
 #### Dotcom Team Support (DTS) ![Dotcom](assets/images/tag-dotcom.png)
 > See [Team Support](t.md#team-support).
 
-#### Double decker
+#### Double decker ![Distribution](assets/images/tag-distribution.png)
 A double-decker trailer with two floors.
 
-#### Double scan
+#### Double scan ![Checkouts](assets/images/tag-checkouts.png)
 When a product is scanned more than once at the checkout, but the customer has only purchased one item.
 
 #### DRC
