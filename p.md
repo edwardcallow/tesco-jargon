@@ -14,7 +14,7 @@ A product delivered as a full pallet to reduce unnecessary handling to a cage.
 > Previously known as pallet pick or S dock.
 
 #### Paperless goods in
-The system that automatically allocates work to the Goods In team.
+The system that automatically allocates work to the goods in team at a depot.
 
 #### Paperless picking
 An electronic system used instead of paper labels when assembling and loading store orders.
@@ -36,7 +36,7 @@ Form visiting contractors must complete, and have signed by a member of staff, i
 > See also [authorisation to work (PR2K741](a.md#authorisation-to-work-rp2k741).
 
 #### Personal digital counting unit (PDCU)
-PDA pplication previously used by stock control to complete counts.
+PDA application previously used by stock control to complete counts.
 
 #### Pensions builder
 The Tesco pension scheme. You can join at any time and save, with help from Tesco, for your retirement. As soon as you join, the scheme also gives you life cover (cash, partner and children’s pensions) and ill-health cover (immediate income for life).
@@ -66,19 +66,19 @@ An additional day’s holiday that all staff are entitled to over and above thei
 #### Personal development plan (PDP)
 A plan that shows someone’s development objectives, the actions to achieve them and the measure and target.
 
-#### Personal Shopper
+#### Personal Shopper ![Dotcom](assets/images/tag-dotcom.png)
 The member of staff responsible for selecting and packing grocery products for Dotcom customers before delivery.
 
 #### Picker (Assembler)
 Warehouse person who puts together the order to be delivered to a store.
 
-#### Picking control system
+#### Picking control system ![Dotcom](assets/images/tag-dotcom.png)
 The desktop computer in the Dotcom department, which controls the collation, picking and processing of customers’ orders.
 
-#### Picking list
+#### Picking list ![Dotcom](assets/images/tag-dotcom.png)
 The list of Dotcom groceries for one Personal Shopper to pick. Each list can contain products for a number of customers.
 
-#### Picking sequence snake
+#### Picking sequence snake ![Dotcom](assets/images/tag-dotcom.png)
 The method of loading a Dotcom van in a snake-like pattern, which ensures that weight is evenly distributed and the trays for the first customer deliveries are the easiest to access.
 
 #### Pick by line (PBL)
@@ -87,7 +87,7 @@ The method of loading a Dotcom van in a snake-like pattern, which ensures that w
 #### Pick by store (PBS)
 > See [stocked depot](s.md#stocked-depot).
 
-#### Pick rate
+#### Pick rate ![Dotcom](assets/images/tag-dotcom.png)
 The number of Dotcom products picked in an hour.
 
 #### Plan, do, review
