@@ -7,9 +7,8 @@ Search this page by pressing Ctrl+F on Windows, ⌘+F on Mac, or choosing ‘fin
 ## B is for…
 
 #### Backhaul
-> See [Tesco supplier collection](t.md#tesco-supplier-collection).
-
-![Distribution](assets/images/tag-distribution.png)
+> See [Tesco supplier collection](t.md#tesco-supplier-collection).  
+> ![Distribution](assets/images/tag-distribution.png)
 
 #### Backroom
 > See [warehouse](w.md#warehouse).
@@ -19,13 +18,12 @@ Button at the back gate in large stores to trigger an automated announcement ove
 
 #### Back office
 A system used in-store, for example, to download price changes, or to view what’s happening on the checkout operation.  
-![Checkouts](assets/images/tag-checkouts.png)
+> ![Checkouts](assets/images/tag-checkouts.png)
 
 #### Basket checkout
 A checkout designed for customers with fewer than 10 items of shopping, that are placed straight into a bag once they have been scanned at the checkout.
-> Previously known as express checkout.
-
-![Checkouts](assets/images/tag-checkouts.png)
+> Previously known as express checkout.  
+> ![Checkouts](assets/images/tag-checkouts.png)
 
 #### Benefits and concerns (Bs and Cs)
 An agenda item in a Tesco meeting where everyone shares what they think the benefits from the meeting were, and any concerns.
@@ -63,7 +61,7 @@ A statement showing the forecast spend on wages based on store turnover.
 
 #### Buy as you earn (BAYE)
 A scheme for staff, with three months’ service or more, to buy shares on a regular basis from their gross pay, pre-tax and national insurance.  
-![People](assets/images/tag-people.png)
+> ![People](assets/images/tag-people.png)
 
 #### BWS
 Beers, wines and spirits. An in-store department dedicated to alcoholic beverages.
