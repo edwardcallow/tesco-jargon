@@ -14,7 +14,6 @@ A diary that is used to record long life fresh products that are about to go out
 
 #### Daventry 1 office (top floor)
 > See [distribution support centre](#distribution-support-centre).
-
 ![Distribution](assets/images/tag-distribution.png)
 
 #### DDA
@@ -23,19 +22,19 @@ Disability Discrimination Act 1995. Legal regulations requiring equal treatment 
 
 #### Defined benefit
 A pension scheme, like the Tesco scheme, that pays you benefits based on your pay and how long you are in a scheme, helping you to plan for your retirement.  
-![People](assets/images/tag-people.png)
+> ![People](assets/images/tag-people.png)
 
 #### De-kit
 Unloading empty cages from a trailer at the depot.  
-![Distribution](assets/images/tag-distribution.png)
+> ![Distribution](assets/images/tag-distribution.png)
 
 #### Delivery on time (DOT)
 Stock deliveries on time at a store, expressed as a percentage.  
-![Distribution](assets/images/tag-distribution.png)
+> ![Distribution](assets/images/tag-distribution.png)
 
 #### Delivery without bags
 Dotcom customers can choose to receive their shopping without carrier bags. Customers who opt-in have their order packed directly into green trays.  
-![Dotcom](assets/images/tag-dotcom.png)
+> ![Dotcom](assets/images/tag-dotcom.png)
 
 #### Demand time
 > See [fill from time](f.md#fill-from-time).
