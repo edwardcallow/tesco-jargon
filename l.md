@@ -42,6 +42,10 @@ This is one of the key themes of the leadership framework. It’s all about your
 #### Long life
 Products with seven days or more until its ‘display until’, ‘use by’ or ‘ best before’ date, whichever is soonest.
 
+#### Loose product
+A loose product is sold by its weight, for example bannanas.
+> See also [unit of measure (UOM)](u.md#unit-of-measure-uom).
+
 #### Lost cage ![Distribution](assets/images/tag-distribution.png)
 A cage that is lost in the network and its whereabouts is unknown.
 > Previously known as ghost cage.
