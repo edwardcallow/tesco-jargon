@@ -9,7 +9,7 @@ Search this page by pressing Ctrl+F on Windows, ⌘+F on Mac, or choosing ‘fin
 #### A-%
 Absence percentage. The amount of time an employee has been absent from work over the last 26 weeks, given as a percentage of contracted hours.
 
-#### Accident review board &Tab; ![Dotcom](assets/images/tag-dotcom.png)  
+#### Accident review board ![Dotcom](assets/images/tag-dotcom.png)  
 A weekly conference call when all incidents involving damage to Dotcom vans are reviewed. The review board makes a decision as to whether each incident was preventable or non-preventable and makes recommendations of appropriate action to the store.
 
 #### Achievements, benefits, concerns, do next
@@ -31,9 +31,10 @@ An Express site selling Esso fuel which is part of the Tesco/Esso alliance.
 #### Apportionment ![Distribution](assets/images/tag-distribution.png)
 > See [stock sharing](s.md#stock-sharing).
 
-#### Arm computer ![Distribution](assets/images/tag-distribution.png)
+#### Arm computer
 A small computer terminal worn on the arm, used in distribution to help a picker assemble a store order.
 > Previously known as AMT.
+![Distribution](assets/images/tag-distribution.png)
 
 #### Area Manager
 The person who leads Express Operations Managers within a geographical region.
