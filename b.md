@@ -6,9 +6,10 @@ Search this page by pressing Ctrl+F on Windows, ⌘+F on Mac, or choosing ‘fin
 
 ## B is for…
 
-
-#### Backhaul ![Distribution](assets/images/tag-distribution.png)
+#### Backhaul
 > See [Tesco supplier collection](t.md#tesco-supplier-collection).
+
+![Distribution](assets/images/tag-distribution.png)
 
 #### Backroom
 > See [warehouse](w.md#warehouse).
@@ -16,15 +17,18 @@ Search this page by pressing Ctrl+F on Windows, ⌘+F on Mac, or choosing ‘fin
 #### Back-gate buzzer
 Button at the back gate in large stores to trigger an automated announcement over the tannoy: ‘there is a caller at the back gate, please attend’.
 
-#### Back office ![Checkouts](assets/images/tag-checkouts.png)
-A system used in-store, for example, to download price changes, or to view what’s happening on the checkout operation.
+#### Back office
+A system used in-store, for example, to download price changes, or to view what’s happening on the checkout operation.  
+![Checkouts](assets/images/tag-checkouts.png)
 
-#### Basket checkout ![Checkouts](assets/images/tag-checkouts.png)
+#### Basket checkout
 A checkout designed for customers with fewer than 10 items of shopping, that are placed straight into a bag once they have been scanned at the checkout.
 > Previously known as express checkout.
 
+![Checkouts](assets/images/tag-checkouts.png)
+
 #### Benefits and concerns (Bs and Cs)
-An agenda item in a Tesco meeting where everyone shares what they think were the benefits from the meeting and any concerns.
+An agenda item in a Tesco meeting where everyone shares what they think the benefits from the meeting were, and any concerns.
 
 #### Best sellers
 > See [products that matter most (PTMM)](p.md#products-that-matter-most-ptmm).
