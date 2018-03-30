@@ -101,7 +101,8 @@ Putting the business in the hands of our people and enabling store teams to get 
 > ![People](assets/images/tag-people.png)
 
 #### Shrinkage
-Stock lost through theft or inaccurate stock recording. Shrinkage is the difference between the system stock record and what’s actually been counted in units and the value of this in pounds.
+Unknown loss. Stock lost through theft or inaccurate stock recording. Shrinkage is the difference between the system stock record and what’s actually been counted in units and the value of this in pounds.  
+> Also known as shrink.  
 
 #### Shroud
 Long, padded material that wraps around a cage to maintain its temperature.
