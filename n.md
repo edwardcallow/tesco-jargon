@@ -16,7 +16,7 @@ A depot which contains slow moving products and products required by stores not 
 
 #### National returns centre (NRC)
 Depot most Direct returns are sent to by stores following a hardline return.
-> Also known as Saltley.
+> Also known as Saltley.  
 > ![Direct](assets/images/tag-direct.png)
 
 #### National work team
