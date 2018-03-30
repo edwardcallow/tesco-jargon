@@ -18,6 +18,9 @@ A system setting you can request through store order direct, to be applied to a 
 #### Unit of delivery (UOD) ![Distribution](assets/images/tag-distribution.png)
 For example, a cage, pallet or dolly. Also the reference number given to a unit.
 
+#### Unit of measure (UOM)
+The measurement used to price a product. Typically each (single items) or loose (by weight).
+
 #### Units per driver hour ![Distribution](assets/images/tag-distribution.png)
 A unit of measurement within distribution - how many units of product are delivered per hour of a driver’s time.
 
