@@ -27,6 +27,10 @@ The shelves that sit on the top of a single shelving unit. It is the top shelf a
 #### Cardboard display unit
 A unit that only needs the top taking off to display it on the shelves. This saves time as staff don’t have to transfer all the products on to the shelves.
 
+#### Cardinal card
+> See [colleague room card](c.md#colleague-room-card).  
+> ![People](assets/images/tag-people.png)
+
 #### Career break
 One of Tesco’s fexible working options open to staff with a minimum of two years’ service. A career break is between three months and five years. The reason for this may include bringing up a family, further education, caring for a sick relative or travelling abroad. With a career break employees are effectively resigning from the company and there is no guarantee of a job on their return.  
 > ![People](assets/images/tag-people.png)
