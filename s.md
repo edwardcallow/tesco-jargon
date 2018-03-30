@@ -74,7 +74,7 @@ The label on the shelf edge that shows the number of the shelving unit and the l
 #### Shelf talker
 A plastic holder that clips to the shelf edge to display point of sale of promotional or customer offers.
 
-#### Shift Manager
+#### Shift Manager ![Distribution](assets/images/tag-distribution.png)
 The depot duty manager responsible for all people, systems and processes across a particular time period in a depot.
 > Previously known as Warehouse Shift Manager.
 
@@ -167,7 +167,7 @@ A tailor-made plan for each store which identifies where products should go on a
 Usually carried out by the Store or Duty Manager at the start of their shift, they walk around the store looking to see how the floor looks, for example if there are any major gaps, if all promotional material is out in the correct place, if any cleaning needs doing etc.
 
 #### Stores distribution ![Distribution](assets/images/tag-distribution.png)
-The distribution of goods from depot to store, formerly called Secondary Distribution.
+The distribution of goods from depot to store.
 > Previously known as secondary distribution.
 
 #### Stores helpdesk
