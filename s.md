@@ -127,6 +127,10 @@ Area by the staff and visitor entrance in large stores, rarely used as entrance 
 #### Staff-reception buzzer
 Button at staff reception in large stores to trigger an automated announcement over the tannoy: ‘there is a caller at staff reception, please attend’.
 
+#### Staffroom card
+> See [colleague room card](c.md#colleague-room-card).  
+> ![People](assets/images/tag-people.png)
+
 #### Steering wheel
 The tool we use to manage our business in a balanced way. There’s a sector for each area of our business plan:
 – Customer
