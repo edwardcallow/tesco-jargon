@@ -43,7 +43,7 @@ The person who leads Express Operations Managers within a geographical region.
 A skill taught in Tesco training sessions to help people focus on questioning and listening rather than simply telling.
 
 #### Assembly
-Putting together an order for a store in depots.
+Putting together an order for a store in depots.  
 ![Distribution](assets/images/tag-distribution.png)
 
 #### Assisted order point (AOP) ![Direct](assets/images/tag-direct.png)
