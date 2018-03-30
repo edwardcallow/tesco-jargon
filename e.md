@@ -9,6 +9,10 @@ Search this page by pressing Ctrl+F on Windows, ⌘+F on Mac, or choosing ‘fin
 #### E-coupon
 A coupon that customers can redeem online by entering a specific code when placing their orders.
 
+#### Each product
+An each product is one sold by a single unit of itself, for example a lemon (PLU 55).
+> See also [unit of measure (UOM)](u.md#unit-of-measure-uom).
+
 #### Electronic article surveillance
 > See [security tag](s.md#security-tag).
 
