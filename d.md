@@ -13,7 +13,7 @@ The measure, in pounds or as a percentage of sales, of products that are damaged
 A diary that is used to record long life fresh products that are about to go out of date.
 
 #### Daventry 1 office (top floor)
-> See [distribution support centre](#distribution-support-centre).
+> See [distribution support centre](#distribution-support-centre).  
 ![Distribution](assets/images/tag-distribution.png)
 
 #### DDA
