@@ -9,8 +9,7 @@ Search this page by pressing Ctrl+F on Windows, ⌘+F on Mac, or choosing ‘fin
 #### A-%
 Absence percentage. The amount of time an employee has been absent from work over the last 26 weeks, given as a percentage of contracted hours.
 
-#### &Tab; Accident review board
-![Dotcom](assets/images/tag-dotcom.png)  
+#### Accident review board&Tab;![Dotcom](assets/images/tag-dotcom.png)  
 A weekly conference call when all incidents involving damage to Dotcom vans are reviewed. The review board makes a decision as to whether each incident was preventable or non-preventable and makes recommendations of appropriate action to the store.
 
 #### Achievements, benefits, concerns, do next
