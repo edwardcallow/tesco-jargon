@@ -72,6 +72,10 @@ The schedule of refreshes, extensions and new store openings.
 A delivery that does not come from a Tesco or agency distribution centre.  
 > ![Distribution](assets/images/tag-distribution.png)
 
+#### Direct till
+> See [AOP](a.md#aop).  
+> ![Direct](assets/images/tag-direct.png) 
+
 #### Direct to store/depot
 A way of delivering business plan activity in-store or depot following a briefing pack delivered direct to store/depot two weeks before activity starts.
 
