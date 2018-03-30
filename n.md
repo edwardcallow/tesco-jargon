@@ -6,15 +6,18 @@ Search this page by pressing Ctrl+F on Windows, ⌘+F on Mac, or choosing ‘fin
 
 ## N is for…
 
-#### National distribution centre ![Distribution](assets/images/tag-distribution.png)
-A depot which contains slow moving products and products required by stores not for resale, for example, carrier bags.
+#### National distribution centre
+A depot which contains slow moving products and products required by stores not for resale, for example, carrier bags.  
+> ![Distribution](assets/images/tag-distribution.png)
 
-#### National Planning (team) ![Distribution](assets/images/tag-distribution.png)
-> See [Transport Planning (team)](t.md#transport-planning-team).
+#### National Planning (team)
+> See [Transport Planning (team)](t.md#transport-planning-team).  
+> ![Distribution](assets/images/tag-distribution.png)
 
 #### National returns centre (NRC)
 Depot most Direct returns are sent to by stores following a hardline return.
 > Also known as Saltley.
+> ![Direct](assets/images/tag-direct.png)
 
 #### National work team
 A team of people from different departments with a stake in a particular project or initiative.
@@ -23,6 +26,7 @@ A team of people from different departments with a stake in a particular project
 The manager of a store at night, whose main task is to replenish the shelves and get the store ready for the next day’s trade.
 > Previously known as Out of Hours Trading Manager.
 
-#### Not on file (NOF) ![Checkouts](assets/images/tag-checkouts.png)
+#### Not on file (NOF)
 A checkout prompt given when a product cannot be sold, usually because it is subject to an EPW.
-> See also [emergency product withdrawal (EPW)](e.md#emergency-product-withdrawal-epw).
+> See also [emergency product withdrawal (EPW)](e.md#emergency-product-withdrawal-epw).  
+> ![Checkouts](assets/images/tag-checkouts.png)
