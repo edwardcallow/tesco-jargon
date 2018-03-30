@@ -6,17 +6,20 @@ Search this page by pressing Ctrl+F on Windows, ⌘+F on Mac, or choosing ‘fin
 
 ## C is for…
 
-#### Cage ![Distribution](assets/images/tag-distribution.png)
-A metal unit on wheels used to transport cases of stock. Available with two sides (two-sider), with straps, or four sides (four-sider), with gates.
+#### Cage
+A metal unit on wheels used to transport cases of stock. Available with two sides (two-sider), with straps, or four sides (four-sider), with gates.  
+![Distribution](assets/images/tag-distribution.png)
 
-#### Call Mr Robinson ![Checkouts](assets/images/tag-checkouts.png)
-A checkout prompt indicating that the card used may be blocked, or requires authorisation.
+#### Call Mr Robinson
+A checkout prompt indicating that the card used may be blocked, or requires authorisation.  
+![Checkouts](assets/images/tag-checkouts.png)
 
 #### Capital expenditure
 Funds used to buy or upgrade physical things.
 
-#### Capping ![Dotcom](assets/images/tag-dotcom.png)
-The process of temporarily restricting Dotcom delivery slots, before customers have booked them. This may be due to equipment issues, van damage, severe weather or lack of staff.
+#### Capping
+The process of temporarily restricting Dotcom delivery slots, before customers have booked them. This may be due to equipment issues, van damage, severe weather or lack of staff.  
+![Dotcom](assets/images/tag-dotcom.png)
 
 #### Capping shelves
 The shelves that sit on the top of a single shelving unit. It is the top shelf above all other shelves on which we sell no products. Often capping shelves are used to store excess items of a product that will not fit on the shelf. Stock should be placed directly above the product it relates to wherever possible.
@@ -25,17 +28,21 @@ The shelves that sit on the top of a single shelving unit. It is the top shelf a
 A unit that only needs the top taking off to display it on the shelves. This saves time as staff don’t have to transfer all the products on to the shelves.
 
 #### Career break
-One of Tesco’s fexible working options open to staff with a minimum of two years’ service. A career break is between three months and five years. The reason for this may include bringing up a family, further education, caring for a sick relative or travelling abroad. With a career break employees are effectively resigning from the company and there is no guarantee of a job on their return.
+One of Tesco’s fexible working options open to staff with a minimum of two years’ service. A career break is between three months and five years. The reason for this may include bringing up a family, further education, caring for a sick relative or travelling abroad. With a career break employees are effectively resigning from the company and there is no guarantee of a job on their return.  
+![People](assets/images/tag-people.png)
 
 #### Career discussion
-A conversation between a member of staff and their manager about where they are in their career and how they can progress.
+A conversation between a member of staff and their manager about where they are in their career and how they can progress.  
+![People](assets/images/tag-people.png)
 
 #### Case
 A box containing a number of single products.
 
-#### Case measuring ![Distribution](assets/images/tag-distribution.png)
+#### Case measuring
 Determining the height, width, depth and weight of cases of product so they can be stored, assembled and transported safely and efficiently.
 > Previously known as Cubi scan.
+
+![Distribution](assets/images/tag-distribution.png)
 
 #### Cash return on investment
 The return on a one-off cash investment calculated by dividing the cash return by the average investment.
@@ -55,17 +62,22 @@ Third-party companies who run some of our cafés on behalf of Tesco. These are t
 #### CBL
 `Definition unavailable.`
 
-#### Central labour planning ![Distribution](assets/images/tag-distribution.png)
+#### Central labour planning
 > See [warehouse labour planning](w.md#warehouse-labour-planning).
 
-#### Checkout Team Support (CTS) ![Checkouts](assets/images/tag-checkouts.png)
+![Distribution](assets/images/tag-distribution.png)
+
+#### Checkout Team Support (CTS)
 > See [Team Support](t.md#team-support).
+
+![Checkouts](assets/images/tag-checkouts.png)
 
 #### Chiller
 Fancy word for a big fridge.
 
-#### Click and collect (C+C) ![Direct](assets/images/tag-direct.png) ![Dotcom](assets/images/tag-dotcom.png)
-Service allowing Dotcom and Direct customers to order products online and then collect them in-store.
+#### Click and collect (C+C)
+Service allowing Dotcom and Direct customers to order products online and then collect them in-store.  
+![Direct](assets/images/tag-direct.png) ![Dotcom](assets/images/tag-dotcom.png)
 
 #### Click to Order (C2O)
 The system used for ordering products that are used by stores but not sold to customers, for example, stationery and food wrapping.
@@ -75,6 +87,8 @@ A strip of plastic which hooks on to a shelf to display things customers wouldn�
 
 #### Clocking card
 > See [T&A card](t.md#ta-card).
+
+![People](assets/images/tag-people.png)
 
 #### Code 10
 A situation when any department in a store (or petrol filling station) is unable to serve customers for any reason, including power cuts and natural disasters.
@@ -86,19 +100,28 @@ A company like Costa or Starbucks who run some of our cafés.
 Staff discount card that entitles staff to a 10% discount when shopping at any Tesco store in the UK or Ireland or with Tesco Direct and Tesco.com. Staff are automatically sent a Colleague Clubcard after six months’ continuous service with Tesco.
 > Previously known as Privilegecard.
 
+![People](assets/images/tag-people.png)
+
 #### Colleague room card
 A card which staff in stores can load money onto and use instead of money to buy drinks and confectionery from vending machines. Replaced the cardinal card.
 > Previously known as colleague room payment card, staffroom card and cardinal card.
 
+![People](assets/images/tag-people.png)
+
 #### Colleague shop
 Opportunity for in-store staff to purchase end-of-life products, reduced to 1p, in the evenings. Intended to reduce food waste from stores. Usually located in staff reception.
+
+![People](assets/images/tag-people.png)
 
 #### Combined service desk
 Type of service desk providing both customer service and tobacco kiosk. Part of the services department.
 > See also [customer service desk (CSD)](#customer-service-desk-csd).
 
+![People](assets/images/tag-people.png)
+
 #### Commercial
-A head office department responsible for sourcing and ensuring the quality of the products we sell
+A head office department responsible for sourcing and ensuring the quality of the products we sell.  
+![People](assets/images/tag-people.png)
 
 #### Compactor
 A piece of equipment to dispose of waste in stores and distribution which is located in the warehouse and feeds the waste into a skip outside.
@@ -116,16 +139,19 @@ Products that are used by stores, for example, stationery, till rolls and food w
 Products that most customers buy every shopping trip, including milk, tea, coffee, eggs, bread, and potatoes.
 
 #### Core skill
-A basic skill everyone in Tesco should have received training on. The core skills training involves the following: emotional cycle of change, effective meeting management, plan do review, roles and accountabilities, rapid action team, root cause analysis and problem solving/team building.
+A basic skill everyone in Tesco should have received training on. The core skills training involves the following: emotional cycle of change, effective meeting management, plan do review, roles and accountabilities, rapid action team, root cause analysis and problem solving/team building.  
+![People](assets/images/tag-people.png)
 
 #### Corporate
 Corporate should only be used as a noun to name specific departments or areas of the business, for example “Corporate Purchasing Team” or “Corporate and Legal Affairs”. Corporate should not be used as an adjective to describe things, for example a corporate way of doing things.
 
 #### Corporate Purchasing Team
-The team responsible for sourcing and buying the best goods and services (not sold to customers) at the best price.
+The team responsible for sourcing and buying the best goods and services (not sold to customers) at the best price.  
+![People](assets/images/tag-people.png)
 
 #### COSHH
-Control of substances hazardous to health. These are government regulations that require employers to assess, control and manage exposure to hazardous substances at work to control risk of injury and ill-health.
+Control of substances hazardous to health. These are government regulations that require employers to assess, control and manage exposure to hazardous substances at work to control risk of injury and ill-health.  
+![People](assets/images/tag-people.png)
 
 #### Cost-benefit analysis
 The method of measuring anticipated benefits against anticipated costs.
@@ -149,10 +175,13 @@ The nine behaviours a Tesco leader should demonstrate:
 - analysing and decision making
 - managing change
 - managing performance
-- gaining commitment.
+- gaining commitment
 
-#### CSLA ![Dotcom](assets/images/tag-dotcom.png)
-Customer Service & Loyalty Assistant. Dotcom role responsible for making customers feel welcome and helping them to understand the service.
+![People](assets/images/tag-people.png)
+
+#### CSLA
+Customer Service & Loyalty Assistant. Dotcom role responsible for making customers feel welcome and helping them to understand the service.  
+![Dotcom](assets/images/tag-dotcom.png) ![People](assets/images/tag-people.png)
 
 #### Cube
 > See [shelf capacity](s.md#shelf-capacity).
@@ -164,16 +193,22 @@ Customer Service & Loyalty Assistant. Dotcom role responsible for making custome
 Job role in stores. Specialised in one department, though likely multiskilled.
 > See also [multiskilling](m.md#multiskilling).
 
+![People](assets/images/tag-people.png)
+
 #### Customer decision tree
 The way that customers decide what they are going to buy. For example, if they are buying baked beans, they will consider different brands at different prices.
 
-#### Customer Delivery Driver (CDD) ![Dotcom](assets/images/tag-dotcom.png)
+#### Customer Delivery Driver (CDD)
 The member of staff responsible for delivering Dotcom orders to customers’ homes using Dotcom vans.
 > Previously known as Customer Delivery Assistant (CDA).
 
-#### Customer fulfilment centre (CFC) ![Dotcom](assets/images/tag-dotcom.png)
+![Dotcom](assets/images/tag-dotcom.png) ![People](assets/images/tag-people.png)
+
+#### Customer fulfilment centre (CFC)
 A Tesco store set up solely for picking and delivering Dotcom grocery orders and not open to in-store customers.
 > Previously known as Dotcom-only store.
+
+![Dotcom](assets/images/tag-dotcom.png)
 
 #### Customer question time
 A meeting involving customers and staff to get feedback about Tesco and a particular store, often prior to refurbishing a store.
@@ -181,6 +216,8 @@ A meeting involving customers and staff to get feedback about Tesco and a partic
 #### Customer service desk (CSD)
 Service desk at the front of the store responsible for helping customers with queries and complaints. Part of the services department.
 > See also [combined service desk](#combined-service-desk).
+
+![People](assets/images/tag-people.png)
 
 #### Customer service level ![Distribution](assets/images/tag-distribution.png)
 > See [availability measure](a.md#availability-measure).
