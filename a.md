@@ -33,7 +33,7 @@ An Express site selling Esso fuel which is part of the Tesco/Esso alliance.
 
 #### Arm computer
 A small computer terminal worn on the arm, used in distribution to help a picker assemble a store order.
-> Previously known as AMT.
+> Previously known as AMT.  
 ![Distribution](assets/images/tag-distribution.png)
 
 #### Area Manager
