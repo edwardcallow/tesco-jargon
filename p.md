@@ -105,8 +105,8 @@ Vacuum tube system for transporting cash and items to the cash office via pod co
 #### Point of sale (POS)
 Posters, display material and labels which give information on an event or promotion.
 
-#### Point of sale brochure (POS brochure)
-A weekly guide to which point of sale is allowed, and where it goes in store.
+#### POS brochure
+Point of sale brochure. A weekly guide to which point of sale is allowed, and where it goes in store.
 
 #### Policies for our people (PFOP)
 > See [people policies](#people-policies).
