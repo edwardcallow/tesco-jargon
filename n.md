@@ -12,6 +12,10 @@ A depot which contains slow moving products and products required by stores not 
 #### National Planning (team) ![Distribution](assets/images/tag-distribution.png)
 > See [Transport Planning (team)](t.md#transport-planning-team).
 
+#### National returns centre (NRC)
+Depot most Direct returns are sent to by stores following a hardline return.
+> Also known as Saltley.
+
 #### National work team
 A team of people from different departments with a stake in a particular project or initiative.
 
