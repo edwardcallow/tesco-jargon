@@ -9,13 +9,15 @@ Search this page by pressing Ctrl+F on Windows, ⌘+F on Mac, or choosing ‘fin
 #### A-%
 Absence percentage. The amount of time an employee has been absent from work over the last 26 weeks, given as a percentage of contracted hours.
 
-#### Accident review board ![Dotcom](assets/images/tag-dotcom.png)
+#### Accident review board
+![Dotcom](assets/images/tag-dotcom.png)  
 A weekly conference call when all incidents involving damage to Dotcom vans are reviewed. The review board makes a decision as to whether each incident was preventable or non-preventable and makes recommendations of appropriate action to the store.
 
 #### Achievements, benefits, concerns, do next
 An agenda that can be used for a one-to-one meeting where someone talks though their achievements, the bene ts these have brought, their concerns and the next steps.
 
-#### Advanced shipping notification ![Distribution](assets/images/tag-distribution.png)
+#### Advanced shipping notification
+![Distribution](assets/images/tag-distribution.png)  
 Electronic process that notifies a depot of a delivery as it is being unloaded by the supplier.
 
 #### Air traffic control (ATC)
