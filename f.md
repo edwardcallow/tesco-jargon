@@ -13,7 +13,7 @@ The process of bringing products to the front of the shelf in order to display t
 The number of identical products placed next to each other at the front of a shelf, facing toward the customer.
 
 #### F&F
-Florence and Fred. Our own-brand clothing range.
+Florence and Fred. Our own-brand clothing range, available in-store and via Direct.
 
 #### Featurenet
 The internal phone system which allows one area of the business to call another without having to dial an area code.
