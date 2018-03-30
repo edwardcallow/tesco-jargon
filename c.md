@@ -219,5 +219,7 @@ Service desk at the front of the store responsible for helping customers with qu
 
 ![People](assets/images/tag-people.png)
 
-#### Customer service level ![Distribution](assets/images/tag-distribution.png)
+#### Customer service level
 > See [availability measure](a.md#availability-measure).
+
+![Distribution](assets/images/tag-distribution.png)
