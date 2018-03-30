@@ -7,18 +7,19 @@ Search this page by pressing Ctrl+F on Windows, ⌘+F on Mac, or choosing ‘fin
 ## A is for…
 
 #### A-%
-Absence percentage. The amount of time an employee has been absent from work over the last 26 weeks, given as a percentage of contracted hours.
+Absence percentage. The amount of time an employee has been absent from work over the last 26 weeks, given as a percentage of contracted hours.  
+![People](assets/images/tag-people.png)
 
 #### Accident review board 
 A weekly conference call when all incidents involving damage to Dotcom vans are reviewed. The review board makes a decision as to whether each incident was preventable or non-preventable and makes recommendations of appropriate action to the store.  
-![Dotcom](assets/images/tag-dotcom.png) 
+![Dotcom](assets/images/tag-dotcom.png)
 
 #### Achievements, benefits, concerns, do next
 An agenda that can be used for a one-to-one meeting where someone talks though their achievements, the bene ts these have brought, their concerns and the next steps.
 
 #### Advanced shipping notification
 Electronic process that notifies a depot of a delivery as it is being unloaded by the supplier.  
-![Distribution](assets/images/tag-distribution.png)  
+![Distribution](assets/images/tag-distribution.png) 
 
 #### Air traffic control (ATC)
 A weekly conference call with Store Managers, representing all formats and all parts of the country, which provides a snapshot of benefits and concerns in-store. All stores can also feed back any benefits and concerns via the Workplan and all feedback is collated in the air traffic control report. The benefit of this is that the key issues raised by stores can be addressed by the office.
@@ -41,7 +42,8 @@ A small computer terminal worn on the arm, used in distribution to help a picker
 ![Distribution](assets/images/tag-distribution.png)
 
 #### Area Manager
-The person who leads Express Operations Managers within a geographical region.
+The person who leads Express Operations Managers within a geographical region.  
+![People](assets/images/tag-people.png)
 
 #### Ask more than tell
 A skill taught in Tesco training sessions to help people focus on questioning and listening rather than simply telling.
@@ -64,6 +66,8 @@ An automated process that calculates how much stock will be held on the shelf in
 #### Authorisation to work (RP2K741)
 Form visiting contractors must complete, and have signed by a member of staff, to sign in whenever they start working on Tesco propery. Used to decide if a permit to work must also be completed.
 > See also [permit to work (PR2K740)](p.md#permit-to-work-rp2k740).
+
+![People](assets/images/tag-people.png)
 
 #### Availability
 Measure of whether a customer can buy a product.
