@@ -8,18 +8,18 @@ Search this page by pressing Ctrl+F on Windows, ⌘+F on Mac, or choosing ‘fin
 
 #### Cage
 A metal unit on wheels used to transport cases of stock. Available with two sides (two-sider), with straps, or four sides (four-sider), with gates.  
-![Distribution](assets/images/tag-distribution.png)
+> ![Distribution](assets/images/tag-distribution.png)
 
 #### Call Mr Robinson
 A checkout prompt indicating that the card used may be blocked, or requires authorisation.  
-![Checkouts](assets/images/tag-checkouts.png)
+> ![Checkouts](assets/images/tag-checkouts.png)
 
 #### Capital expenditure
 Funds used to buy or upgrade physical things.
 
 #### Capping
 The process of temporarily restricting Dotcom delivery slots, before customers have booked them. This may be due to equipment issues, van damage, severe weather or lack of staff.  
-![Dotcom](assets/images/tag-dotcom.png)
+> ![Dotcom](assets/images/tag-dotcom.png)
 
 #### Capping shelves
 The shelves that sit on the top of a single shelving unit. It is the top shelf above all other shelves on which we sell no products. Often capping shelves are used to store excess items of a product that will not fit on the shelf. Stock should be placed directly above the product it relates to wherever possible.
@@ -29,11 +29,11 @@ A unit that only needs the top taking off to display it on the shelves. This sav
 
 #### Career break
 One of Tesco’s fexible working options open to staff with a minimum of two years’ service. A career break is between three months and five years. The reason for this may include bringing up a family, further education, caring for a sick relative or travelling abroad. With a career break employees are effectively resigning from the company and there is no guarantee of a job on their return.  
-![People](assets/images/tag-people.png)
+> ![People](assets/images/tag-people.png)
 
 #### Career discussion
 A conversation between a member of staff and their manager about where they are in their career and how they can progress.  
-![People](assets/images/tag-people.png)
+> ![People](assets/images/tag-people.png)
 
 #### Case
 A box containing a number of single products.
@@ -89,6 +89,9 @@ A strip of plastic which hooks on to a shelf to display things customers wouldn�
 > See [T&A card](t.md#ta-card).
 
 ![People](assets/images/tag-people.png)
+
+#### CMS
+Cash management system.
 
 #### Code 10
 A situation when any department in a store (or petrol filling station) is unable to serve customers for any reason, including power cuts and natural disasters.
