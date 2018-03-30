@@ -20,6 +20,7 @@ For example, a cage, pallet or dolly. Also the reference number given to a unit.
 
 #### Unit of measure (UOM)
 The measurement used to price a product. Typically each (single items) or loose (by weight).
+> See also [each product](e.md#each-product) and [loose product](l.md#loose-product).
 
 #### Units per driver hour ![Distribution](assets/images/tag-distribution.png)
 A unit of measurement within distribution - how many units of product are delivered per hour of a driver’s time.
