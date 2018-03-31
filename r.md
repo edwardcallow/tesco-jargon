@@ -52,6 +52,9 @@ A group of high level Managers who meet fortnightly to agree store layout plans.
 #### Retail-ready packaging
 Trays or display units that can be placed or wheeled straight on to the shop floor or shelf, without having to handle individual products.
 
+#### Retalix forecourt server (RFS)
+Software that runs the fuel pumps and communicates with the kiosk at petrol filling stations.
+
 #### Returns
 Products returned to a depot or a supplier by a store or products returned to store by a customer.
 
