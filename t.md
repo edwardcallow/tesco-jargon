@@ -61,6 +61,10 @@ When Tesco vehicles collect loads from a supplier on their way back to the depot
 #### Tesco week numbers
 > See [week](w.md#week-payroll).
 
+#### Till pick up
+Process to remove cash from a till cash drawer, to be sent to the cash office.
+> Also known as till lift.
+
 #### Time and attendance
 The system that records clockings by T&A cards in stores and depots.
 > Also known as Tesco T&A.  
