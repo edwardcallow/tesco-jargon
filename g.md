@@ -22,8 +22,9 @@ The routine by which stores register and investigate any gap (out of stock) to e
 #### General merchandise (GM)
 Non-food products.
 
-#### Ghost cage ![Distribution](assets/images/tag-distribution.png)
-> See [lost cage](l.md#lost-cage).
+#### Ghost cage
+> See [lost cage](l.md#lost-cage).  
+> ![Distribution](assets/images/tag-distribution.png)
 
 #### Give as you earn
 An easy and tax-free way for staff to support charities. A donation comes directly from you and HM Revenue and Customs pays the amount you would have been taxed.
