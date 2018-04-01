@@ -22,10 +22,12 @@ The process of temporarily restricting Dotcom delivery slots, before customers h
 > ![Dotcom](assets/images/tag-dotcom.png)
 
 #### Capping shelves
-The shelves that sit on the top of a single shelving unit. It is the top shelf above all other shelves on which we sell no products. Often capping shelves are used to store excess items of a product that will not fit on the shelf. Stock should be placed directly above the product it relates to wherever possible.
+The shelves that sit on the top of a single shelving unit. It is the top shelf above all other shelves on which we sell no products. Often capping shelves are used to store excess items of a product that will not fit on the shelf. Stock should be placed directly above the product it relates to wherever possible.  
+> ![Stock control](assets/images/tag-stockcontrol.png)
 
 #### Cardboard display unit
-A unit that only needs the top taking off to display it on the shelves. This saves time as staff don’t have to transfer all the products on to the shelves.
+A unit that only needs the top taking off to display it on the shelves. This saves time as staff don’t have to transfer all the products on to the shelves.  
+> ![Stock control](assets/images/tag-stockcontrol.png)
 
 #### Cardinal card
 > See [colleague room card](c.md#colleague-room-card).  
@@ -40,18 +42,19 @@ A conversation between a member of staff and their manager about where they are 
 > ![People](assets/images/tag-people.png)
 
 #### Case
-A box containing a number of single products.
+A box containing a number of single products.  
+> ![Stock control](assets/images/tag-stockcontrol.png)
 
 #### Case measuring
 Determining the height, width, depth and weight of cases of product so they can be stored, assembled and transported safely and efficiently.
 > Previously known as Cubi scan.  
-> ![Distribution](assets/images/tag-distribution.png)
+> ![Distribution](assets/images/tag-distribution.png) ![Stock control](assets/images/tag-stockcontrol.png)
 
 #### Cash return on investment
 The return on a one-off cash investment calculated by dividing the cash return by the average investment.
 
 #### Catchweight
-Prepacked item with a variable weight
+Prepacked item with a variable weight.
 
 #### Category (products)
 A grouping of similar products, for example, the Frozen category.
@@ -78,7 +81,8 @@ Third-party companies who run some of our cafés on behalf of Tesco. These are t
 > ![Checkouts](assets/images/tag-checkouts.png) ![People](assets/images/tag-people.png) 
 
 #### Chiller
-Fancy word for a big fridge.
+Fancy word for a big fridge.  
+> ![Stock control](assets/images/tag-stockcontrol.png)
 
 #### Click and collect (C+C)
 Service allowing Dotcom and Direct customers to order products online and then collect them in-store.  
@@ -88,7 +92,8 @@ Service allowing Dotcom and Direct customers to order products online and then c
 The system used for ordering products that are used by stores but not sold to customers, for example, stationery and food wrapping.
 
 #### Clip strips
-A strip of plastic which hooks on to a shelf to display things customers wouldn’t buy unless they saw it. For example a potato peeler displayed next to potatoes.
+A strip of plastic which hooks on to a shelf to display things customers wouldn’t buy unless they saw it. For example a potato peeler displayed next to potatoes.  
+> ![Stock control](assets/images/tag-stockcontrol.png)
 
 #### Clocking card
 > See [T&A card](t.md#ta-card).  
@@ -160,13 +165,16 @@ Control of substances hazardous to health. These are government regulations that
 The method of measuring anticipated benefits against anticipated costs.
 
 #### Countback
-Technique used during big seasonal events, mostly for fresh food, when you forecast how much stock you’ll need by comparing last year’s sales with this year’s predicted sales.
+Technique used during big seasonal events, mostly for fresh food, when you forecast how much stock you’ll need by comparing last year’s sales with this year’s predicted sales.  
+> ![Stock control](assets/images/tag-stockcontrol.png)
 
 #### Count
-The process of counting stock.
+The process of counting stock.  
+> ![Stock control](assets/images/tag-stockcontrol.png)
 
 #### Critical count
-A count the system tells you that you have to do, for example, because it has identified an error in the stock records in stores.
+A count the system tells you that you have to do, for example, because it has identified an error in the stock records in stores.  
+> ![Stock control](assets/images/tag-stockcontrol.png)
 
 #### Critical success factors
 The nine behaviours a Tesco leader should demonstrate:
@@ -186,10 +194,12 @@ Customer Service & Loyalty Assistant. Dotcom role responsible for making custome
 > ![Dotcom](assets/images/tag-dotcom.png) ![People](assets/images/tag-people.png)
 
 #### Cube
-> See [shelf capacity](s.md#shelf-capacity).
+> See [shelf capacity](s.md#shelf-capacity).  
+> ![Stock control](assets/images/tag-stockcontrol.png)
 
 #### Cubi scan
-> See [case measuring](c.md#case-measuring).
+> See [case measuring](c.md#case-measuring).  
+> ![Stock control](assets/images/tag-stockcontrol.png)
 
 #### Customer Assistant (CA)
 Job role in stores. Specialised in one department, though likely multiskilled.
