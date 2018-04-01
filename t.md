@@ -49,9 +49,10 @@ Our catalogue and internet-based non-food offer, which allows customers to brows
 #### Tesco product number (TPN)
 A unique number given by Tesco to every product we sell which is shown on a label on the shelf edge.
 
-#### Tesco supplier collection ![Distribution](assets/images/tag-distribution.png)
+#### Tesco supplier collection
 When Tesco vehicles collect loads from a supplier on their way back to the depot.
-> Previously known as Backhaul.
+> Previously known as Backhaul.  
+> ![Distribution](assets/images/tag-distribution.png)
 
 #### Tesco week in store together (TWIST)
 > See [feet on the floor (FOTF)](f.md#feet-on-the-floor-fotf).  
@@ -113,7 +114,7 @@ The “know your stuff” framework for training in Tesco split into bronze, sil
 #### Transport Planning (team)
 The team that centrally plans the vehicle movements and deliveries to stores.
 > Previously known as Regional Planning (team) and National Planning (team).  
-> ![Distribution](assets/images/tag-distribution.png) ![People](assets/images/tag-people.png)
+> ![Distribution](assets/images/tag-distribution.png)
 
 #### Transport-planning system
 A Dotcom software system, which calculates the best route schedule for the customer orders for a shift. The system takes into account the distance between deliveries, the customer’s selected time slot, Customer Delivery Driver breaks and the weight of orders.
