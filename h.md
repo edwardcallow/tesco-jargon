@@ -14,6 +14,9 @@ A mobile computer unit that is hand-held. It is used for a variety of routines i
 > Also known as PDA.  
 > Previously known as gun.
 
+#### Hardline
+`Definition unavailable.`
+
 #### Heat map
 Document showing the jobs, and associated number of hours, to be performed by each department in store.
 
