@@ -26,7 +26,8 @@ Additional sales resulting from trade driving activity.
 An action plan driven from a red light on the store steering wheel that shows the activity planned to get the light to green.
 
 #### Inform
-Mobile app available to all Tesco staff with a TPXid or MyAccount login to view stock location and availability in all stores.
+Mobile app available to all Tesco staff with a TPXid or MyAccount login to view stock location and availability in all stores.  
+> ![Stock control](assets/images/tag-stockcontrol.png)
 
 #### Information for business (I4B)
 The name of the system that holds performance information about stores. This can be accessed by managers via a computer to monitor and evaluate performance of their departments and overall store.
@@ -37,5 +38,6 @@ A measure of total Grocery market growth. Tesco out performance of the Institute
 #### In-store bakery (ISB)
 The bakery department in a store which prepares its own baked goods.
 
-#### Isotrack ![Distribution](assets/images/tag-distribution.png) ![Dotcom](assets/images/tag-dotcom.png)
-> See [vehicle tracking system](v.md#vehicle-tracking-system).
+#### Isotrack
+> See [vehicle tracking system](v.md#vehicle-tracking-system).  
+> ![Distribution](assets/images/tag-distribution.png) ![Dotcom](assets/images/tag-dotcom.png)
