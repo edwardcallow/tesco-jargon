@@ -4,8 +4,8 @@
 
 Welcome to the Tesco jargon buster.
 
-## Still to be defined…
-We’re still searching for a proper definition for these terms.
+## Still to be defined
+We’re still searching for a proper definition for these terms…
 
 #### CBL
 `Definition unavailable.`
