@@ -11,7 +11,8 @@ Search this page by pressing Ctrl+F on Windows, ⌘+F on Mac, or choosing ‘fin
 > ![Distribution](assets/images/tag-distribution.png)
 
 #### Backroom
-> See [warehouse](w.md#warehouse).
+> See [warehouse](w.md#warehouse).  
+> ![Stock control](assets/images/tag-stockcontrol.png)
 
 #### Back-gate buzzer
 Button at the back gate in large stores to trigger an automated announcement over the tannoy: ‘there is a caller at the back gate, please attend’.
@@ -48,7 +49,8 @@ A report that scores performance down a grading system as blue, green, amber or 
 Buy one get one free. This is Tesco terminology for a certain promotional offer.
 
 #### Book-stock accuracy routine
-> See [stock record check](s.md#stock-record-check).
+> See [stock record check](s.md#stock-record-check).  
+> ![Stock control](assets/images/tag-stockcontrol.png)
 
 #### Branch accounts reports
 Monthly budget statements showing sales, including and excluding the petrol filling station, waste, shrinkage, payroll, expenses and proft found on the information for business system.
@@ -64,4 +66,5 @@ A scheme for staff, with three months’ service or more, to buy shares on a reg
 > ![People](assets/images/tag-people.png)
 
 #### BWS
-Beers, wines and spirits. An in-store department dedicated to alcoholic beverages.
+Beers, wines and spirits. An in-store department dedicated to alcoholic beverages.  
+> ![Stock control](assets/images/tag-stockcontrol.png)
