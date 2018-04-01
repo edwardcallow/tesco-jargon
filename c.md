@@ -206,6 +206,9 @@ Job role in stores. Specialised in one department, though likely multiskilled.
 > See also [multiskilling](m.md#multiskilling).  
 > ![People](assets/images/tag-people.png)
 
+#### Customer assistant menu
+Soft-key option on progress tills (labelled `Cust. Asst. Menu`) to access common functions, such as till pick up.
+
 #### Customer decision tree
 The way that customers decide what they are going to buy. For example, if they are buying baked beans, they will consider different brands at different prices.
 
