@@ -13,20 +13,24 @@ A group of Directors which meets monthly to oversee change programmes for the bu
 A group of Directors which meets weekly to review performance and agree next steps.
 
 #### Unusable sales
-A system setting you can request through store order direct, to be applied to a product that will ensure orders are not based on the day’s sales. Used when sales change significantly, but were not forecasted and you do not expect this level of sales to be sustained.
+A system setting you can request through store order direct, to be applied to a product that will ensure orders are not based on the day’s sales. Used when sales change significantly, but were not forecasted and you do not expect this level of sales to be sustained.  
+> ![Stock control](assets/images/tag-stockcontrol.png)
 
-#### Unit of delivery (UOD) ![Distribution](assets/images/tag-distribution.png)
-For example, a cage, pallet or dolly. Also the reference number given to a unit.
+#### Unit of delivery (UOD)
+For example, a cage, pallet or dolly. Also the reference number given to a unit.  
+> ![Distribution](assets/images/tag-distribution.png)
 
 #### Unit of measure (UOM)
 The measurement used to price a product. Typically each (single items) or loose (by weight).
 > See also [each product](e.md#each-product) and [loose product](l.md#loose-product).
 
-#### Units per driver hour ![Distribution](assets/images/tag-distribution.png)
-A unit of measurement within distribution - how many units of product are delivered per hour of a driver’s time.
+#### Units per driver hour
+A unit of measurement within distribution - how many units of product are delivered per hour of a driver’s time.  
+> ![Distribution](assets/images/tag-distribution.png)
 
-#### Units per man hour ![Distribution](assets/images/tag-distribution.png)
-A unit of measurement within distribution depots - how many units of product are delivered per hour of a person at work.
+#### Units per man hour
+A unit of measurement within distribution depots - how many units of product are delivered per hour of a person at work.  
+> ![Distribution](assets/images/tag-distribution.png)
 
 #### Upmarket store
 A store in an affluent area.
