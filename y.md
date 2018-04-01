@@ -7,14 +7,17 @@ Search this page by pressing Ctrl+F on Windows, ⌘+F on Mac, or choosing ‘fin
 ## Y is for…
 
 #### Yammer
-Internal social network/forum for communication with all staff nationally. Provided by Microsoft and accessed with a TPXid or MyAccount login.
+Internal social network/forum for communication with all staff nationally. Provided by Microsoft and accessed with a TPXid or MyAccount login.   
+> ![People](assets/images/tag-people.png)
 
 #### YCDBSOYA
-You can’t do business sitting on your arse. The original Tesco (internal) motto.
+You can’t do business sitting on your arse. The original Tesco (internal) motto.   
+> ![People](assets/images/tag-people.png)
 
 #### Year
 A Tesco year starts in the first week of March and is made up of four quarters, 12 periods and 52 weeks.
 > See also [quarter](q.md#quarter), [period](p.md#period) and [week](w.md#week-payroll).
 
 #### Young worker
-Someone above school-leaving age but below the age of 18. Covered by Young workers policy and subject to restictions on the hours and types of work they can do. 
+Someone above school-leaving age but below the age of 18. Covered by Young workers policy and subject to restictions on the hours and types of work they can do.   
+> ![People](assets/images/tag-people.png)
