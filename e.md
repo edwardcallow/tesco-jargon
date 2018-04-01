@@ -11,7 +11,8 @@ A coupon that customers can redeem online by entering a specific code when placi
 
 #### Each product
 An each product is one sold by a single unit of itself, for example a lemon (PLU 55).
-> See also [unit of measure (UOM)](u.md#unit-of-measure-uom).
+> See also [unit of measure (UOM)](u.md#unit-of-measure-uom).  
+> ![Stock control](assets/images/tag-stockcontrol.png)
 
 #### Electronic article surveillance
 > See [security tag](s.md#security-tag).
@@ -20,7 +21,8 @@ An each product is one sold by a single unit of itself, for example a lemon (PLU
 A payroll document on mainframe used to report changes to basic working hours, for example adding overtime, sick days and holiday.
 
 #### Emergency product withdrawal (EPW)
-A request to remove a product from sale as quickly as possible for health and safety or legal reasons.
+A request to remove a product from sale as quickly as possible for health and safety or legal reasons.  
+> ![Stock control](assets/images/tag-stockcontrol.png)
 
 #### Emotion cycle of change
 A skill taught in a Tesco training session to help people understand reactions to change and managing resistance.
@@ -31,14 +33,18 @@ Colleagues who have a common interest and who get together to find out informati
 #### End of…
 Series of processes to be completed at the end of a given time period. Commonly end of day (EOD), week (EOW), period (EOP) and year (EOY).
 
-#### ENTS ![Direct](assets/images/tag-direct.png)
-Entertainments. A category of products available in stores and online via Tesco Direct.
+#### ENTS
+Entertainments. A category of products available in stores and online via Tesco Direct.  
+> ![Direct](assets/images/tag-direct.png) ![Stock control](assets/images/tag-stockcontrol.png)
 
 #### Essential clothing
-Clothing including men’s, women’s and kids’ socks, hosiery, nightwear, kids’ vests, underwear, bras, briefs and baby basics.
+Clothing including men’s, women’s and kids’ socks, hosiery, nightwear, kids’ vests, underwear, bras, briefs and baby basics.  
+> ![Stock control](assets/images/tag-stockcontrol.png)
 
 #### European article number (EAN)
-A unique 13-digit number allocated to each product and sometimes shown after the Tesco Product Number on a shelf edge label. It is more commonly known as a barcode number. You may hear people refer to a product’s EAN – this is the European Article Number.
+A unique 13-digit number allocated to each product and sometimes shown after the Tesco Product Number on a shelf edge label. You may hear people refer to a product’s EAN – this is the European Article Number.  
+> Also known as barcode number.  
+> ![Stock control](assets/images/tag-stockcontrol.png)
 
 #### Every little helps
 Every Little Helps is an expression of our company Values - “No one tries harder for customers” and “Treat people how they would like to be treated”. To bring Every Little Helps alive, we have created a set of promises for our customers and people.
@@ -60,7 +66,8 @@ For staff these are:
 The name we give to all of our work on diversity within Tesco.
 
 #### Exceptions
-> See [stock exceptions](s.md#stock-exceptions).
+> See [stock exceptions](s.md#stock-exceptions).  
+> ![Stock control](assets/images/tag-stockcontrol.png)
 
 #### Expectations
 An agenda item at a Tesco meeting where everyone shares what they expect to get from the meeting.
