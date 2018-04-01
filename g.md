@@ -10,7 +10,9 @@ Search this page by pressing Ctrl+F on Windows, ⌘+F on Mac, or choosing ‘fin
 Network storage area available on MPCs for sharing files between stores, depots and offices.
 
 #### Gap scan
-The routine by which stores register and investigate any gap (out of stock) to establish why it is a gap.
+The routine by which stores register and investigate any gap (out of stock) to establish why it is a gap.  
+> See also [out of stock (TOS)](o.md#out-of-stock-tos).  
+> ![Stock control](assets/images/tag-stockcontrol.png)
 
 #### General Assistant (GA)
 > See [Customer Assistant (CA)](c.md#customer-assistant-ca).
@@ -30,10 +32,12 @@ In-store department responsible for non-food products.
 An easy and tax-free way for staff to support charities. A donation comes directly from you and HM Revenue and Customs pays the amount you would have been taxed.
 
 #### Gondola end
-A shelving fixture at the end of an aisle used mainly to display promotions.
+A shelving fixture at the end of an aisle used mainly to display promotions.  
+> ![Stock control](assets/images/tag-stockcontrol.png)
 
 #### Good, better, best
-The way we merchandise our stock.
+The way we merchandise our stock.  
+> ![Stock control](assets/images/tag-stockcontrol.png)
 
 #### Goodwill
 A payment made to customers when a product or service falls short of expectations. Decision made at store level.
