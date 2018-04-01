@@ -8,35 +8,43 @@ Search this page by pressing Ctrl+F on Windows, ⌘+F on Mac, or choosing ‘fin
 
 #### T&A card
 Time and attendance card. Used to record clockings in stores and depots.
-> See also [time and attendance](#time-and-attendance).
+> See also [time and attendance](#time-and-attendance).  
+> ![People](assets/images/tag-people.png)
 
 #### Take people with you
 This is one of the key themes of the leadership framework. It’s all about working through others and communicating to others so everyone knows what needs to be done to achieve results.
-> See also [leadership framework](l.md#leadership-framework).
+> See also [leadership framework](l.md#leadership-framework).  
+> ![People](assets/images/tag-people.png)
 
 #### Talent planning
-The Tesco process for succession and career planning, which includes forecasting the number of people we will need in the future, and individual career discussions for our people.
+The Tesco process for succession and career planning, which includes forecasting the number of people we will need in the future, and individual career discussions for our people.  
+> ![People](assets/images/tag-people.png)
 
 #### Tannoy
 Public-address system installed in stores to allow announcements to be made to the shop floor.
 
 #### Team 5
-A five-minute briefing for staff comprising important information on the department, the store/depot and Tesco.
+A five-minute briefing for staff comprising important information on the department, the store/depot and Tesco.  
+> ![People](assets/images/tag-people.png)
 
 #### Team Leader (TL)
-> See [Team Support](#team-support).
+> See [Team Support](#team-support).  
+> ![People](assets/images/tag-people.png)
 
-#### Team pad ![Dotcom](assets/images/tag-dotcom.png)
+#### Team pad
 The touch-screen computer mounted on Dotcom trolleys which lets Personal Shoppers know which products to pick. Each Team pad has a hand held scanner attached, which is used to scan the barcode on each product.  
 Team pads connect to the picking control system via a wireless radio signal, transmitted for the Dotcom area. Each new model of team pad is distinguished by number, for example team pad 3.
-> See also [picking control system](p.md#picking-control-system).
+> See also [picking control system](p.md#picking-control-system).  
+> ![Dotcom](assets/images/tag-dotcom.png)
 
-#### Team Support ![Checkouts](assets/images/tag-checkouts.png) ![Dotcom](assets/images/tag-dotcom.png)
+#### Team Support
 Job role in checkouts and dotcom with additional responsibilities. A Team Support should take decisions around routine things on their department, escalating non-routine things they can’t deal with to a manager.
-> Previously known as Team Leader (TL).
+> Previously known as Team Leader (TL).    
+> ![Checkouts](assets/images/tag-checkouts.png) ![Dotcom](assets/images/tag-dotcom.png) ![People](assets/images/tag-people.png)
 
-#### Tesco Direct  ![Direct](assets/images/tag-direct.png)
-Our catalogue and internet-based non-food offer, which allows customers to browse the product selection on the website or in the Direct catalogue. Customers can then place their order either online via the Tesco.com website, by phone, or at a Tesco Direct desk in selected stores.
+#### Tesco Direct  
+Our catalogue and internet-based non-food offer, which allows customers to browse the product selection on the website or in the Direct catalogue. Customers can then place their order either online via the Tesco.com website, by phone, or at a Tesco Direct desk in selected stores.    
+> ![Direct](assets/images/tag-direct.png)
 
 #### Tesco product number (TPN)
 A unique number given by Tesco to every product we sell which is shown on a label on the shelf edge.
@@ -46,76 +54,95 @@ When Tesco vehicles collect loads from a supplier on their way back to the depot
 > Previously known as Backhaul.
 
 #### Tesco week in store together (TWIST)
-> See [feet on the floor (FOTF)](f.md#feet-on-the-floor-fotf).
+> See [feet on the floor (FOTF)](f.md#feet-on-the-floor-fotf).  
+> ![People](assets/images/tag-people.png)
 
 #### Tesco week numbers
 > See [week](w.md#week-payroll).
 
 #### Time and attendance
 The system that records clockings by T&A cards in stores and depots.
-> Also known as Tesco T&A.
+> Also known as Tesco T&A.  
+> ![People](assets/images/tag-people.png)
 
-#### Tip ‘n’ fill ![Distribution](assets/images/tag-distribution.png)
-Where everyone helps warehouse staff unload full cages and reload empty cages to cut down the time it takes to receive a delivery.
+#### Tip ‘n’ fill
+Where everyone helps warehouse staff unload full cages and reload empty cages to cut down the time it takes to receive a delivery.  
+> ![Distribution](assets/images/tag-distribution.png)
 
-#### Think 25 ![Checkouts](assets/images/tag-checkouts.png)
-Government-backed policy that staff should ask all customers for ID when they are buying age restricted products, if they look under 25.
+#### Think 25
+Government-backed policy that staff should ask all customers for ID when they are buying age restricted products, if they look under 25.  
+> ![Checkouts](assets/images/tag-checkouts.png)
 
-#### TL menu ![Checkouts](assets/images/tag-checkouts.png)
-Soft-key option on progress tills (now labeled ‘Menu’) to access additional functions and the supervisor menu.
-> See also [progress](p.md#progress).
+#### TL menu
+Soft-key option on progress tills (now `Menu`) to access price verify and the supervisor menu.
+> See also [progress](p.md#progress).  
+> ![Checkouts](assets/images/tag-checkouts.png)
 
-#### Top-up ![Distribution](assets/images/tag-distribution.png)
-A smaller delivery received during the day for stores to top up its shelves with the products it needs to keep in stock until the next main fill.
+#### Top-up
+A smaller delivery received during the day for stores to top up its shelves with the products it needs to keep in stock until the next main fill.  
+> ![Distribution](assets/images/tag-distribution.png)
 
 #### Town meeting
-A conference that brings all Tesco senior managers together for a business update. Usually once a year in May.
+A conference that brings all Tesco senior managers together for a business update. Usually once a year in May.  
+> ![People](assets/images/tag-people.png)
 
 #### TPXid
-Universal login details for managers which also act as an email address.
+Universal login details for managers which also act as an email address.  
+> ![People](assets/images/tag-people.png)
 
-#### Tractor unit ![Distribution](assets/images/tag-distribution.png)
-The front of a lorry which tows the trailer.
+#### Tractor unit
+The front of a lorry which tows the trailer.  
+> ![Distribution](assets/images/tag-distribution.png)
 
 #### Trade driver
 Promotional offer on an individual product or product area (for example, 20% off all ice creams), designed to boost sales as a reaction to something outside Tesco for example activity from a competitor store or exceptionally hot weather.
 
 #### Trade Planning Team
-The team responsible for ensuring we have
-a simple trade plan that works for customers, is simple for stores to understand and implement and achieves the sales budget.
+The team responsible for ensuring we have a simple trade plan that works for customers, is simple for stores to understand and implement and achieves the sales budget.  
+> ![People](assets/images/tag-people.png)
 
 #### Trading Manager
-A manager in-store accountable for a particular area or timeframe, for example non-food, grocery, fresh food or nights.
+A manager in-store accountable for a particular area or timeframe, for example non-food, grocery, fresh food or nights.  
+> ![People](assets/images/tag-people.png)
 
 #### Training framework
 The “know your stuff” framework for training in Tesco split into bronze, silver and gold levels.
-> See also [know your stuff (KYS)](k.md#know-your-stuff-kys).
+> See also [know your stuff (KYS)](k.md#know-your-stuff-kys).  
+> ![People](assets/images/tag-people.png)
 
-#### Transport Planning (team) ![Distribution](assets/images/tag-distribution.png)
+#### Transport Planning (team)
 The team that centrally plans the vehicle movements and deliveries to stores.
-> Previously known as Regional Planning (team) and National Planning (team).
+> Previously known as Regional Planning (team) and National Planning (team).  
+> ![Distribution](assets/images/tag-distribution.png) ![People](assets/images/tag-people.png)
 
-#### Transport-planning system ![Dotcom](assets/images/tag-dotcom.png)
+#### Transport-planning system
 A Dotcom software system, which calculates the best route schedule for the customer orders for a shift. The system takes into account the distance between deliveries, the customer’s selected time slot, Customer Delivery Driver breaks and the weight of orders.
-> Previously known as paragon.
+> Previously known as paragon.  
+> ![Dotcom](assets/images/tag-dotcom.png)
 
 #### Tri-optic scanners
-Scanners on checkouts which read barcodes from all sides.
+Scanners on checkouts which read barcodes from all sides.  
+> ![Checkouts](assets/images/tag-checkouts.png)
 
-#### Trunk ![Distribution](assets/images/tag-distribution.png)
-Stock sent from a national depot (which holds slower moving products centrally) to a regional depot (which holds faster moving products and is nearer to stores) to be sorted and sent out to stores.
+#### Trunk
+Stock sent from a national depot (which holds slower moving products centrally) to a regional depot (which holds faster moving products and is nearer to stores) to be sorted and sent out to stores.  
+> ![Distribution](assets/images/tag-distribution.png)
 
-#### Trunk on-time ![Distribution](assets/images/tag-distribution.png)
-Trunked deliveries that are delivered on time, expressed as a percentage.
+#### Trunk on-time
+Trunked deliveries that are delivered on time, expressed as a percentage.  
+> ![Distribution](assets/images/tag-distribution.png)
 
-#### Trunking station ![Distribution](assets/images/tag-distribution.png)
-A warehouse that sorts cages sent from a national depot to send out to stores (see under Trunk), and also handles merchandisable units.
+#### Trunking station
+A warehouse that sorts cages sent from a national depot to send out to stores (see under Trunk), and also handles merchandisable units.  
+> ![Distribution](assets/images/tag-distribution.png)
 
 #### TTS
 Tesco technical support. Helpline available to support customers with electrical products.
 
-#### Turnaround time ![Distribution](assets/images/tag-distribution.png)
-The time it takes to unload stock from a delivery lorry and then reload the delivery lorry with empty cages and/or recycling.
+#### Turnaround time
+The time it takes to unload stock from a delivery lorry and then reload the delivery lorry with empty cages and/or recycling.  
+> ![Distribution](assets/images/tag-distribution.png)
 
-#### Twice-daily delivery ![Distribution](assets/images/tag-distribution.png)
-Stores with a twice daily delivery frequency get a delivery for a fill-up and a delivery for top-up.
+#### Twice-daily delivery
+Stores with a twice daily delivery frequency get a delivery for a fill-up and a delivery for top-up.  
+> ![Distribution](assets/images/tag-distribution.png)
