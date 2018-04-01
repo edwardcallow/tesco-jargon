@@ -6,14 +6,16 @@ Search this page by pressing Ctrl+F on Windows, ⌘+F on Mac, or choosing ‘fin
 
 ## I is for…
 
-#### I don’t queue ![Checkouts](assets/images/tag-checkouts.png)
-The Tesco target which aims to ensure there is never more than one other person in front of another at the checkouts.
+#### I don’t queue
+The Tesco target which aims to ensure there is never more than one other person in front of another at the checkouts.  
+> ![Checkouts](assets/images/tag-checkouts.png)  
 
 #### Ideas capture
 A process for collecting and reviewing ideas from store staff.
 
-#### IDQ report ![Checkouts](assets/images/tag-checkouts.png)
-I don’t queue report. A document showing all stores’ ability to reach the I don’t queue target.
+#### IDQ report
+I don’t queue report. A document showing all stores’ ability to reach the I don’t queue target.  
+> ![Checkouts](assets/images/tag-checkouts.png)  
 
 #### Improving the business for customers
 This is one of the key themes of the leadership framework. It’s all about the business and involves using experience and judgment to deliver customer value and make money.
