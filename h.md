@@ -12,7 +12,7 @@ Hazard analysis critical control point. This is a system of safety management an
 #### Handheld computer
 A mobile computer unit that is hand-held. It is used for a variety of routines in store by different departments, for example stock control and price integrity.
 > Also known as PDA.  
-> Previously known as gun.
+> Previously known as gun.  
 
 #### Hardline
 `Definition unavailable.`
@@ -20,8 +20,9 @@ A mobile computer unit that is hand-held. It is used for a variety of routines i
 #### Heat map
 Document showing the jobs, and associated number of hours, to be performed by each department in store.
 
-#### Home-delivery network ![Direct](assets/images/tag-direct.png)
-The courier service used by Tesco Direct to deliver orders directly to customers’ homes.
+#### Home-delivery network
+The courier service used by Tesco Direct to deliver orders directly to customers’ homes.  
+> ![Direct](assets/images/tag-direct.png)  
 
 #### Homeplus store
 Previously a type of Tesco store dedicated to Non-Food. The last closed in 2015.
@@ -30,10 +31,11 @@ Previously a type of Tesco store dedicated to Non-Food. The last closed in 2015.
 An electronic mail message system used in stores. This will eventually be replaced by the Workplan.
 
 #### Hot spots
-An additional space for promotions within a department, for example health & beauty, supported with point of sale to make it clear for the customer.
+An additional space for promotions within a department, for example health & beauty, supported with point of sale to make it clear for the customer.  
+> ![Stock control](assets/images/tag-stockcontrol.png)
 
 #### HRAM
 Human resources attendance management. A payroll document used to report changes to basic working hours.
 
 #### HSC
-Hindustan support centre. Part of Head Office which is based in Bangalore.
+Hindustan support centre. Part of head office but based in Bangalore.
