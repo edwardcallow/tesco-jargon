@@ -7,7 +7,8 @@ Search this page by pressing Ctrl+F on Windows, ⌘+F on Mac, or choosing ‘fin
 ## L is for…
 
 #### Ladder rack
-A set of shelves usually displaying our best offers attached to a promotion end or on the end of an aisle.
+A set of shelves usually displaying our best offers attached to a promotion end or on the end of an aisle.  
+> ![Stock control](assets/images/tag-stockcontrol.png)
 
 #### Late cage ![Distribution](assets/images/tag-distribution.png)
 A cage that is arriving late at store.
@@ -33,22 +34,26 @@ One of Tesco’s flexible working options open to staff with a minimum of one ye
 Data compared to the same time as last year. For example like-for-like sales is the increase in sales compared to same time in the previous year, excluding new store openings.
 
 #### Lines
-> See [products](p.md#products).
+> See [products](p.md#products).  
+> ![Stock control](assets/images/tag-stockcontrol.png)
 
 #### Live the values
 This is one of the key themes of the leadership framework. It’s all about your personal approach and behaving with integrity. If you ‘live the values’ you will support and praise more than criticise and share your knowledge to help others develop.
 > See also [leadership framework](#leadership-framework).
 
 #### Long life
-Products with seven days or more until its ‘display until’, ‘use by’ or ‘ best before’ date, whichever is soonest.
+Products with seven days or more until its ‘display until’, ‘use by’ or ‘ best before’ date, whichever is soonest.  
+> ![Stock control](assets/images/tag-stockcontrol.png)
 
 #### Loose product
 A loose product is sold by its weight, for example bannanas.
 > See also [unit of measure (UOM)](u.md#unit-of-measure-uom).
 
-#### Lost cage ![Distribution](assets/images/tag-distribution.png)
-A cage that is lost in the network and its whereabouts is unknown.
-> Previously known as ghost cage.
+#### Lost cage
+A cage that is lost in the distribution network and its whereabouts is unknown.  
+> Previously known as ghost cage.  
+> ![Distribution](assets/images/tag-distribution.png)  
 
-#### Lost sales cage ![Distribution](assets/images/tag-distribution.png)
-> See [late cage](#late-cage).
+#### Lost sales cage
+> See [late cage](#late-cage).  
+> ![Distribution](assets/images/tag-distribution.png)
