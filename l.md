@@ -10,12 +10,14 @@ Search this page by pressing Ctrl+F on Windows, ⌘+F on Mac, or choosing ‘fin
 A set of shelves usually displaying our best offers attached to a promotion end or on the end of an aisle.  
 > ![Stock control](assets/images/tag-stockcontrol.png)
 
-#### Late cage ![Distribution](assets/images/tag-distribution.png)
-A cage that is arriving late at store.
-> Previously known as lost-sales cage.
+#### Late cage
+A cage that is arriving late at store.  
+> Previously known as lost-sales cage.  
+> ![Distribution](assets/images/tag-distribution.png)
 
-#### Late picks ![Distribution](assets/images/tag-distribution.png)
-> See [depot gaps](d.md#depot-gaps).
+#### Late picks
+> See [depot gaps](d.md#depot-gaps).  
+> ![Distribution](assets/images/tag-distribution.png)
 
 #### Leadership framework
 The leadership framework was developed by the board of directors to describe what they see our best leaders doing. The Leadership Framework has three key themes, which are:
