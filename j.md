@@ -7,10 +7,12 @@ Search this page by pressing Ctrl+F on Windows, ⌘+F on Mac, or choosing ‘fin
 # J is for…
 
 #### Job 14
-> See [potential reductions](p.md#potential-reductions).
+> See [potential reductions](p.md#potential-reductions).  
+> ![Stock control](assets/images/tag-stockcontrol.png)
 
 #### Job 27
-> See [shelf capacity](s.md#shelf-capacity).
+> See [shelf capacity](s.md#shelf-capacity).  
+> ![Stock control](assets/images/tag-stockcontrol.png)
 
 #### Joint team planning meeting (JTPM)
 A meeting to review service priorities, planned store activities and big 6 performance so everyone understands what they need to be focussing on.
