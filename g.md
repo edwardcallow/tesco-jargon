@@ -20,7 +20,7 @@ The routine by which stores register and investigate any gap (out of stock) to e
 > ![Distribution](assets/images/tag-distribution.png)
 
 #### General merchandise (GM)
-Non-food products.
+In-store department responsible for non-food products.
 
 #### Ghost cage
 > See [lost cage](l.md#lost-cage).  
