@@ -42,7 +42,7 @@ Dotcom customers can choose to receive their shopping without carrier bags. Cust
 
 #### Department key entry
 Checkout proccess to charge a customer the correct price for a product, when no barcode is available, by manually entering the department and price. Only available to operators with privilege level 3.  
-> ![Checkouts](assets/images/tag-checkouts.png)
+> ![Checkouts](assets/images/tag-checkouts.png) ![Stock control](assets/images/tag-stockcontrol.png)
 
 #### Depot gaps
 Cages in a depot not picked for an order when they should have been.
