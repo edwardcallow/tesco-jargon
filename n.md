@@ -28,7 +28,8 @@ The manager of a store at night, whose main task is to replenish the shelves and
 
 #### No sale
 Function on a progress till to open the cash drawer, without processing a transation.
-> See also [progress](p.md#progress).
+> See also [progress](p.md#progress).    
+> ![Checkouts](assets/images/tag-checkouts.png)
 
 #### Not on file (NOF)
 A checkout prompt given when a product cannot be sold, usually because it is subject to an EPW.
