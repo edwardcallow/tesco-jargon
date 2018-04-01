@@ -6,8 +6,9 @@ Search this page by pressing Ctrl+F on Windows, ⌘+F on Mac, or choosing ‘fin
 
 ## O is for…
 
-#### OBP ![Direct](assets/images/tag-direct.png)
-Order by phone. Service allowing customers to order Direct products over the phone.
+#### OBP
+Order by phone. Service allowing customers to order Direct products over the phone.  
+> ![Direct](assets/images/tag-direct.png)  
 
 #### Off-fixture display (OFD)
 A display that stands alone away from a fixture, usually made from cardboard and used to highlight promotions.
@@ -15,9 +16,10 @@ A display that stands alone away from a fixture, usually made from cardboard and
 #### Operations Director
 The person who leads a group of Store Directors or Express Operations Managers.
 
-#### Operator number ![Checkouts](assets/images/tag-checkouts.png)
-Personal login details used to sign on to progress tills and back office.
-> See also [progress](p.md#progress) and [back office](b.md#back-office).
+#### Operator number
+Personal login details used to sign on to progress tills and back office.  
+> See also [progress](p.md#progress) and [back office](b.md#back-office).  
+> ![Checkouts](assets/images/tag-checkouts.png)
 
 #### Options
 A development programme that helps staff progress, for example from a Customer Assistant role into management.
@@ -26,13 +28,16 @@ A development programme that helps staff progress, for example from a Customer A
 The bag of mail sent to stores each week from head office, containing promotional bulletins, any ad-hoc information such as a Mother’s Day briefing pack and training materials.
 
 #### Out of code (OOC)
-When a product is past its ‘display until’, ‘use by’ or ‘best before’ date, whichever is sooner and is recorded as waste and disposed of, it is deemed to be out of code.
+When a product is past its ‘display until’, ‘use by’ or ‘best before’ date, whichever is sooner and is recorded as waste and disposed of, it is deemed to be out of code.  
+> ![Stock control](assets/images/tag-stockcontrol.png)
 
 #### Out of Hours Trading Manager
 > See [Night Manager](n.md#night-manager).
 
 #### Out of stock (TOS)
-When a product normally available in store isn’t available.
+When a product normally available in store isn’t available.  
+> ![Stock control](assets/images/tag-stockcontrol.png)
 
 #### Outer-case code
-A barcode, which can be scanned, on the outside of a case of products.
+A barcode, which can be scanned, on the outside of a case of products.  
+> ![Distribution](assets/images/tag-distribution.png) ![Stock control](assets/images/tag-stockcontrol.png)
