@@ -10,7 +10,8 @@ Search this page by pressing Ctrl+F on Windows, ⌘+F on Mac, or choosing ‘fin
 The measure, in pounds or as a percentage of sales, of products that are damaged when they arrive on a delivery, during filling, or by customers. Depending on the damage, these products may be removed from sale or have their price reduced to clear.
 
 #### Date code diary
-A diary that is used to record long life fresh products that are about to go out of date.
+A diary that is used to record long life fresh products that are about to go out of date.  
+> ![Stock control](assets/images/tag-stockcontrol.png)
 
 #### Daventry 1 office (top floor)
 > See [distribution support centre](#distribution-support-centre).  
@@ -53,7 +54,8 @@ The manager in charge of running a depot.
 > ![Distribution](assets/images/tag-distribution.png)
 
 #### Depot rumble
-Where everyone in the depot stops what they are doing to get the depot fit for the day ahead (see also “Rumble” for similar in stores).  
+Where everyone in the depot stops what they are doing to get the depot fit for the day ahead.  
+> See also [rumble](r.md#rumble).  
 > ![Distribution](assets/images/tag-distribution.png)
 
 #### Depot senior team
@@ -80,7 +82,7 @@ A delivery that does not come from a Tesco or agency distribution centre.
 A way of delivering business plan activity in-store or depot following a briefing pack delivered direct to store/depot two weeks before activity starts.
 
 #### Dispatcher
-A Dotcom process where dedicated members of staff prepare and unload trolleys and equipment for Personal Shoppers, enabling them to concentrate solely on picking orders for customers.  
+A Dotcom role dedicated to preparing and unloading trolleys and equipment for Personal Shoppers, enabling them to concentrate solely on picking orders for customers.  
 > ![Dotcom](assets/images/tag-dotcom.png)
 
 #### Distribution centre leadership team (DCTL)
@@ -101,7 +103,8 @@ Central office between the UK and the Hindustan Support Centre that supports the
 > ![Distribution](assets/images/tag-distribution.png)
 
 #### Dolly
-A base on wheels used to transport trays of stock.
+A base on wheels used to transport trays of stock.  
+> ![Stock control](assets/images/tag-stockcontrol.png)
 
 #### DOT
 > See [delivery on time (DOT)](#delivery-on-time-dot).  
@@ -126,7 +129,7 @@ A double-decker trailer with two floors.
 
 #### Double scan
 When a product is scanned more than once at the checkout, but the customer has only purchased one item.  
-> ![Checkouts](assets/images/tag-checkouts.png)
+> ![Checkouts](assets/images/tag-checkouts.png) ![Stock control](assets/images/tag-stockcontrol.png)
 
 #### DRC
 Disability Rights Commission. A government body responsible for investigating and enforcing disability law. Replaced by the Equality and Human Rights Commission.  
@@ -141,4 +144,5 @@ The number of Dotcom customer orders a single van can deliver in one hour.
 > ![Dotcom](assets/images/tag-dotcom.png)
 
 #### Dump bin
-A square, free standing display unit which holds promotions or special offers.
+A square, free standing display unit which holds promotions or special offers.  
+> ![Stock control](assets/images/tag-stockcontrol.png)
