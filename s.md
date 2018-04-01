@@ -24,10 +24,12 @@ When someone is temporarily appointed to a position to help with their developme
 > ![People](assets/images/tag-people.png)
 
 #### Safety stock
-The amount of stock over and above what is expected to be sold before the next delivery.
+The amount of stock over and above what is expected to be sold before the next delivery.  
+> ![Stock control](assets/images/tag-stockcontrol.png)
 
 #### Sales-based ordering system (SBO)
-Automatic ordering system that orders stock based on sales and stock in the store.
+Automatic ordering system that orders stock based on sales and stock in the store.  
+> ![Stock control](assets/images/tag-stockcontrol.png)
 
 #### Saltley
 > See [national returns centre (NRC)](n.md#national-returns-centre-nrc).  
@@ -56,7 +58,8 @@ An in-store bakery (ISB) that produces most of its products from raw ingredients
 Promotional events in-store linked to special events or seasons.
 
 #### Seasonal space
-Space for seasonal products or ranges, for example Easter Eggs.
+Space for seasonal products or ranges, for example Easter eggs.  
+> ![Stock control](assets/images/tag-stockcontrol.png)
 
 #### Section Manager
 A manager to whom Team Leaders and staff report.  
@@ -64,7 +67,8 @@ A manager to whom Team Leaders and staff report.
 
 #### Security tag
 An electronic tag placed on high-risk items to improve security.
-> Previously known as electronic article surveillance.
+> Previously known as electronic article surveillance.  
+> ![Stock control](assets/images/tag-stockcontrol.png)
 
 #### Self-service checkouts
 A checkout where customers can scan their own shopping with a Customer Assistant there to help if required.
@@ -77,7 +81,8 @@ This scheme rewards all eligible employees with free Tesco shares based on their
 
 #### Shelf capacity
 The volume of stock on the shelf calculated by multiplying the number of products wide, high and deep.
-> Previously known as cube and job 27.
+> Previously known as cube and job 27.  
+> ![Stock control](assets/images/tag-stockcontrol.png)
 
 #### Shelf-edge label (SEL)
 The label on the shelf edge showing the Tesco product number, the number of products across the shelf, the price, the description and the European Article Number.
@@ -94,7 +99,8 @@ The depot duty manager responsible for all people, systems and processes across 
 > ![Distribution](assets/images/tag-distribution.png) ![People](assets/images/tag-people.png)
 
 #### Short life
-Products that have less than seven days until their ‘display until’, ‘use by’ or ‘best before’ date, whichever is soonest.
+Products that have less than seven days until their ‘display until’, ‘use by’ or ‘best before’ date, whichever is soonest.  
+> ![Stock control](assets/images/tag-stockcontrol.png)
 
 #### Shoulder to shoulder
 Putting the business in the hands of our people and enabling store teams to get out of offices and on to the shop floor with our customers.  
@@ -103,9 +109,11 @@ Putting the business in the hands of our people and enabling store teams to get 
 #### Shrinkage
 Unknown loss. Stock lost through theft or inaccurate stock recording. Shrinkage is the difference between the system stock record and what’s actually been counted in units and the value of this in pounds.  
 > Also known as shrink.  
+> ![Stock control](assets/images/tag-stockcontrol.png)
 
 #### Shroud
-Long, padded material that wraps around a cage to maintain its temperature.
+Long, padded material that wraps around a cage to maintain its temperature.  
+> ![Distribution](assets/images/tag-distribution.png)
 
 #### Shunter
 Someone who works in goods out and drives a shunting unit, which moves trailers around at the depot.  
@@ -121,10 +129,12 @@ When stock is removed from an order at depot that is too big to handle, to make 
 > ![Distribution](assets/images/tag-distribution.png)
 
 #### Space and merchandising system
-This system details all fixtures and space in store and what product groups are in them.
+This system details all fixtures and space in store and what product groups are in them.  
+> ![Stock control](assets/images/tag-stockcontrol.png)
 
 #### SRTB
-Login details used by price integrity.
+Login details used by stock control and price integrity.  
+> ![Stock control](assets/images/tag-stockcontrol.png)
 
 #### Staff reception
 Area by the staff and visitor entrance in large stores, rarely used as entrance in the day. Often used to store handheld computers and the colleague shop. 
@@ -148,17 +158,21 @@ The tool we use to manage our business in a balanced way. There’s a sector for
 The segments within each sector show our objectives. These are scored red, amber, green or blue to show how we are performing against them.
 
 #### Stock control routines report
-Report, available on G drive, detailing all routines undertaken by the stock control department.
+Report, available on G drive, detailing all routines undertaken by the stock control department.  
+> ![Stock control](assets/images/tag-stockcontrol.png)
 
 #### Stock exceptions
-PDA app for price integrity tasks including printing shelf-edge labels.
+PDA app for stock control and price integrity tasks, including printing shelf-edge labels.  
+> ![Stock control](assets/images/tag-stockcontrol.png)
 
 #### Stock record
-The amount of stock the system believes is in a store.
+The amount of stock the system believes is in a store.  
+> ![Stock control](assets/images/tag-stockcontrol.png)
 
 #### Stock record check
 A check carried out on the amount of stock the system believes is in store against the amount of stock actually in store.
-> Previously known as book-stock accuracy routine.
+> Previously known as book-stock accuracy routine.  
+> ![Stock control](assets/images/tag-stockcontrol.png)
 
 #### Stock sharing
 The method of sharing surplus stock in a depot among stores.
@@ -172,7 +186,7 @@ When depots put together an order for stores by store order (grocery, non-food a
 
 #### Stocked in-store Direct
 A project aiming to have a selection of Tesco Direct products stocked in store for immediate collection by the customer.  
-> ![Direct](assets/images/tag-direct.png)
+> ![Direct](assets/images/tag-direct.png) ![Stock control](assets/images/tag-stockcontrol.png)
 
 #### Stockless depot
 When depots put together an order for stores by products (fresh food depots).
@@ -192,10 +206,12 @@ The person who leads Metro Store Managers within a geographical region.
 
 #### Store ordering system
 The computerised system that automatically orders stock for stores based on the sales through the checkout.
-> Previously known as continuous replenishment (CR) system.
+> Previously known as continuous replenishment (CR) system.  
+> ![Stock control](assets/images/tag-stockcontrol.png)
 
 #### Store-specific merchandising plan
-A tailor-made plan for each store which identifies where products should go on a shelf.
+A tailor-made plan for each store which identifies where products should go on a shelf.  
+> ![Stock control](assets/images/tag-stockcontrol.png)
 
 #### Store walk
 Usually carried out by the Store or Duty Manager at the start of their shift, they walk around the store looking to see how the floor looks, for example if there are any major gaps, if all promotional material is out in the correct place, if any cleaning needs doing etc.
@@ -226,7 +242,7 @@ All the Superstore groups in the North of the United Kingdom, including groups i
 All the Superstore groups in the South of the United Kingdom, including groups in England and Wales.
 
 #### Supervisor number
-Operator number for progress tills and back office which allows supervisor functions and authorisations to be carried out.
+Operator number for progress tills and back office which allows supervisor functions and authorisations to be carried out.  
 > See also [operator number](o.md#operator-number), [progress](p.md#progress) and [back office](b.md#back-office).  
 > ![Checkouts](assets/images/tag-checkouts.png)
 
@@ -246,4 +262,5 @@ The process used to encourage attendance and manage absence in Tesco.
 > ![People](assets/images/tag-people.png)
 
 #### System archiving reports
-Reports that help manage stock records and stock loss through inaccurate stock recording or theft.
+Reports that help manage stock records and stock loss through inaccurate stock recording or theft.  
+> ![Stock control](assets/images/tag-stockcontrol.png)
