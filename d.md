@@ -133,7 +133,8 @@ Disability Rights Commission. A government body responsible for investigating an
 > ![People](assets/images/tag-people.png)
 
 #### Driver-controlled delivery
-Where a petrol tanker driver delivers fuel without the need for Tesco supervision.
+Where a petrol tanker driver delivers fuel without the need for Tesco supervision.  
+> ![Distribution](assets/images/tag-distribution.png)
 
 #### Drop rate
 The number of Dotcom customer orders a single van can deliver in one hour.  
