@@ -116,7 +116,6 @@ Till drawer that automatically weighs and records cash levels after each transac
 > Also known as smart till.  
 > ![Checkouts](assets/images/tag-checkouts.png)
 
-
 #### Smoothing
 When stock is removed from an order at depot that is too big to handle, to make the delivery manageable.  
 > ![Distribution](assets/images/tag-distribution.png)
