@@ -26,6 +26,10 @@ A team of people from different departments with a stake in a particular project
 The manager of a store at night, whose main task is to replenish the shelves and get the store ready for the next day’s trade.
 > Previously known as Out of Hours Trading Manager.
 
+#### No sale
+Function on a progress till to open the cash drawer, without processing a transation.
+> See also [progress](p.md#progress).
+
 #### Not on file (NOF)
 A checkout prompt given when a product cannot be sold, usually because it is subject to an EPW.
 > See also [emergency product withdrawal (EPW)](e.md#emergency-product-withdrawal-epw).  
