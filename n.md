@@ -29,4 +29,4 @@ The manager of a store at night, whose main task is to replenish the shelves and
 #### Not on file (NOF)
 A checkout prompt given when a product cannot be sold, usually because it is subject to an EPW.
 > See also [emergency product withdrawal (EPW)](e.md#emergency-product-withdrawal-epw).  
-> ![Checkouts](assets/images/tag-checkouts.png)
+> ![Checkouts](assets/images/tag-checkouts.png) ![Stock control](assets/images/tag-stockcontrol.png)
