@@ -8,28 +8,35 @@ Search this page by pressing Ctrl+F on Windows, ⌘+F on Mac, or choosing ‘fin
 
 #### Warehouse
 A storage area for products in-store, away from the shop floor.
-> Previously known as backroom.
+> Previously known as backroom.  
+> ![Stock control](assets/images/tag-stockcontrol.png)
 
-#### Warehouse labour planning ![Distribution](assets/images/tag-distribution.png)
+#### Warehouse labour planning
 The central planning of our people to ensure depots have the right number of people at work at the right time.
-> Previously known as central labour planning.
+> Previously known as central labour planning.  
+> ![Distribution](assets/images/tag-distribution.png)
 
-#### Warehouse Manager ![Distribution](assets/images/tag-distribution.png)
+#### Warehouse Manager
 The manager of a team of people and the associated systems and processes within a shift in a depot.
-> Previously known as Warehouse Team Manager (WTM).
+> Previously known as Warehouse Team Manager (WTM).  
+> ![Distribution](assets/images/tag-distribution.png) ![People](assets/images/tag-people.png)
 
-#### Warehouse Shift Manager ![Distribution](assets/images/tag-distribution.png)
-> See [Shift Manager](s.md#shift-manager).
+#### Warehouse Shift Manager
+> See [Shift Manager](s.md#shift-manager).  
+> ![Distribution](assets/images/tag-distribution.png) ![People](assets/images/tag-people.png)
 
-#### Warehouse Team Manager (WTM) ![Distribution](assets/images/tag-distribution.png)
-> See [Warehouse Manager](#warehouse-manager).
+#### Warehouse Team Manager (WTM)
+> See [Warehouse Manager](#warehouse-manager).  
+> ![Distribution](assets/images/tag-distribution.png) ![People](assets/images/tag-people.png)
 
-#### Wastage rounding ![Distribution](assets/images/tag-distribution.png)
-This is the process which removes cases from a store’s order where more of that case than the allowed amount would go to waste.
+#### Wastage rounding
+This is the process which removes cases from a store’s order where more of that case than the allowed amount would go to waste.  
+> ![Distribution](assets/images/tag-distribution.png) ![Stock control](assets/images/tag-stockcontrol.png)
 
 #### Waste
 Products that can’t be sold because they’ve been damaged or are out of code.
-> See also [out of code (OOC)](o.md#out-of-code-ooc).
+> See also [out of code (OOC)](o.md#out-of-code-ooc).  
+> ![Stock control](assets/images/tag-stockcontrol.png)
 
 #### Week (payroll)
 A Tesco payroll week runs from Friday to Thursday. Wages are finalised on Friday, so Thursday is the last day to code wages and pay overtime.
@@ -44,22 +51,26 @@ A Tesco working week runs from Sunday to Saturday. This is the week used for the
 > See also [whole-store scheduler](#whole-store-scheduler-wss).
 
 #### Weekly range-change report
-An update to tell stores about new and discontinued products and range reductions.
+An update to tell stores about new and discontinued products and range reductions.  
+> ![Stock control](assets/images/tag-stockcontrol.png)
 
 #### What good looks like (WGLL)
 A description of what people will see if they’re on the right track.
 
 #### When it’s gone, it’s gone
-A type of in-store promotion with limited stock.
+A type of in-store promotion with limited stock.  
+> ![Stock control](assets/images/tag-stockcontrol.png)
 
 #### Whole-store scheduler (WSS)
 Online system for calculating the numbers of hours needed to complete all jobs in-store.
 
 #### Work level
-Staff, Managers, and Directors are grouped into grades from Work Level 1 to Work Level 6.
+Staff, Managers, and Directors are grouped into grades from Work Level 1 to Work Level 6.  
+> ![People](assets/images/tag-people.png)
 
-#### Workflow ![Distribution](assets/images/tag-distribution.png)
-> See [paperless goods in](p.md#paperless-goods-in).
+#### Workflow
+> See [paperless goods in](p.md#paperless-goods-in).  
+> ![Distribution](assets/images/tag-distribution.png)
 
 #### Workplan
 A web based communication system which is used for communicating with stores. The type ofcommunication sent to stores on the Workplan could include change work, daily communications, ad hoc communications and emergency product withdrawals.
