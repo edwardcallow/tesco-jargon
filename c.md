@@ -76,6 +76,9 @@ Third-party companies who run some of our cafés on behalf of Tesco. These are t
 Database for all products sold through the checkouts.  
 > ![Checkouts](assets/images/tag-checkouts.png)
 
+#### Central file maintenance (CFM)
+> See [price integrity (PI)](p.md#price-integrity-pi).  
+
 #### Central labour planning
 > See [warehouse labour planning](w.md#warehouse-labour-planning).  
 > ![Distribution](assets/images/tag-distribution.png)
