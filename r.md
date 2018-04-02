@@ -53,6 +53,9 @@ The process of filling the shelves.
 #### Reprint number
 The unique number on a document or promotional material that you use when you want to re-order it.
 
+#### Restricted fill
+Stock-protection process to limit the number of products available on the shelf.
+
 #### Retail delivery record (RDR)
 Paperwork completed for all deliveries and collections made by the distribution network. Highlights the number of cages, their contents, trailer seal numbers and signatures of driver and dispatcher.  
 > Also known as driver’s paperwork.  
