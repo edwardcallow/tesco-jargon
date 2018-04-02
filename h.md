@@ -15,7 +15,9 @@ A mobile computer unit that is hand-held. It is used for a variety of routines i
 > Previously known as gun.  
 
 #### Hardline
-`Definition unavailable.`
+Return process used for GM and clothing products. Involves using CSD F11 to print a licence plate for return to the national returns centre.  
+> See also [customer service desk system](c.md#customer-service-desk-system), [general merchandise (GM)](g.md#general-merchandise-gm), [licence plate](l.md#licence-plate) and [national returns centre (NRC)](n.md#national-returns-centre-nrc).  
+> ![Direct](assets/images/tag-direct.png) ![Stock control](assets/images/tag-stockcontrol.png)  
 
 #### Heat map
 Document showing the jobs, and associated number of hours, to be performed by each department in store.
