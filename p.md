@@ -147,6 +147,7 @@ Pence per thousand. This is how we measure our cash loss in a percentage.
 
 #### Price integrity (PI)
 The department in-store accountable for ensuring we meet our legal obligations in pricing.
+> Previously known as central file maintenance (CFM).  
 
 #### Price-sensitive store
 A store in an area where customers are more conscious of what they spend.
