@@ -10,6 +10,10 @@ Search this page by pressing Ctrl+F on Windows, ⌘+F on Mac, or choosing ‘fin
 A metal unit on wheels used to transport cases of stock. Available with two sides (two-sider), with straps, or four sides (four-sider), with gates.  
 > ![Distribution](assets/images/tag-distribution.png)
 
+#### Cage manifest
+Report showing each product held by a cage UOD.  
+> ![Distribution](assets/images/tag-distribution.png)
+
 #### Call Mr Robinson
 A checkout prompt indicating that the card used may be blocked, or requires authorisation.  
 > ![Checkouts](assets/images/tag-checkouts.png)
