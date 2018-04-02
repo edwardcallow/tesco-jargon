@@ -132,11 +132,9 @@ Opportunity for in-store staff to purchase end-of-life products, reduced to 1p, 
 #### Combined service desk
 Type of service desk providing both customer service and tobacco kiosk. Part of the services department.
 > See also [customer service desk (CSD)](#customer-service-desk-csd).  
-> ![People](assets/images/tag-people.png)
 
 #### Commercial
 A head office department responsible for sourcing and ensuring the quality of the products we sell.  
-> ![People](assets/images/tag-people.png)
 
 #### Compactor
 A piece of equipment to dispose of waste in stores and distribution which is located in the warehouse and feeds the waste into a skip outside.
@@ -162,7 +160,6 @@ Corporate should only be used as a noun to name specific departments or areas of
 
 #### Corporate Purchasing Team
 The team responsible for sourcing and buying the best goods and services (not sold to customers) at the best price.  
-> ![People](assets/images/tag-people.png)
 
 #### COSHH
 Control of substances hazardous to health. These are government regulations that require employers to assess, control and manage exposure to hazardous substances at work to control risk of injury and ill-health.  
@@ -235,7 +232,11 @@ A meeting involving customers and staff to get feedback about Tesco and a partic
 #### Customer service desk (CSD)
 Service desk at the front of the store responsible for helping customers with queries and complaints. Part of the services department.
 > See also [combined service desk](#combined-service-desk).  
-> ![People](assets/images/tag-people.png)
+
+#### Customer service desk system
+Secondary till system used at the customer service desk to complete a variety of processes. including: processing hardlines, reporting price errors, recording lost property and issuing VAT receipts. Accessed by clicking `F11`.
+> Also known as F11.  
+> See also [hardline](h.md#hardline).  
 
 #### Customer service level
 > See [availability measure](a.md#availability-measure).  
