@@ -18,7 +18,7 @@ A depot which contains slow moving products and products required by stores not 
 Depot dedicated to general merchandise returns. All store GM returns, uplift stock, EPWs, failed and timed-out Direct parcels are sent here.
 > Also known as Saltley.  
 > See also [general merchandise (GM)](g.md#general-merchandise-gm) and [emergency product withdrawal (EPW)](e.md#emergency-product-withdrawal-epw).  
-> ![Direct](assets/images/tag-direct.png)
+> ![Direct](assets/images/tag-direct.png) ![Distribution](assets/images/tag-distribution.png) ![Stock control](assets/images/tag-stockcontrol.png)  
 
 #### National work team
 A team of people from different departments with a stake in a particular project or initiative.
@@ -33,6 +33,6 @@ Function on a progress till to open the cash drawer, without processing a transa
 > ![Checkouts](assets/images/tag-checkouts.png)
 
 #### Not on file (NOF)
-A checkout prompt given when a product cannot be sold, usually because it is subject to an EPW.
-> See also [emergency product withdrawal (EPW)](e.md#emergency-product-withdrawal-epw).  
+A checkout prompt given when a product cannot be sold because it cannot be found on the central file, usually because it is subject to an EPW.
+> See also [central file](c.md#central-file), [emergency product withdrawal (EPW)](e.md#emergency-product-withdrawal-epw).  
 > ![Checkouts](assets/images/tag-checkouts.png) ![Stock control](assets/images/tag-stockcontrol.png)
