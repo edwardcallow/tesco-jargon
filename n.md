@@ -17,7 +17,7 @@ A depot which contains slow moving products and products required by stores not 
 #### National returns centre (NRC)
 Depot dedicated to general merchandise returns. All store GM returns, uplift stock, EPWs, failed and timed-out Direct parcels are sent here.
 > Also known as Saltley.  
-> See also [general merchandise (GM)](g.md#general-merchandise-gm) and [emergency product withdrawl (EPW)](e.md#emergency-product-withdrawl-epw).  
+> See also [general merchandise (GM)](g.md#general-merchandise-gm) and [emergency product withdrawal (EPW)](e.md#emergency-product-withdrawal-epw).  
 > ![Direct](assets/images/tag-direct.png)
 
 #### National work team
