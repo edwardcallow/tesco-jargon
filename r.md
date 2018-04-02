@@ -53,6 +53,11 @@ The process of filling the shelves.
 #### Reprint number
 The unique number on a document or promotional material that you use when you want to re-order it.
 
+#### Retail delivery record (RDR)
+Paperwork completed for all deliveries and collections made by the distribution network. Highlights the number of cages, their contents, trailer seal numbers and signatures of driver and dispatcher.  
+> Also known as driver’s paperwork.  
+> ![Distribution](assets/images/tag-distribution.png)
+
 #### Retail design group
 A group of high level Managers who meet fortnightly to agree store layout plans.
 
