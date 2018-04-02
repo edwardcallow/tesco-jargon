@@ -25,9 +25,14 @@ The leadership framework was developed by the board of directors to describe wha
 - Take People with You
 - Live the Values
 
-#### Leadership Team ![Distribution](assets/images/tag-distribution.png)
+#### Leadership Team
 The distribution directors.
-> Previously known as Distribution Leadership Team (DLT).
+> Previously known as Distribution Leadership Team (DLT).  
+> ![Distribution](assets/images/tag-distribution.png)  
+
+#### Licence plate
+Printed label and barcode attached to all returns, to allow tracking through the returns networks.
+> ![Stock control](assets/images/tag-stockcontrol.png)
 
 #### Lifestyle break
 One of Tesco’s flexible working options open to staff with a minimum of one year’s service. A lifestyle break is between 4-12 weeks. The reason for this may include holidays over 4 weeks, voluntary work, study leave, personal matter or religious pilgrimage. A lifestyle break does not affect employment status.
