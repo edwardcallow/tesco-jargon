@@ -9,6 +9,3 @@ We’re still searching for a proper definition for these terms…
 
 #### CBL
 `Definition unavailable.`
-
-#### Hardline
-`Definition unavailable.`
