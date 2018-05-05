@@ -31,6 +31,10 @@ A five-minute briefing for staff comprising important information on the departm
 > See [Team Support](#team-support).  
 > ![People](assets/images/tag-people.png)
 
+#### Team manager
+Manager responsible for a team of colleagues. Accountable to a lead manager.  
+> ![People](assets/images/tag-people.png)
+
 #### Team pad
 The touch-screen computer mounted on Dotcom trolleys which lets Personal Shoppers know which products to pick. Each Team pad has a hand held scanner attached, which is used to scan the barcode on each product.  
 Team pads connect to the picking control system via a wireless radio signal, transmitted for the Dotcom area. Each new model of team pad is distinguished by number, for example team pad 3.
