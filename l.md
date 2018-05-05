@@ -20,7 +20,7 @@ A cage that is arriving late at store.
 > ![Distribution](assets/images/tag-distribution.png)
 
 #### Lead manager
-Manager responsible for a group of teams (and their managers).  
+Manager responsible for a group of teams (and their managers). Accountable to a senior manager.  
 > ![People](assets/images/tag-people.png)
 
 #### Leadership framework
