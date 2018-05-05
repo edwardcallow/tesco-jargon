@@ -145,6 +145,9 @@ An aisle which is at the front of a store which is filled with seasonal promotio
 #### PPTH
 Pence per thousand. This is how we measure our cash loss in a percentage.
 
+#### Pre-sorting area
+Location for holding empty cages and low-backstock cages ready to be pre-sorted onto.
+
 #### Price integrity (PI)
 The department in-store accountable for ensuring we meet our legal obligations in pricing.
 > Previously known as central file maintenance (CFM).  
