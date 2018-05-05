@@ -69,6 +69,9 @@ A grouping of stores based on sales and complexity that is used to determine Sto
 #### Catering partners
 Third-party companies who run some of our cafés on behalf of Tesco. These are traditional cafés, often with food, and cater for Tesco staff or customers.
 
+#### CBCL
+Cash, bank, coupon and lottery report. Details finance performance figures for each store on a weekly basis, along with the dishonoured sales report (DSR). Published on G drive each Friday.  
+
 #### CBL
 `Definition unavailable.`
 
