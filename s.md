@@ -61,7 +61,7 @@ Promotional events in-store linked to special events or seasons.
 Space for seasonal products or ranges, for example Easter eggs.  
 > ![Stock control](assets/images/tag-stockcontrol.png)
 
-#### Section Manager
+#### Section manager
 A manager to whom Team Leaders and staff report.  
 > ![People](assets/images/tag-people.png)
 
