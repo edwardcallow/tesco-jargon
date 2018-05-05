@@ -143,6 +143,9 @@ Where a petrol tanker driver delivers fuel without the need for Tesco supervisio
 The number of Dotcom customer orders a single van can deliver in one hour.  
 > ![Dotcom](assets/images/tag-dotcom.png)
 
+#### Dishonoured sales report (DSR) 
+> See [CBCL](c.md#cbcl).  
+
 #### Dump bin
 A square, free standing display unit which holds promotions or special offers.  
 > ![Stock control](assets/images/tag-stockcontrol.png)
