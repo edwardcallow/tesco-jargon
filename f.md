@@ -21,6 +21,10 @@ The process of bringing products to the front of the shelf in order to display t
 The number of identical products placed next to each other at the front of a shelf, facing toward the customer.  
 > ![Stock control](assets/images/tag-stockcontrol.png)
 
+#### Fastlane
+Payment system used for pay at pump.  
+> ![Checkouts](assets/images/tag-checkouts.png)
+
 #### Featurenet
 The internal phone system which allows one area of the business to call another without having to dial an area code.
 
