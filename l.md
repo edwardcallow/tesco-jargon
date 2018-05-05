@@ -19,6 +19,10 @@ A cage that is arriving late at store.
 > See [depot gaps](d.md#depot-gaps).  
 > ![Distribution](assets/images/tag-distribution.png)
 
+#### Lead manager
+Manager responsible for a group of teams (and their managers).  
+> ![People](assets/images/tag-people.png)
+
 #### Leadership framework
 The leadership framework was developed by the board of directors to describe what they see our best leaders doing. The Leadership Framework has three key themes, which are:
 - Improve the business for customers
@@ -39,6 +43,10 @@ One of Tesco’s flexible working options open to staff with a minimum of one ye
 
 #### Like for like (LFL)
 Data compared to the same time as last year. For example like-for-like sales is the increase in sales compared to same time in the previous year, excluding new store openings.
+
+#### Line manager
+Manager responsible for colleagues through the line management chain.  
+> ![People](assets/images/tag-people.png)
 
 #### Lines
 > See [products](p.md#products).  
