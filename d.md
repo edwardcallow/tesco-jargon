@@ -29,6 +29,10 @@ A pension scheme, like the Tesco scheme, that pays you benefits based on your pa
 Unloading empty cages from a trailer at the depot.  
 > ![Distribution](assets/images/tag-distribution.png)
 
+#### Delivery holding area
+Location for holding delivery stock before pre-sorting.
+> Previously known as delivery lane.  
+
 #### Delivery on time (DOT)
 Stock deliveries on time at a store, expressed as a percentage.  
 > ![Distribution](assets/images/tag-distribution.png)
