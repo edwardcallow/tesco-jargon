@@ -56,6 +56,13 @@ Manager responsible for colleagues through the line management chain.
 This is one of the key themes of the leadership framework. It’s all about your personal approach and behaving with integrity. If you ‘live the values’ you will support and praise more than criticise and share your knowledge to help others develop.
 > See also [leadership framework](#leadership-framework).
 
+#### Lock-up
+Secure store for high-value products with a list of colleagues authorised to access. Most stores will have lock-ups for:
+- Beers, wines and spirits
+- Direct
+- Electrical
+- Tobacco
+
 #### Long life
 Products with seven days or more until its ‘display until’, ‘use by’ or ‘ best before’ date, whichever is soonest.  
 > ![Stock control](assets/images/tag-stockcontrol.png)
