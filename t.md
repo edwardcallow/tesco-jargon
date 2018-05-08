@@ -51,7 +51,7 @@ Our catalogue and internet-based non-food offer, which allows customers to brows
 > ![Direct](assets/images/tag-direct.png)
 
 #### Tesco product number (TPN)
-A unique number given by Tesco to every product we sell which is shown on a label on the shelf edge.
+A type of unique number given by Tesco to every product we sell which is shown on a label on the shelf edge.
 
 #### Tesco supplier collection
 When Tesco vehicles collect loads from a supplier on their way back to the depot.
@@ -95,6 +95,18 @@ A smaller delivery received during the day for stores to top up its shelves with
 #### Town meeting
 A conference that brings all Tesco senior managers together for a business update. Usually once a year in May.  
 > ![People](assets/images/tag-people.png)
+
+#### TPNB
+Tesco product number – base product. 9-digit number assigned to every product we sell.
+> See also [Tesco product number (TPN)](t.md#tesco-product-number-tpn).
+
+#### TPNC
+Tesco product number – consumer unit. Number assigned to a case of every product.
+> See also [Tesco product number (TPN)](t.md#tesco-product-number-tpn).
+
+#### TPND
+Tesco product number – distribtion unit. 7-digit number assigned to products for distribution.
+> See also [Tesco product number (TPN)](t.md#tesco-product-number-tpn).
 
 #### TPXid
 Universal login details for managers which also act as an email address.  
