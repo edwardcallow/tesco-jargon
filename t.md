@@ -21,7 +21,7 @@ The Tesco process for succession and career planning, which includes forecasting
 > ![People](assets/images/tag-people.png)
 
 #### Tannoy
-Public-address system installed in stores to allow announcements to be made to the shop floor.
+Public-address system installed in stores to allow announcements to be made to the shop floor and staff areas.
 
 #### Team 5
 A five-minute briefing for staff comprising important information on the department, the store/depot and Tesco.  
