@@ -119,6 +119,11 @@ Long, padded material that wraps around a cage to maintain its temperature.
 Someone who works in goods out and drives a shunting unit, which moves trailers around at the depot.  
 > ![Distribution](assets/images/tag-distribution.png)
 
+#### SKU
+Type of unique identifier given to each product sold. Usually refers to a Tesco product number.
+> See also [Tesco product number (TPN)](t.md#tesco-product-number-tpn).  
+> ![Stock control](assets/images/tag-stockcontrol.png)
+
 #### Smart cash drawer
 Till drawer that automatically weighs and records cash levels after each transaction, to report to the electronic journal.  
 > Also known as smart till.  
