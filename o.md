@@ -23,6 +23,7 @@ Personal login details used to sign on to progress tills and back office.
 
 #### Options
 A development programme that helps staff progress, for example from a Customer Assistant role into management.
+> ![People](assets/images/tag-people.png)
 
 #### Orange bag
 The bag of mail sent to stores each week from head office, containing promotional bulletins, any ad-hoc information such as a Mother’s Day briefing pack and training materials.
