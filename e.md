@@ -19,6 +19,7 @@ An each product is one sold by a single unit of itself, for example a lemon (PLU
 
 #### Electronic temporary hours adjustment form (ETHAF)
 A payroll document on mainframe used to report changes to basic working hours, for example adding overtime, sick days and holiday.
+> ![People](assets/images/tag-people.png)
 
 #### Emergency product withdrawal (EPW)
 A request to remove a product from sale as quickly as possible for health and safety or legal reasons.  
@@ -64,6 +65,7 @@ For staff these are:
 
 #### Everyone is welcome at Tesco
 The name we give to all of our work on diversity within Tesco.
+> ![People](assets/images/tag-people.png)
 
 #### Exceptions
 > See [stock exceptions](s.md#stock-exceptions).  
