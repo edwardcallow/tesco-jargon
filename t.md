@@ -47,9 +47,16 @@ Job role in checkouts and dotcom with additional responsibilities. A Team Suppor
 > Previously known as Team Leader (TL).    
 > ![Checkouts](assets/images/tag-checkouts.png) ![Dotcom](assets/images/tag-dotcom.png) ![People](assets/images/tag-people.png)
 
+#### Tesco Bank
+Our retail bank, offering a range of insurance, credit cards, loans, savings and mortgages to customers in the UK.
+> Previously known as Tesco Personal Finance (TPF).
+
 #### Tesco Direct  
 Our catalogue and internet-based non-food offer, which allows customers to browse the product selection on the website or in the Direct catalogue. Customers can then place their order either online via the Tesco.com website, by phone, or at a Tesco Direct desk in selected stores.    
 > ![Direct](assets/images/tag-direct.png)
+
+#### Tesco Personal Finance (TPF)
+> See [Tesco Bank](t.md#tesco-bank).
 
 #### Tesco product number (TPN)
 A type of unique number given by Tesco to every product we sell which is shown on a label on the shelf edge.
@@ -85,7 +92,7 @@ Government-backed policy that staff should ask all customers for ID when they ar
 > ![Checkouts](assets/images/tag-checkouts.png)
 
 #### TL menu
-Soft-key option on progress tills (now `Menu`) to access price verify and the supervisor menu.
+Soft-key option on progress tills (now `Menu`) to access price verify, Tesco Bank tools and the supervisor menu.
 > See also [progress](p.md#progress).  
 > ![Checkouts](assets/images/tag-checkouts.png)
 
@@ -96,6 +103,9 @@ A smaller delivery received during the day for stores to top up its shelves with
 #### Town meeting
 A conference that brings all Tesco senior managers together for a business update. Usually once a year in May.  
 > ![People](assets/images/tag-people.png)
+
+#### TPF
+> See [Tesco personal finance (TPF)](t.md#tesco-personal-finance-tpf).
 
 #### TPNB
 Tesco product number – base product. 9-digit number assigned to every product we sell.
