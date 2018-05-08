@@ -29,7 +29,7 @@ A five-minute briefing for staff comprising important information on the departm
 
 #### Team Leader (TL)
 > See [Team Support](#team-support).  
-> ![People](assets/images/tag-people.png)
+> ![Checkouts](assets/images/tag-checkouts.png) ![Dotcom](assets/images/tag-dotcom.png) ![People](assets/images/tag-people.png)
 
 #### Team manager
 Manager responsible for a team of colleagues. Accountable to a lead manager.  
