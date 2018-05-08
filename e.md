@@ -43,7 +43,7 @@ Clothing including men’s, women’s and kids’ socks, hosiery, nightwear, kid
 > ![Stock control](assets/images/tag-stockcontrol.png)
 
 #### ETHAF
-> See [electronic temporary hours adjustment form (ETHAF](e.md#electronic-temporary-hours-adjustment-form-ethaf).  
+> See [electronic temporary hours adjustment form (ETHAF)](e.md#electronic-temporary-hours-adjustment-form-ethaf).  
 > ![People](assets/images/tag-people.png)
 
 #### European article number (EAN)
