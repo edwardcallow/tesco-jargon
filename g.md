@@ -55,5 +55,9 @@ A term used to describe products that don’t require refrigeration or freezing,
 Back office control to decide whether a checkout operator appears on the operator performance report (group 1), operator performance summary (group 2), both (group 3) or neither (group 4).  
 > ![Checkouts](assets/images/tag-checkouts.png)
 
+#### GTIN
+Global trade identification number. Unique number for each product, represented by an EAN barcode.
+> See also [European article number (EAN)](e.md#european-article-number-ean).
+
 #### Gun
 > See [handheld computer](h.md#handheld-computer).
