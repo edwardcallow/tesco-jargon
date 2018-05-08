@@ -149,7 +149,7 @@ The team that centrally plans the vehicle movements and deliveries to stores.
 > ![Distribution](assets/images/tag-distribution.png)
 
 #### Transport-planning system
-A Dotcom software system, which calculates the best route schedule for the customer orders for a shift. The system takes into account the distance between deliveries, the customer’s selected time slot, Customer Delivery Driver breaks and the weight of orders.
+The Dotcom software system which calculates the best route and schedule for customer orders for a shift. The system takes into account the distance between deliveries, the customer’s selected time slot, Customer Delivery Driver breaks and the weight of orders.
 > Previously known as paragon.  
 > ![Dotcom](assets/images/tag-dotcom.png)
 
@@ -166,7 +166,8 @@ Trunked deliveries that are delivered on time, expressed as a percentage.
 > ![Distribution](assets/images/tag-distribution.png)
 
 #### Trunking station
-A warehouse that sorts cages sent from a national depot to send out to stores (see under Trunk), and also handles merchandisable units.  
+A warehouse that sorts cages sent from a national depot to send out to stores, and also handles merchandisable units.  
+> See also [trunk](t.md#trunk).  
 > ![Distribution](assets/images/tag-distribution.png)
 
 #### TTS
