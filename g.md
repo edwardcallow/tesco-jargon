@@ -56,7 +56,7 @@ Back office control to decide whether a checkout operator appears on the operato
 > ![Checkouts](assets/images/tag-checkouts.png)
 
 #### GTIN
-Global trade identification number. Unique number for each product, represented by an EAN barcode.
+Global trade identification number. Unique number for each product, forming part of an EAN barcode.
 > See also [European article number (EAN)](e.md#european-article-number-ean).
 
 #### Gun
