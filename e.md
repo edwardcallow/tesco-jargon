@@ -42,6 +42,10 @@ Entertainments. A category of products available in stores and online via Tesco 
 Clothing including men’s, women’s and kids’ socks, hosiery, nightwear, kids’ vests, underwear, bras, briefs and baby basics.  
 > ![Stock control](assets/images/tag-stockcontrol.png)
 
+#### ETHAF
+> See [electronic temporary hours adjustment form (ETHAF](e.md#electronic-temporary-hours-adjustment-form-ethaf).  
+> ![People](assets/images/tag-people.png)
+
 #### European article number (EAN)
 A unique 13-digit number allocated to each product and sometimes shown after the Tesco Product Number on a shelf edge label. You may hear people refer to a product’s EAN – this is the European Article Number.  
 > Also known as barcode number.  
