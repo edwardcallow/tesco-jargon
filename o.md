@@ -33,7 +33,8 @@ When a product is past its ‘display until’, ‘use by’ or ‘best before�
 > ![Stock control](assets/images/tag-stockcontrol.png)
 
 #### Out of Hours Trading Manager
-> See [Night Manager](n.md#night-manager).
+> See [Night Manager](n.md#night-manager).  
+> ![People](assets/images/tag-people.png)
 
 #### Out of stock (TOS)
 When a product normally available in store isn’t available.  
