@@ -103,7 +103,8 @@ Product report. A quality report made on a product by the customer service desk 
 
 #### RTC
 Reduce to clear.
-> See [reduction](r.md#reduction).
+> See [reduction](r.md#reduction).  
+> ![Stock control](assets/images/tag-stockcontrol.png)
 
 #### Rumble
 Where everyone in the store comes together for about an hour to get the store fit for the evening trade. During a rumble, staff:
