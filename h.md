@@ -10,7 +10,7 @@ Search this page by pressing Ctrl+F on Windows, ⌘+F on Mac, or choosing ‘fin
 Hazard analysis critical control point. This is a system of safety management and controls advocated by the Food Standards Agency as the most effective way for businesses to control the food chain and protect consumers.
 
 #### Handheld computer
-A mobile computer unit that is hand-held. It is used for a variety of routines in store by different departments, for example stock control and price integrity.
+A mobile computer unit that is hand-held. Used for a variety of routines in store by different departments, for example stock control and price integrity.
 > Also known as PDA.  
 > Previously known as gun.  
 
