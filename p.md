@@ -36,14 +36,6 @@ The payroll system, operated by HM Revenue & Customs, where tax and national ins
 #### PDA
 > See [handheld computer](h.md#handheld-computer).
 
-#### Permit to work (RP2K740)
-Form visiting contractors must complete, and have signed by a member of staff, if they will be working in high-risk areas or undertaking high-risk tasks. Completed alongside an authorisation to work.
-> See also [authorisation to work (PR2K741](a.md#authorisation-to-work-rp2k741).  
-> ![People](assets/images/tag-people.png)
-
-#### Personal digital counting unit (PDCU)
-PDA application previously used by stock control to complete counts.
-
 #### Pensions builder
 The Tesco pension scheme. You can join at any time and save, with help from Tesco, for your retirement. As soon as you join, the scheme also gives you life cover (cash, partner and children’s pensions) and ill-health cover (immediate income for life).  
 > ![People](assets/images/tag-people.png)
@@ -65,6 +57,12 @@ A Tesco period is made up of four or five weeks. There are three per quarter and
 #### Permanent multibuys
 Items that are permanently on multibuy offer. For example buy three yoghurts get the fourth free.
 
+#### Permit to work
+Form visiting contractors must complete, and have signed by a member of staff, if they will be working in high-risk areas or undertaking high-risk tasks. Completed alongside an authorisation to work.
+> Also known as RP2k740.  
+> See also [authorisation to work](a.md#authorisation-to-work).  
+> ![People](assets/images/tag-people.png)
+
 #### Perpetual inventory
 Where a product’s stock levels are manually counted and adjusted.
 > Previously known as PI.
@@ -72,6 +70,9 @@ Where a product’s stock levels are manually counted and adjusted.
 #### Personal day
 An additional day’s holiday that all staff are entitled to over and above their annual leave and bank holidays, given at Christmas.  
 > ![People](assets/images/tag-people.png)
+
+#### Personal digital counting unit (PDCU)
+PDA application previously used by stock control to complete counts.
 
 #### Personal development plan (PDP)
 A plan that shows someone’s development objectives, the actions to achieve them and the measure and target.  
