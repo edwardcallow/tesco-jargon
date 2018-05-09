@@ -7,9 +7,9 @@ Search this page by pressing Ctrl+F on Windows, ⌘+F on Mac, or choosing ‘fin
 ## T is for…
 
 #### T&A card
-Time and attendance card. Used to record clockings in stores and depots.
+Time and attendance card. Used to record clockings in stores and depots. Can also be used to log in to handheld computers.
 > Also known as clocking card.  
-> See also [time and attendance](#time-and-attendance).  
+> See also [handheld computer](h.md#handheld-computer) and [time and attendance](#time-and-attendance).  
 > ![People](assets/images/tag-people.png)
 
 #### Take people with you
