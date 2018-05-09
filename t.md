@@ -84,6 +84,10 @@ Process to remove cash from a till cash drawer, to be sent to the cash office.
 > Also known as till clearance and till lift.  
 > ![Checkouts](assets/images/tag-checkouts.png)
 
+#### Till reset
+> See [drawer reset](d.md#drawer-reset).  
+> ![Checkouts](assets/images/tag-checkouts.png)
+
 #### Time and attendance
 The system that records clockings by T&A cards in stores and depots.
 > Also known as Tesco T&A.  
