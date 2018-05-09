@@ -71,12 +71,12 @@ Where a product’s stock levels are manually counted and adjusted.
 An additional day’s holiday that all staff are entitled to over and above their annual leave and bank holidays, given at Christmas.  
 > ![People](assets/images/tag-people.png)
 
-#### Personal digital counting unit (PDCU)
-PDA application previously used by stock control to complete counts.
-
 #### Personal development plan (PDP)
 A plan that shows someone’s development objectives, the actions to achieve them and the measure and target.  
 > ![People](assets/images/tag-people.png)
+
+#### Personal digital counting unit (PDCU)
+PDA application previously used by stock control to complete counts.
 
 #### Personal Shopper
 The member of staff responsible for selecting and packing grocery products for Dotcom customers before delivery.  
