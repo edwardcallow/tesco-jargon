@@ -39,7 +39,7 @@ Products that can’t be sold because they’ve been damaged or are out of code.
 > ![Stock control](assets/images/tag-stockcontrol.png)
 
 #### Waste mode
-Function on progress tills to waste products without using a handheld computer.
+Function on progress tills to waste products without using a handheld computer. Available to operators with privilege level 6 and above.
 > See also [progress](p.md#progress) and [waste](w.md#waste).  
 > ![Checkouts](assets/images/tag-checkouts.png)
 
