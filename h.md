@@ -27,7 +27,7 @@ The courier service used by Tesco Direct to deliver orders directly to customers
 > ![Direct](assets/images/tag-direct.png)  
 
 #### Homeplus store
-Previously a type of Tesco store dedicated to Non-Food. The last closed in 2015.
+Previously a type of Tesco store dedicated to non-food products. The last closed in 2015.
 
 #### HOST
 An electronic mail message system used in stores. This will eventually be replaced by the Workplan.
