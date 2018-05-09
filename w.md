@@ -38,6 +38,11 @@ Products that can’t be sold because they’ve been damaged or are out of code.
 > See also [out of code (OOC)](o.md#out-of-code-ooc).  
 > ![Stock control](assets/images/tag-stockcontrol.png)
 
+#### Waste mode
+Function on progress tills to waste products without using a handheld computer.
+> See also [progress](p.md#progress) and [waste](w.md#waste).  
+> ![Checkouts](assets/images/tag-checkouts.png)
+
 #### Week (payroll)
 A Tesco payroll week runs from Friday to Thursday. Wages are finalised on Friday, so Thursday is the last day to code wages and pay overtime.
 
