@@ -52,6 +52,7 @@ The process of filling the shelves.
 
 #### Reprint number
 The unique number on a document or promotional material that you use when you want to re-order it.
+> Also known as RP number.
 
 #### Restricted fill
 Stock-protection process to limit the number of products available on the shelf.
@@ -99,6 +100,10 @@ Product report. A quality report made on a product by the customer service desk 
 
 #### RSU
 > See [recycling unit](r.md#recycling-unit).
+
+#### RTC
+Reduce to clear.
+> See [reduction](r.md#reduction).
 
 #### Rumble
 Where everyone in the store comes together for about an hour to get the store fit for the evening trade. During a rumble, staff:
