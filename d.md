@@ -135,6 +135,12 @@ A double-decker trailer with two floors.
 When a product is scanned more than once at the checkout, but the customer has only purchased one item.  
 > ![Checkouts](assets/images/tag-checkouts.png) ![Stock control](assets/images/tag-stockcontrol.png)
 
+#### Drawer reset
+Function on progress tills to confirm the amount of cash in a till cash drawer. Must be done at least once per day. Available, via the supervisor menu, to operators with privilege level 6 and above.
+> Also known as till reset.  
+> See also [progress](p.md#progress).  
+> ![Checkouts](assets/images/tag-checkouts.png)
+
 #### DRC
 Disability Rights Commission. A government body responsible for investigating and enforcing disability law. Replaced by the Equality and Human Rights Commission.  
 > ![People](assets/images/tag-people.png)
