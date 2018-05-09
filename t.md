@@ -73,9 +73,15 @@ When Tesco vehicles collect loads from a supplier on their way back to the depot
 #### Tesco week numbers
 > See [week](w.md#week-payroll).
 
+#### Till check
+Function on progress tills to send a report of the cash in a till cash drawer. Available, via the supervisor menu, to operators with privilege level 6 and above.
+> Also known as till reading.  
+> See also [progress](p.md#progress).  
+> ![Checkouts](assets/images/tag-checkouts.png)
+
 #### Till pick up
 Process to remove cash from a till cash drawer, to be sent to the cash office.
-> Also known as till lift.    
+> Also known as till clearance and till lift.  
 > ![Checkouts](assets/images/tag-checkouts.png)
 
 #### Time and attendance
