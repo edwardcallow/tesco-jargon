@@ -8,10 +8,10 @@ Search this page by pressing Ctrl+F on Windows, ⌘+F on Mac, or choosing ‘fin
 
 #### Term
 Brief definition.
-> Also known as direct till.  
-> Previously known as customer service level.  
-> See also [permit to work (PR2K740)](p.md#permit-to-work-rp2k740).  
-> ![Direct](assets/images/tag-direct.png) ![Distribution](assets/images/tag-distribution.png) ![Dotcom](assets/images/tag-dotcom.png) ![People](assets/images/tag-people.png) ![Stock control](assets/images/tag-stockcontrol.png)
+> Also known as another term.  
+> Previously known as old term.  
+> See also [related term](p.md#permit-to-work-rp2k740).  
+> ![Checkouts](assets/images/tag-checkouts.png) ![Direct](assets/images/tag-direct.png) ![Distribution](assets/images/tag-distribution.png) ![Dotcom](assets/images/tag-dotcom.png) ![People](assets/images/tag-people.png) ![Stock control](assets/images/tag-stockcontrol.png)
 
 #### Old term
 > See [new term](g.md#grocery).
