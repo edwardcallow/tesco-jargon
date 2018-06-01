@@ -52,6 +52,10 @@ Manager responsible for colleagues through the line management chain.
 > See [products](p.md#products).  
 > ![Stock control](assets/images/tag-stockcontrol.png)
 
+#### LISA
+Look inside, always. A security process when conducting service checks.
+> ![Checkouts](assets/images/tag-checkouts.png)  
+
 #### Live the values
 This is one of the key themes of the leadership framework. It’s all about your personal approach and behaving with integrity. If you ‘live the values’ you will support and praise more than criticise and share your knowledge to help others develop.
 > See also [leadership framework](#leadership-framework).
