@@ -45,6 +45,10 @@ Every new store receives an equipment package. The new store opening package con
 #### Blue, red, amber, green report (BRAG report)
 A report that scores performance down a grading system as blue, green, amber or red where blue means you’ve exceeded your target positively down to red, meaning you’ve missed your target.
 
+#### BOB
+Bottom of bag. A security process when conducting service checks.
+> ![Checkouts](assets/images/tag-checkouts.png)  
+
 #### BOGOF
 Buy one get one free. This is Tesco terminology for a certain promotional offer.
 
