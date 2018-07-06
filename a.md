@@ -59,15 +59,15 @@ Putting together an order for a store in depots.
 The customer-management system used by Direct and Dotcom.  
 > ![Direct](assets/images/tag-direct.png) ![Dotcom](assets/images/tag-dotcom.png)
 
-#### Autocube
-An automated process that calculates how much stock will be held on the shelf in stores.  
-> ![Stock control](assets/images/tag-stockcontrol.png)
-
 #### Authorisation to work
 Form visiting contractors must complete, and have signed by a member of staff, to sign in whenever they start working on Tesco propery. Used to decide if a permit to work must also be completed.
 > Also known as RP2k741.  
 > See also [permit to work](p.md#permit-to-work).  
 > ![People](assets/images/tag-people.png)
+
+#### Autocube
+An automated process that calculates how much stock will be held on the shelf in stores.  
+> ![Stock control](assets/images/tag-stockcontrol.png)
 
 #### Availability
 Measure of whether a customer can buy a product.
