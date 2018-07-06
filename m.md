@@ -30,6 +30,10 @@ The stock control process which identifies the exact shelf location of every pro
 > See [depot gaps](d.md#depot-gaps).  
 > ![Distribution](assets/images/tag-distribution.png)
 
+#### Markdown
+Price reduction applied to a product.
+> ![Stock control](assets/images/tag-stockcontrol.png)
+
 #### Marshalling & tramming
 Sorting cages out into store order and/or moving them to their relevant areas in a distribution centre.  
 > ![Distribution](assets/images/tag-distribution.png)
