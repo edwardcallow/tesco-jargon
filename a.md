@@ -12,7 +12,7 @@ Absence percentage. The amount of time an employee has been absent from work ove
 
 #### ACAYG
 Automated clear as you go. System that automatically applies a store-specific markdown to BWS, frozen food, grocery, health & beauty, household & pet or impulse products that are being corporately discontinued or de-ranged.
-> See also [BWS](b.md#BWS), [corporate discontinuing](c.md#corporate-discontinuing), [de-ranging](d.md#de-ranging) and [markdown](m.md#markdown).  
+> See also [BWS](b.md#bws), [corporate discontinuing](c.md#corporate-discontinuing), [de-ranging](d.md#de-ranging) and [markdown](m.md#markdown).  
 > ![Stock control](assets/images/tag-stockcontrol.png)
 
 #### Accident review board 
