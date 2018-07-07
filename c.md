@@ -203,6 +203,9 @@ The nine behaviours a Tesco leader should demonstrate:
 - gaining commitment  
 > ![People](assets/images/tag-people.png)
 
+#### CRST
+Commercial ranging support tool. System that allows merchandising and buying teams to range the right products in stores, by communicating with space, range and display team system.
+
 #### CSLA
 Customer Service & Loyalty Assistant. Dotcom role responsible for making customers feel welcome and helping them to understand the service.  
 > ![Dotcom](assets/images/tag-dotcom.png) ![People](assets/images/tag-people.png)
