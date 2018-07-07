@@ -165,6 +165,9 @@ A basic skill everyone in Tesco should have received training on. The core skill
 #### Corporate
 Corporate should only be used as a noun to name specific departments or areas of the business, for example “Corporate Purchasing Team” or “Corporate and Legal Affairs”. Corporate should not be used as an adjective to describe things, for example a corporate way of doing things.
 
+#### Corporate discontinuing
+When we stop selling a product across the entire business.
+
 #### Corporate Purchasing Team
 The team responsible for sourcing and buying the best goods and services (not sold to customers) at the best price.  
 
