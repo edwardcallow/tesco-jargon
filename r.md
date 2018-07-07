@@ -78,6 +78,14 @@ Products returned to a depot or a supplier by a store or products returned to st
 #### Return on capital employed
 This is the net profit divided by the capital employed and shows whether the business has made the most of its spending on equipment and physical assets, therefore a measure of profitability.
 
+#### RMS
+Retail management system. Contains all the information about a product set-up and commercial income, such as supplier details and margins. Forms part of NBS.
+> See also [NBS](n.md#nbs).  
+
+#### RPM
+Retail price management. System that contains informationg about the price of products, and any relevent promotions or markdowns. Forms part of NBS.
+> See also [NBS](n.md#nbs).  
+
 #### Roles and accountabilities
 A way of showing who is responsible and accountable for an activity and who should be consulted and informed.
 > Previously known as RACI.  
