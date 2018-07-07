@@ -23,6 +23,11 @@ Depot dedicated to general merchandise returns. All store GM returns, uplift sto
 #### National work team
 A team of people from different departments with a stake in a particular project or initiative.
 
+#### NBS
+New buying system. The national product file system (RMS) and pricing system (RPM) that holds all information about the products we sell and where they come from.
+> Previously known as the central file.  
+> See also [RMS](r.md#rms) and [RPM](r.md#rpm).
+
 #### Night Manager
 The manager of a store at night, whose main task is to replenish the shelves and get the store ready for the next day’s trade.
 > Previously known as Out of Hours Trading Manager.
