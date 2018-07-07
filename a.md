@@ -10,6 +10,11 @@ Search this page by pressing Ctrl+F on Windows, ⌘+F on Mac, or choosing ‘fin
 Absence percentage. The amount of time an employee has been absent from work over the last 26 weeks, given as a percentage of contracted hours.  
 > ![People](assets/images/tag-people.png)
 
+#### ACAYG
+Automated clear as you go. System that automatically applies a store-specific markdown to BWS, frozen food, grocery, health & beauty, household & pet or impulse products that are being corporately discontinued or de-ranged.
+> See also [BWS](b.md#BWS), [corporate discontinuing](c.md#corporate-discontinuing), [de-ranging](d.md#de-ranging) and [markdown](m.md#markdown).  
+> ![Stock control](assets/images/tag-stockcontrol.png)
+
 #### Accident review board 
 A weekly conference call when all incidents involving damage to Dotcom vans are reviewed. The review board makes a decision as to whether each incident was preventable or non-preventable and makes recommendations of appropriate action to the store.  
 > ![Dotcom](assets/images/tag-dotcom.png)
