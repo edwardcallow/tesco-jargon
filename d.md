@@ -29,6 +29,11 @@ A pension scheme, like the Tesco scheme, that pays you benefits based on your pa
 Unloading empty cages from a trailer at the depot.  
 > ![Distribution](assets/images/tag-distribution.png)
 
+#### De-ranging
+Removing products from an in-store range to make way for new products. These products will usually be marked down to clear.
+> See also [markdown](m.md#markdown).  
+> ![Stock control](assets/images/tag-stockcontrol.png)
+
 #### Delivery holding area
 Location for holding delivery stock before pre-sorting.
 > Previously known as delivery lane.  
