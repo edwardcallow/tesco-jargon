@@ -137,7 +137,7 @@ Opportunity for in-store staff to purchase end-of-life products, reduced to 1p, 
 > ![People](assets/images/tag-people.png)
 
 #### Combined service desk
-Type of service desk providing both customer service and tobacco kiosk. Part of the services department.
+Service desk providing both customer service functions and tobacco/lottery kiosk. Part of the services department, most service desks are of this type.
 > See also [customer service desk (CSD)](#customer-service-desk-csd).  
 
 #### Commercial
@@ -152,7 +152,7 @@ Only to be used when referring to Health and Safety or legal matters. For exampl
 #### Consumables
 Products that are used by stores, for example, stationery, till rolls and food wrapping, but are not sold to customers.
 
-#### Continuous-replenishment (CR) system
+#### Continuous replenishment (CR) system
 > See [store ordering system](s.md#store-ordering-system).
 
 #### Core products
