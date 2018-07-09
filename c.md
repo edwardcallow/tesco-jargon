@@ -247,7 +247,7 @@ Service desk at the front of the store responsible for helping customers with qu
 > See also [combined service desk](#combined-service-desk).  
 
 #### Customer service desk system
-Secondary till system used at the customer service desk to complete a variety of processes. including: processing hardlines, reporting price errors, recording lost property and issuing VAT receipts. Accessed by clicking `F11`.
+Secondary till system used at the customer service desk to complete a variety of processes, including: processing hardlines, reporting price errors, recording lost property and issuing VAT receipts. Accessed by clicking `F11`.
 > Also known as F11.  
 > See also [hardline](h.md#hardline).  
 
