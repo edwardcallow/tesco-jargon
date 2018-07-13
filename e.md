@@ -7,7 +7,7 @@ Search this page by pressing Ctrl+F on Windows, ⌘+F on Mac, or choosing ‘fin
 ## E is for…
 
 #### E grade
-> See [Expert pay grade](e.md#expert-pay-grade).  
+> See [expert pay grade](e.md#expert-pay-grade).  
 > ![People](assets/images/tag-people.png)  
 
 #### E-coupon
