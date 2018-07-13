@@ -22,12 +22,12 @@ A system used in-store, for example, to download price changes, or to view what�
 > ![Checkouts](assets/images/tag-checkouts.png)
 
 #### Basket checkout
-A checkout designed for customers with fewer than 10 items of shopping, that are placed straight into a bag once they have been scanned at the checkout.
+Checkout designed for customers with fewer than 10 items of shopping, that are placed straight into a bag once they have been scanned at the checkout.
 > Previously known as express checkout.  
 > ![Checkouts](assets/images/tag-checkouts.png)
 
 #### Benefits and concerns (Bs and Cs)
-An agenda item in a Tesco meeting where everyone shares what they think the benefits from the meeting were, and any concerns.
+Agenda item in a Tesco meeting where everyone shares what they think the benefits from the meeting were, and any concerns.
 
 #### Best sellers
 > See [products that matter most (PTMM)](p.md#products-that-matter-most-ptmm).
@@ -43,7 +43,7 @@ Report available on G drive that details waste from each store, reported by year
 Every new store receives an equipment package. The new store opening package contains stationery, materials and equipment needed to open a new store.
 
 #### Blue, red, amber, green report (BRAG report)
-A report that scores performance down a grading system as blue, green, amber or red where blue means you’ve exceeded your target positively down to red, meaning you’ve missed your target.
+Report that scores performance down a grading system as blue, green, amber or red where blue means you’ve exceeded your target positively down to red, meaning you’ve missed your target.
 
 #### BOB
 Bottom of bag. A security process when conducting service checks.
@@ -63,10 +63,10 @@ Monthly budget statements showing sales, including and excluding the petrol fill
 Business support team. A team responsible for supporing an area of the business.
 
 #### Budget control sheet
-A statement showing the forecast spend on wages based on store turnover.
+Statement showing the forecast spend on wages based on store turnover.
 
 #### Buy as you earn (BAYE)
-A scheme for staff, with three months’ service or more, to buy shares on a regular basis from their gross pay, pre-tax and national insurance.  
+Scheme for staff, with three months’ service or more, to buy shares on a regular basis from their gross pay, pre-tax and national insurance.  
 > ![People](assets/images/tag-people.png)
 
 #### BWS
