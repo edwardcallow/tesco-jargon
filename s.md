@@ -116,8 +116,12 @@ Long, padded material that wraps around a cage to maintain its temperature.
 > ![Distribution](assets/images/tag-distribution.png)
 
 #### Shunter
-Someone who works in goods out and drives a shunting unit, which moves trailers around at the depot.  
+Someone who works in the goods out area and drives a shunting unit, which moves trailers around the depot.  
 > ![Distribution](assets/images/tag-distribution.png)
+
+#### Skilled pay grade
+Pay grade above Customer Assistant and eligible for a skills payment. Used in stores and customer fulfilment centres.  
+> Also known as D grade.
 
 #### SKU
 Type of unique identifier given to each product sold. Usually refers to a Tesco product number.
