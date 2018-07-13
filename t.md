@@ -7,7 +7,8 @@ Search this page by pressing Ctrl+F on Windows, ⌘+F on Mac, or choosing ‘fin
 ## T is for…
 
 #### T grade
-> See [Team Support/Shift Leader pay grade](t.md
+> See [Team Support/Shift Leader pay grade](t.md#team-supportshift-leader-pay-grade).  
+> ![People](assets/images/tag-people.png)  
 
 #### T&A card
 Time and attendance card. Used to record clockings in stores and depots. Can also be used to log in to handheld computers.
@@ -53,7 +54,7 @@ Job role in checkouts and dotcom with additional responsibilities. A Team Suppor
 #### Team Support/Shift Leader pay grade
 Pay grades above expert (E/F grade) and eligible for skills payments. Used in stores and customer fulfilment centres.  
 > Also known as T grade and P grade.  
-> ![People](assets/images/tag-people.png)
+> ![People](assets/images/tag-people.png)  
 
 #### Tesco Bank
 Our retail bank, offering a range of insurance, credit cards, loans, savings and mortgages to customers in the UK.
