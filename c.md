@@ -6,6 +6,10 @@ Search this page by pressing Ctrl+F on Windows, ⌘+F on Mac, or choosing ‘fin
 
 ## C is for…
 
+#### C grade
+> See [Customer Assistant pay grade](c.md#customer-assistant-pay-grade).  
+> ![People](assets/images/tag-people.png)  
+
 #### Cage
 A metal unit on wheels used to transport cases of stock. Available with two sides (two-sider), with straps, or four sides (four-sider), with gates.  
 > ![Distribution](assets/images/tag-distribution.png)
