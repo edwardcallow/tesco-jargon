@@ -6,6 +6,10 @@ Search this page by pressing Ctrl+F on Windows, ⌘+F on Mac, or choosing ‘fin
 
 ## F is for…
 
+#### F grade
+> See [expert pay grade](e.md#expert-pay-grade).  
+> ![People](assets/images/tag-people.png)  
+
 #### F11
 > See [customer service desk system](c.md#customer-service-desk-system).  
 
