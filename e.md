@@ -81,6 +81,10 @@ An agenda item at a Tesco meeting where everyone shares what they expect to get 
 #### Expected weekly sales
 The amount of a product expected to sell in store in any given week based on trading information. This is calculated using historic actual sales and predicted sales.
 
+#### Expert pay grade
+Pay grades above skilled (D grade) and eligible for skills payments. Used in stores and customer fulfilment centres.  
+> Also known as E grade and F grade.
+
 #### Express store
 A type of Tesco store in the convenience store format. These stores stock a small amount of everyday items and can be on petrol forecourts.
 
