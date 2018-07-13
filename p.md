@@ -6,6 +6,10 @@ Search this page by pressing Ctrl+F on Windows, ⌘+F on Mac, or choosing ‘fin
 
 ## P is for…
 
+#### P grade
+> See [Team Support/Shift Leader pay grade](t.md#team-supportshift-leader-pay-grade).  
+> ![People](assets/images/tag-people.png)  
+
 #### Paired counts
 When you add together the count of a product on the shop floor with the count of a product in the Warehouse.
 
