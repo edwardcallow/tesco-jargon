@@ -223,6 +223,11 @@ Job role in stores. Specialised in one department, though likely multiskilled.
 > See also [multiskilling](m.md#multiskilling).  
 > ![People](assets/images/tag-people.png)
 
+#### Customer Assistant pay grade
+Pay grade for Customer Assistants in stores and customer fulfilment centres.
+> Also known as B grade and C grade.   
+> ![People](assets/images/tag-people.png)  
+
 #### Customer assistant menu
 Soft-key option on progress tills (labelled `Cust. Asst. Menu`) to access common functions, such as till pick up.
 
