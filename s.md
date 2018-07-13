@@ -120,7 +120,7 @@ Someone who works in the goods out area and drives a shunting unit, which moves 
 > ![Distribution](assets/images/tag-distribution.png)
 
 #### Skilled pay grade
-Pay grade above Customer Assistant and eligible for a skills payment. Used in stores and customer fulfilment centres.  
+Pay grade above Customer Assistant (B/C grade) and eligible for a skills payment. Used in stores and customer fulfilment centres.  
 > Also known as D grade.
 
 #### SKU
