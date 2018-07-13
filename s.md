@@ -121,7 +121,8 @@ Someone who works in the goods out area and drives a shunting unit, which moves 
 
 #### Skilled pay grade
 Pay grade above Customer Assistant (B/C grade) and eligible for a skills payment. Used in stores and customer fulfilment centres.  
-> Also known as D grade.
+> Also known as D grade.  
+> ![People](assets/images/tag-people.png)  
 
 #### SKU
 Type of unique identifier given to each product sold. Usually refers to a Tesco product number.
