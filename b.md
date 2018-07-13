@@ -6,6 +6,10 @@ Search this page by pressing Ctrl+F on Windows, ⌘+F on Mac, or choosing ‘fin
 
 ## B is for…
 
+#### B grade
+> See [Customer Assistant pay grade](c.md#customer-assistant-pay-grade).  
+> ![People](assets/images/tag-people.png)  
+
 #### Backhaul
 > See [Tesco supplier collection](t.md#tesco-supplier-collection).  
 > ![Distribution](assets/images/tag-distribution.png)
