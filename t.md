@@ -6,6 +6,9 @@ Search this page by pressing Ctrl+F on Windows, ⌘+F on Mac, or choosing ‘fin
 
 ## T is for…
 
+#### T grade
+> See [Team Support/Shift Leader pay grade](t.md
+
 #### T&A card
 Time and attendance card. Used to record clockings in stores and depots. Can also be used to log in to handheld computers.
 > Also known as clocking card.  
@@ -46,6 +49,11 @@ Team pads connect to the picking control system via a wireless radio signal, tra
 Job role in checkouts and dotcom with additional responsibilities. A Team Support should take decisions around routine things on their department, escalating non-routine things they can’t deal with to a manager.
 > Previously known as Team Leader (TL).    
 > ![Checkouts](assets/images/tag-checkouts.png) ![Dotcom](assets/images/tag-dotcom.png) ![People](assets/images/tag-people.png)
+
+#### Team Support/Shift Leader pay grade
+Pay grades above expert (E/F grade) and eligible for skills payments. Used in stores and customer fulfilment centres.  
+> Also known as T grade and P grade.  
+> ![People](assets/images/tag-people.png)
 
 #### Tesco Bank
 Our retail bank, offering a range of insurance, credit cards, loans, savings and mortgages to customers in the UK.
