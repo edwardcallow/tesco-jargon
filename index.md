@@ -5,7 +5,10 @@
 Welcome to the Tesco jargon buster. Just choose a letter (or 123) above to get started. :-)
 
 ## Still to be defined
-We’re still searching for a proper definition for these terms…
+We’re still searching for a simple definition for these terms…
+
+#### Backstock
+`Definition unavailable.`
 
 #### CBL
 `Definition unavailable.`
