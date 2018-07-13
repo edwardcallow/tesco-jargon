@@ -6,6 +6,10 @@ Search this page by pressing Ctrl+F on Windows, ⌘+F on Mac, or choosing ‘fin
 
 ## E is for…
 
+#### E grade
+> See [Expert pay grade](e.md#expert-pay-grade).  
+> ![People](assets/images/tag-people.png)  
+
 #### E-coupon
 A coupon that customers can redeem online by entering a specific code when placing their orders.
 
@@ -83,7 +87,8 @@ The amount of a product expected to sell in store in any given week based on tra
 
 #### Expert pay grade
 Pay grades above skilled (D grade) and eligible for skills payments. Used in stores and customer fulfilment centres.  
-> Also known as E grade and F grade.
+> Also known as E grade and F grade.  
+> ![People](assets/images/tag-people.png)  
 
 #### Express store
 A type of Tesco store in the convenience store format. These stores stock a small amount of everyday items and can be on petrol forecourts.
