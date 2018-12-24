@@ -90,6 +90,11 @@ A delivery that does not come from a Tesco or agency distribution centre.
 #### Direct to store/depot
 A way of delivering business plan activity in-store or depot following a briefing pack delivered direct to store/depot two weeks before activity starts.
 
+#### Discontinued (product)
+When a product is no longer stocked in any of our stores in the UK or Ireland. This will either be because it has been corporately discontinued or it is un-orderable from the supplier.  
+> See also [corporately discontinued (product)](c.md#corporately-discontinued-product) and [un-orderable from the supplier](u.md#un-orderable-from-the-supplier).  
+> ![Stock control](assets/images/tag-stockcontrol.png)
+
 #### Dispatcher
 A Dotcom role dedicated to preparing and unloading trolleys and equipment for Personal Shoppers, enabling them to concentrate solely on picking orders for customers.  
 > ![Dotcom](assets/images/tag-dotcom.png)
