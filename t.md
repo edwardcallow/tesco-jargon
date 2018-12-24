@@ -56,6 +56,9 @@ Pay grades above expert (E/F grade) and eligible for skills payments. Used in st
 > Also known as T grade and P grade.  
 > ![People](assets/images/tag-people.png)  
 
+#### Temporary supply issues
+We haven’t discontinued the product, and it’s still an orderable line, but we are unable to get enough stock into our stores. This may be as a result of demand for the product exceeding our expectations or a temporary issue with the manufacturing.  
+
 #### Tesco Bank
 Our retail bank, offering a range of insurance, credit cards, loans, savings and mortgages to customers in the UK.
 > Previously known as Tesco Personal Finance (TPF).
