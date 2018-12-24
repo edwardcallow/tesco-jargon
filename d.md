@@ -91,7 +91,7 @@ A delivery that does not come from a Tesco or agency distribution centre.
 A way of delivering business plan activity in-store or depot following a briefing pack delivered direct to store/depot two weeks before activity starts.
 
 #### Discontinuing
-When a product is no longer stocked in any of our stores in the UK or Ireland. This will either be because it has been corporately discontinued or it is un-orderable from the supplier.  
+When a product is no longer stocked in any of our stores. This will either be because it has been corporately discontinued or it is un-orderable from the supplier.  
 > See also [corporate discontinuing](c.md#corporate-discontinuing) and [un-orderable from the supplier](u.md#un-orderable-from-the-supplier).  
 
 #### Dispatcher
