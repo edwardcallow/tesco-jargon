@@ -158,6 +158,9 @@ A piece of equipment to dispose of waste in stores and distribution which is loc
 #### Compliance
 Only to be used when referring to Health and Safety or legal matters. For example, to comply with the law or to comply with health and safety instructions. Compliance should not be used in another context, for example “you must comply with the merchandising guidelines”.
 
+#### Confidential office
+Room back-of-house used for storing confidential records, such as colleague personnel files. Often also used as the managers’ team room.
+
 #### Consumables
 Products that are used by stores, for example, stationery, till rolls and food wrapping, but are not sold to customers.
 
