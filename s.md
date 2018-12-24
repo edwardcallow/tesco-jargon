@@ -143,7 +143,8 @@ This system details all fixtures and space in store and what product groups are 
 > ![Stock control](assets/images/tag-stockcontrol.png)
 
 #### SRTB
-Login details used by stock control and price integrity.  
+Login details used by stock control and price integrity to access back office and related handheld computer functions.  
+> See also [back office](b.md#back-office).  
 > ![Stock control](assets/images/tag-stockcontrol.png)
 
 #### Staff reception
