@@ -21,6 +21,11 @@ An each product is one sold by a single unit of itself, for example a lemon (PLU
 #### Electronic article surveillance
 > See [security tag](s.md#security-tag).
 
+#### Electronic journal
+System in-store that logs all transactions through the checkouts. Part of checkout back office.  
+> See also [checkout back office (CBO)](c.md#checkout-back-office-cbo).  
+> ![Checkouts](assets/images/tag-checkouts.png)
+
 #### Electronic temporary hours adjustment form (ETHAF)
 A payroll document on mainframe used to report changes to basic working hours, for example adding overtime, sick days and holiday.
 > ![People](assets/images/tag-people.png)
