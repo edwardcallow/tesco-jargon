@@ -142,7 +142,8 @@ A card which staff in stores can load money onto and use instead of money to buy
 > ![People](assets/images/tag-people.png)
 
 #### Colleague shop
-Opportunity for in-store staff to purchase end-of-life products, reduced to 1p, in the evenings. Intended to reduce food waste from stores. Usually located in staff reception.  
+Opportunity for in-store staff to take end-of-life products that have not sold, at no cost, in the evenings. Intended to reduce food waste from stores. Usually located in staff reception.  
+> Previously known as the penny shop.  
 > ![People](assets/images/tag-people.png)
 
 #### Combined service desk
