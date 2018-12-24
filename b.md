@@ -22,8 +22,9 @@ Search this page by pressing Ctrl+F on Windows, ⌘+F on Mac, or choosing ‘fin
 Button at the back gate in large stores to trigger an automated announcement over the tannoy: ‘there is a caller at the back gate, please attend’.
 
 #### Back office
-A system used in-store, for example, to download price changes, or to view what’s happening on the checkout operation.  
-> ![Checkouts](assets/images/tag-checkouts.png)
+A system used in-store to maintain sales and pricing information for the produts ranged. Back office downloads price changes each night and pushes them to the checkouts. Used to print shelf-edge labels and POS.  
+> ! See also [checkout back office](c.md#checkout-back-office).  
+> ![Stock control](assets/images/tag-stockcontrol.png)
 
 #### Basket checkout
 Checkout designed for customers with fewer than 10 items of shopping, that are placed straight into a bag once they have been scanned at the checkout.
