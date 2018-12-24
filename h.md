@@ -20,7 +20,8 @@ Return process used for GM and clothing products. Involves using CSD F11 to prin
 > ![Direct](assets/images/tag-direct.png) ![Stock control](assets/images/tag-stockcontrol.png)  
 
 #### Heat map
-Document showing the jobs, and associated number of hours, to be performed by each department in store.
+Document showing the jobs, and associated number of hours, to be performed by each department in store.  
+> ![People](assets/images/tag-people.png)  
 
 #### Home-delivery network
 The courier service used by Tesco Direct to deliver orders directly to customers’ homes.  
