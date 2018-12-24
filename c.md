@@ -65,10 +65,10 @@ The return on a one-off cash investment calculated by dividing the cash return b
 Prepacked item with a variable weight.
 
 #### Category (products)
-A grouping of similar products, for example, the Frozen category.
+A grouping of similar products, for example, the frozen category.
 
 #### Category (stores)
-A grouping of stores based on sales and complexity that is used to determine Store Manager pay and benefits. Categories range from the smallest category 5 to the largest and most complex Category 10 store.
+A grouping of stores based on sales and complexity that is used to determine Store Manager pay and benefits. Categories range from the smallest category 5 to the largest and most complex category 10 store.
 
 #### Catering partners
 Third-party companies who run some of our cafés on behalf of Tesco. These are traditional cafés, often with food, and cater for Tesco staff or customers.
@@ -93,6 +93,11 @@ Database for all products sold through the checkouts.
 #### Central labour planning
 > See [warehouse labour planning](w.md#warehouse-labour-planning).  
 > ![Distribution](assets/images/tag-distribution.png)
+
+#### Checkout back office (CBO)
+System used in-store to control the progress checkouts. CBO maintains the list of operators and their privileges, and logs all transactions in the electronic journal.  
+> See also [back office](b.md#back-office) and [electronic journal](e.md#electronic-journal).  
+> ![Checkouts](assets/images/tag-checkouts.png)
 
 #### Checkout Team Support (CTS)
 > See [Team Support](t.md#team-support).  
