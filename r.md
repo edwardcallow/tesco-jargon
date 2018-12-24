@@ -17,6 +17,14 @@ A simpler system and routine for price changes to ensure products are always off
 The different products within a particular product group.  
 > ![Stock control](assets/images/tag-stockcontrol.png)
 
+#### Range reduction
+Decision to remove a particular product or line of products from a store's range. This will be down to the item not selling well in comparison to other items the store stocks.  
+> ![Stock control](assets/images/tag-stockcontrol.png)
+
+#### Range reset
+Process allowing us to simplify the choice our customer has, making it clearer for them to shop and understand what's available. We now have fewer pack sizes and are removing brands that are not important to our customers.  
+> ![Stock control](assets/images/tag-stockcontrol.png)
+
 #### Rapid action team
 A small team brought together to address a specific issue. The process of running a rapid action team can be learned from a Tesco training session.
 
