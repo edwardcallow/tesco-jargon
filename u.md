@@ -12,6 +12,10 @@ A group of Directors which meets monthly to oversee change programmes for the bu
 #### UK Trading Group
 A group of Directors which meets weekly to review performance and agree next steps.
 
+#### Un-orderable from the supplier
+The supplier/brand has discontinued the product or they are experiencing issues with the product. Possible shortage of ingredients or they are unable to manufacture the product going forward.  
+> See also [corporate discontinuing](c.md#corporate-discontinuing) and [discontinuing](d.md#discontinuing).  
+
 #### Unusable sales
 A system setting you can request through store order direct, to be applied to a product that will ensure orders are not based on the day’s sales. Used when sales change significantly, but were not forecasted and you do not expect this level of sales to be sustained.  
 > ![Stock control](assets/images/tag-stockcontrol.png)
