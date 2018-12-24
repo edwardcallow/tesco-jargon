@@ -23,7 +23,7 @@ Button at the back gate in large stores to trigger an automated announcement ove
 
 #### Back office
 A system used in-store to maintain sales and pricing information for the produts ranged. Back office downloads price changes each night and pushes them to the checkouts. Used to print shelf-edge labels and POS.  
-> See also [checkout back office](c.md#checkout-back-office).  
+> See also [checkout back office (CBO)](c.md#checkout-back-office-cbo).  
 > ![Stock control](assets/images/tag-stockcontrol.png)
 
 #### Basket checkout
