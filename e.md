@@ -31,7 +31,8 @@ A payroll document on mainframe used to report changes to basic working hours, f
 > ![People](assets/images/tag-people.png)
 
 #### Emergency product withdrawal (EPW)
-A request to remove a product from sale as quickly as possible for health and safety or legal reasons.  
+A request to remove a product from sale as quickly as possible for quality, health and safety or legal reasons. We won’t usually contact our customers to ask them to return any they've previously purchased.  
+> See also [product recall](p.md#product-recall).  
 > ![Stock control](assets/images/tag-stockcontrol.png)
 
 #### Emotion cycle of change
