@@ -179,12 +179,12 @@ The list of all products shown as out of stock, that are on a delivery, and shou
 > ![People](assets/images/tag-people.png) 
 
 #### Priority level
-Level of authorisation to perform specific tasks on back office, from 1 to 8. The higher the number, the more tasks can be completed.
-> See also [back office](b.md#back-office).  
+Level of authorisation to perform specific tasks on back office, from 1 to 8. The higher the number, the more tasks can be completed.  
+> See also [checkout back office](b.md#checkout-back-office-cbo).  
 > ![Checkouts](assets/images/tag-checkouts.png)
 
 #### Privilege level
-Level of authorisation, from 1 to 8, for tasks completed on a progress till. The higher the number, the more tasks can be completed on a till.
+Level of authorisation, from 1 to 8, for tasks completed on a progress till. The higher the number, the more tasks can be completed on a till.  
 > See also [progress](#progress).  
 > ![Checkouts](assets/images/tag-checkouts.png)
 
