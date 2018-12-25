@@ -44,31 +44,31 @@ The payroll system, operated by HM Revenue & Customs, where tax and national ins
 The Tesco pension scheme. You can join at any time and save, with help from Tesco, for your retirement. As soon as you join, the scheme also gives you life cover (cash, partner and children’s pensions) and ill-health cover (immediate income for life).  
 > ![People](assets/images/tag-people.png)
 
-#### People Manager
-A manager in a depot or store whose main focus is on supporting our staff and their welfare.
-> Previously known as Personnel Manager and Personnel & Training Manager (PTM).  
+#### People Partner
+A manager in a group of depots or stores whose main focus is on supporting our staff and their welfare.  
+> Previously known as People Manager, Personnel Manager and Personnel & Training Manager (PTM).  
 > ![People](assets/images/tag-people.png)
 
 #### People policies
-The formal written policies which set out the requirements and commitments between yourself and Tesco. Formerly a series of folders in stores, now available on OurTesco.
+The formal written policies which set out the requirements and commitments between yourself and Tesco. Formerly a series of folders in stores, now available on OurTesco.  
 > Previously known as policies for our people (PFOP).  
 > ![People](assets/images/tag-people.png)
 
 #### Period
-A Tesco period is made up of four or five weeks. There are three per quarter and 12 each year.
+A Tesco period is made up of four or five weeks. There are three per quarter and 12 each year.  
 > See also [week](w.md#week-payroll), [quarter](q.md#quarter) and [year](y.md#year).
 
 #### Permanent multibuys
 Items that are permanently on multibuy offer. For example buy three yoghurts get the fourth free.
 
 #### Permit to work
-Form visiting contractors must complete, and have signed by a member of staff, if they will be working in high-risk areas or undertaking high-risk tasks. Completed alongside an authorisation to work.
+Form visiting contractors must complete, and have signed by a member of staff, if they will be working in high-risk areas or undertaking high-risk tasks. Completed alongside an authorisation to work.  
 > Also known as RP2k740.  
 > See also [authorisation to work](a.md#authorisation-to-work).  
 > ![People](assets/images/tag-people.png)
 
 #### Perpetual inventory
-Where a product’s stock levels are manually counted and adjusted.
+Where a product’s stock levels are manually counted and adjusted.  
 > Previously known as PI.
 
 #### Personal day
@@ -87,7 +87,7 @@ The member of staff responsible for selecting and packing grocery products for D
 > ![Dotcom](assets/images/tag-dotcom.png) ![People](assets/images/tag-people.png)
 
 #### Petrol filling station (PFS)
-Our national network of fuel garages at superstores and extras.
+Our national network of fuel garages at superstores and extras.  
 
 #### Picker (Assembler)
 Warehouse person who puts together the order to be delivered to a store.  
@@ -210,7 +210,7 @@ The percentage of products sold on each day totalling 100% for the week.
 The goods sold by Tesco.
 
 #### Products that matter most (PTMM)
-Products we can’t ever run out of because we sell the greatest number of them and they are the most important products to our customers.
+Products we can’t ever run out of because we sell the greatest number of them and they are the most important products to our customers.  
 > Previously know as best sellers.
 
 #### Progress
