@@ -195,6 +195,11 @@ A number required at the checkout for all loose produce and in-store bakery item
 #### Product profile
 A screen on the stock ordering system that shows information about a product sold in-store including sales, stock records and future orders.
 
+#### Product recall
+A request to remove a product from sale as quickly as possible for quality, health and safety or legal reasons. Product recalls are usually much more serious than EPWs, so we will contact our customers to ask them to return any they’ve previously purchased.  
+> See also [emergency product withdrawal (EPW)](e.md#emergency-product-withdrawal-EPW).  
+> ![Stock control](assets/images/tag-stockcontrol.png)
+
 #### Product trading percentage
 The percentage of products sold on each day totalling 100% for the week.
 
