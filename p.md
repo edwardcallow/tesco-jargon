@@ -86,6 +86,9 @@ PDA application previously used by stock control to complete counts.
 The member of staff responsible for selecting and packing grocery products for Dotcom customers before delivery.  
 > ![Dotcom](assets/images/tag-dotcom.png) ![People](assets/images/tag-people.png)
 
+#### Petrol filling station (PFS)
+Our national network of fuel garages at superstores and extras.
+
 #### Picker (Assembler)
 Warehouse person who puts together the order to be delivered to a store.  
 > ![Distribution](assets/images/tag-distribution.png) ![People](assets/images/tag-people.png)
