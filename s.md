@@ -137,6 +137,7 @@ Type of unique identifier given to each product sold. Usually refers to a Tesco 
 #### Smart cash drawer
 Till drawer that automatically weighs and records cash levels after each transaction, to report to the electronic journal.  
 > Also known as smart till.  
+> See also [electronic journal](e.md#electronic-journal).  
 > ![Checkouts](assets/images/tag-checkouts.png)
 
 #### Smoothing
