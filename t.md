@@ -56,6 +56,11 @@ Pay grades above expert (E/F grade) and eligible for skills payments. Used in st
 > Also known as T grade and P grade.  
 > ![People](assets/images/tag-people.png)  
 
+#### Temporarily delist
+Temporarily stopping deliveries of a product to stores and asking stores to sell through any remaining old stock before releasing a new version of a product. Usually done to change a product pack size or supplier.  
+> See also [selling through](s.md#selling through).  
+> ![Stock control](assets/images/tag-stockcontrol.png).  
+
 #### Temporary supply issues
 We haven’t discontinued the product, and it’s still an orderable line, but we are unable to get enough stock into our stores. This may be as a result of demand for the product exceeding our expectations or a temporary issue with the manufacturing.  
 
