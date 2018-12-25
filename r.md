@@ -33,7 +33,7 @@ A pack which contains products of many sizes or colours which is then unpacked s
 > ![Stock control](assets/images/tag-stockcontrol.png)
 
 #### REACH device
-Retail excellence at customer’s home handheld device. A type of PDA, used in Dotcom, it displays details of a Customer Delivery Assistant’s deliveries and is signed by the customer to acknowledge receipt of their shopping.  
+Retail excellence at customer’s home handheld device. A type of PDA, used in Dotcom, it displays details of a Customer Delivery Driver’s deliveries and is signed by the customer to acknowledge receipt of their shopping.  
 > ![Dotcom](assets/images/tag-dotcom.png)
 
 #### Reach truck
