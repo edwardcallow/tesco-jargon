@@ -50,7 +50,7 @@ A manager in a group of depots or stores whose main focus is on supporting our s
 > ![People](assets/images/tag-people.png)
 
 #### People policies
-The formal written policies which set out the requirements and commitments between yourself and Tesco. Formerly a series of folders in stores, now available on OurTesco.  
+The formal written policies which set out the requirements and commitments between colleagues and Tesco. Formerly a series of folders in stores, they’re now available on OurTesco.  
 > Previously known as policies for our people (PFOP).  
 > ![People](assets/images/tag-people.png)
 
