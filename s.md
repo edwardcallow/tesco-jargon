@@ -153,7 +153,7 @@ Login details used by stock control and price integrity to access back office an
 > ![Stock control](assets/images/tag-stockcontrol.png)
 
 #### Staff reception
-Area by the staff and visitor entrance in large stores, rarely used as entrance in the day. Often used to store handheld computers and the colleague shop. 
+Area by the staff and visitor entrance in large stores. Previously manned throughout the day, it’s functions have now been taken over by the customer service desk. Often used to store handheld computers and the colleague shop.  
 > See also [colleague shop](c.md#colleague-shop).
 
 #### Staff-reception buzzer
