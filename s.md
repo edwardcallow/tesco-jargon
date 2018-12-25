@@ -75,6 +75,11 @@ A checkout where customers can scan their own shopping with a Customer Assistant
 > Previously known as assisted checkouts.  
 > ![Checkouts](assets/images/tag-checkouts.png)
 
+#### Selling through
+Process of selling, often through price reductions, existing stock. Usually as part of a temporary delisting to replace an old version of a product with a new one.  
+> See also [temporarily delist](t.md#temporarily-delist).  
+> ![Stock control](assets/images/tag-stockcontrol.png)
+
 #### Shares in success
 This scheme rewards all eligible employees with free Tesco shares based on their salary. It is linked to the success of the company, so when the company profits, so will staff.  
 > ![People](assets/images/tag-people.png)
