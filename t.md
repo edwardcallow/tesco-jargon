@@ -58,7 +58,7 @@ Pay grades above expert (E/F grade) and eligible for skills payments. Used in st
 
 #### Temporarily delist
 Temporarily stopping deliveries of a product to stores and asking stores to sell through any remaining old stock before releasing a new version of a product. Usually done to change a product pack size or supplier.  
-> See also [selling through](s.md#selling through).  
+> See also [selling through](s.md#selling-through).  
 > ![Stock control](assets/images/tag-stockcontrol.png).  
 
 #### Temporary supply issues
