@@ -74,7 +74,8 @@ A promotional space in Extra stores.
 A type of Tesco store, either Express, Metro, Superstores, Extra or Homeplus.
 
 #### Four-point check
-A check done by a member of staff on the shelf-edge labels to ensure that the information on the label matches the information on the product. The information checked should be the pre-marked price, Tesco Product Number/ European Article Number, the product description and the weight or size.
+A check done by a member of staff on the shelf-edge labels to ensure that the information on the label matches the information on the product. The information checked should be the pre-marked price, Tesco product number/ European Article Number, the product description and the weight or size.  
+> See also [European article number (EAN)](e.md#European-article-number-ean) and [Tesco product number (TPN)](t.md#tesco-product-number-tpn).  
 
 #### Fresh food
 Products that need to be stored or displayed at a certain temperature, including fresh meat, fruit and vegetables, milk and bread.
