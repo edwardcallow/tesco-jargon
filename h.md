@@ -31,7 +31,8 @@ The courier service used by Tesco Direct to deliver orders directly to customers
 Previously a type of Tesco store dedicated to non-food products. The last closed in 2015.
 
 #### HOST
-An electronic mail message system used in stores. This will eventually be replaced by the Workplan.
+An electronic mail message system used in stores. Replaced by the Workplan.
+> !See also [workplan](w.#workplan).  
 
 #### Hot spots
 An additional space for promotions within a department, for example health & beauty, supported with point of sale to make it clear for the customer.  
