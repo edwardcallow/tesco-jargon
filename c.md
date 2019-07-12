@@ -16,6 +16,7 @@ A metal unit on wheels used to transport cases of stock. Available with two side
 
 #### Cage manifest
 Report showing each product held by a cage UOD.  
+> See also [unit of delivery (UOD)](u.md#unit-of-delivery-uod).  
 > ![Distribution](assets/images/tag-distribution.png)
 
 #### Call Mr Robinson
