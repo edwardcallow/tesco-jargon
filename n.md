@@ -28,6 +28,10 @@ New buying system. The national product file system (RMS) and pricing system (RP
 > Previously known as the central file.  
 > See also [RMS](r.md#rms) and [RPM](r.md#rpm).
 
+#### Negative correction process
+Automatic process to set the stock record for a product back to zero after going into negative stock count because of sales. Often happens following a central zeroisation of a product line.
+> See also [Zeroing](z.md#zeroing).
+
 #### Night Manager
 The manager of a store at night, whose main task is to replenish the shelves and get the store ready for the next day’s trade.
 > Previously known as Out of Hours Trading Manager.
