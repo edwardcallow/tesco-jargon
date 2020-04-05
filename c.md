@@ -112,6 +112,10 @@ Fancy word for a big fridge.
 Service allowing Dotcom and Direct customers to order products online and then collect them in-store.  
 > ![Direct](assets/images/tag-direct.png) ![Dotcom](assets/images/tag-dotcom.png)
 
+#### Click and learn
+Online learning system for operational and legal training. Replaces know your stuff.
+> See also [know your stuff (KYS)](k.md#know-your-stuff-kys).
+
 #### Click to Order (C2O)
 The system used for ordering products that are used by stores but not sold to customers, for example, stationery and food wrapping.
 
