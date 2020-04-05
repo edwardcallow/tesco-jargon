@@ -64,6 +64,9 @@ Temporarily stopping deliveries of a product to stores and asking stores to sell
 #### Temporary supply issues
 We haven’t discontinued the product, and it’s still an orderable line, but we are unable to get enough stock into our stores. This may be as a result of demand for the product exceeding our expectations or a temporary issue with the manufacturing.  
 
+#### Tesco Academy
+Head office team responsible for training and development in all areas of the business.
+
 #### Tesco Bank
 Our retail bank, offering a range of insurance, credit cards, loans, savings and mortgages to customers in the UK.
 > Previously known as Tesco Personal Finance (TPF).
