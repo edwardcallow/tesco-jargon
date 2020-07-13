@@ -91,7 +91,7 @@ Retail management system. Contains all the information about a product set-up an
 > See also [NBS](n.md#nbs).  
 
 #### RPM
-Retail price management. System that contains informationg about the price of products, and any relevent promotions or markdowns. Forms part of NBS.
+Retail price management. System that contains information about the price of products, and any relevent promotions or markdowns. Forms part of NBS.
 > See also [NBS](n.md#nbs).  
 
 #### Roles and accountabilities
