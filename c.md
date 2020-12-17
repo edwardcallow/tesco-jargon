@@ -81,7 +81,7 @@ Cash, bank, coupon and lottery report. Details finance performance figures for e
 `Definition unavailable.`
 
 #### CBO
-> See [back office](b.md#back-office).  
+> See [checkout back office](c.md#checkout-back-office-cbo).  
 > ![Checkouts](assets/images/tag-checkouts.png)
 
 #### Central file
@@ -97,6 +97,7 @@ Database for all products sold through the checkouts.
 
 #### Checkout back office (CBO)
 System used in-store to control the progress checkouts. CBO maintains the list of operators and their privileges, and logs all transactions in the electronic journal.  
+> Also known as MFS.  
 > See also [back office](b.md#back-office) and [electronic journal](e.md#electronic-journal).  
 > ![Checkouts](assets/images/tag-checkouts.png)
 
