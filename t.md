@@ -67,6 +67,9 @@ Temporarily stopping deliveries of a product to stores and asking stores to sell
 #### Temporary supply issues
 We haven’t discontinued the product, and it’s still an orderable line, but we are unable to get enough stock into our stores. This may be as a result of demand for the product exceeding our expectations or a temporary issue with the manufacturing.  
 
+#### Tesco
+Name taken from ‘**T. E. S**tockwell’ (a former tea supplier) and ‘Jack **Co**hen’ (our founder).  
+
 #### Tesco Academy
 Head office team responsible for training and development in all areas of the business.
 
