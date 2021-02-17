@@ -45,4 +45,10 @@ An additional space for promotions within a department, for example health & bea
 Human resources attendance management. A payroll document used to report changes to basic working hours.
 
 #### HSC
-Hindustan support centre. Part of head office but based in Bangalore.
+Hindustan support centre. Part of head office but based in Bangalore.  
+
+#### Hub
+Intranet hosted on SharePoint. Previously used to share company-wide news.  
+
+#### Hub
+CCTV system installed in stores and controlled remotely from centralised control rooms. Integrated with till systems to show discrepencies in transactions.  
