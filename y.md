@@ -14,7 +14,7 @@ Internal social network/forum for communication with all staff nationally. Provi
 > ![People](assets/images/tag-people.png)
 
 #### YCDBSOYA
-You can’t do business sitting on your arse. The original Tesco (internal) motto.   
+You can’t do business sitting on your arse. An internal motto used by our founder – Jack Cohen.   
 > ![People](assets/images/tag-people.png)
 
 #### Year
