@@ -72,6 +72,10 @@ A type of in-store promotion with limited stock.
 #### Whole-store scheduler (WSS)
 Online system for calculating the numbers of hours needed to complete all jobs in-store.
 
+#### [to] work
+Action of working through something, usuallyusually putting products from on a certain cage onto the shop floor. ‘I’m working a cage.’
+> ! See [cage](c.md#cage)
+
 #### Work level
 Staff, Managers, and Directors are grouped into grades from Work Level 1 to Work Level 6.  
 > ![People](assets/images/tag-people.png)
