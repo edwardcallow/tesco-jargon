@@ -22,9 +22,8 @@ Search this page by pressing Ctrl+F on Windows, ⌘+F on Mac, or choosing ‘fin
 > ![Stock control](assets/images/tag-stockcontrol.png)
 
 #### Backstock
-The remainder of product from a previous delivery that can’t be put out on the shop floor. Uusually worked first ahead of any cages from a new delivery to ensure the oldest product is put out first.  
+The remainder of product from a previous delivery that can’t be put out on the shop floor. Usually worked first ahead of any cages from a new delivery to ensure the oldest product is put out first.  
 > See [cage](c.md#cage) and [work](w.md#to-work).  
-> ![Distribution](assets/images/tag-distribution.png)
 
 #### Back-gate buzzer
 Button at the back gate in large stores to trigger an automated announcement over the tannoy: ‘there is a caller at the back gate, please attend’.
