@@ -7,11 +7,11 @@ Just choose a letter (or 123) below to get started.
 [J](j.md) | [K](k.md) | [L](l.md) | [M](m.md) | [N](n.md) | [O](o.md) | [P](p.md) | [Q](q.md) | [R](r.md)  
 [S](s.md) | [T](t.md) | [U](u.md) | [V](v.md) | [W](w.md) | [X](x.md) | [Y](y.md) | [Z](z.md) | [123](123.md)
 
-## Still to be defined
-We’re still searching for a simple definition for these terms…
+Thanks to Andy King for contributing.
 
-#### Backstock
-`Definition unavailable.`
+<!-- ## Still to be defined
+We’re still searching for a simple definition for these terms…
 
 #### CBL
 `Definition unavailable.`
+-->
