@@ -79,9 +79,11 @@ Third-party companies who run some of our cafés on behalf of Tesco. These are t
 
 #### CBCL
 Cash, bank, coupon and lottery report. Details finance performance figures for each store on a weekly basis, along with the dishonoured sales report (DSR). Published on G drive each Friday.  
+> Previously known as CBL.  
+> See also [G drive](g.md#g-drive).  
 
 #### CBL
-`Definition unavailable.`
+> See [CBCL](c.md#cbcl).  
 
 #### CBO
 > See [checkout back office](c.md#checkout-back-office-cbo).  
