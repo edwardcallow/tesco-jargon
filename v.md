@@ -32,3 +32,6 @@ The name of the Tesco staff survey.
 #### VMU
 > See [vehicle maintenance unit](#vehicle-maintenance-unit).  
 > ![Distribution](assets/images/tag-distribution.png)
+
+#### VPN
+Vendor part number. A numeric or alphanumeric code for a product provided by the supplier. It is a unique code for a Supplier to identify their own products. For example, this could be a Supplier catalogue reference code. Each individual product must have a different and unique Vendor Part Number
