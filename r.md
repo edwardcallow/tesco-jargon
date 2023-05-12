@@ -33,6 +33,8 @@ A small team brought together to address a specific issue. The process of runnin
 
 #### Ratio pack
 A pack which contains products of many sizes or colours which is then unpacked so that each size can be put on display and the rest kept in the warehouse. Ratio packs are often used for clothing.  
+Also used for in store promotions, containing product that is otherwise not part of the standard range. One-off allocations sent to stores. Individual cases ordered to replenish stands in stores. Cost prices and therefore invoicing costs are calculated on *full cases* of product only. Can have multiple products on a unit, for example an off-fixture display or 1/4 pallet.  
+> See also [off-fixture display](o.md#off-fixture-display-ofd).  
 > ![Stock control](assets/images/tag-stockcontrol.png)
 
 #### REACH device
