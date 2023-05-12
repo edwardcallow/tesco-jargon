@@ -43,6 +43,6 @@ When a product is past its ‘display until’, ‘use by’ or ‘best before�
 When a product normally available in store isn’t available.  
 > ![Stock control](assets/images/tag-stockcontrol.png)
 
-#### Outer-case code
-A barcode, which can be scanned, on the outside of a case of products.  
+#### Outer-case code (OCC)
+A barcode on the outside of a delivery case of products which is scanned throughout the supply network.  
 > ![Distribution](assets/images/tag-distribution.png) ![Stock control](assets/images/tag-stockcontrol.png)
