@@ -59,6 +59,10 @@ The person who leads Express Operations Managers within a geographical region.
 #### Ask more than tell
 A skill taught in Tesco training sessions to help people focus on questioning and listening rather than simply telling.
 
+#### ASN
+Advanced shipment notification, created prior to depot delivery.  
+> ![Distribution](assets/images/tag-distribution.png)
+
 #### Assembly
 Putting together an order for a store in depots.  
 > ![Distribution](assets/images/tag-distribution.png)
