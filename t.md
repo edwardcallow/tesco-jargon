@@ -147,17 +147,30 @@ A conference that brings all Tesco senior managers together for a business updat
 #### TPF
 > See [Tesco personal finance (TPF)](t.md#tesco-personal-finance-tpf).
 
-#### TPNB
-Tesco product number – base product. 9-digit number assigned to every product we sell.
+#### TPNA
+Tesco product number – attribute. 9-digit number which groups all the TPNBs that sit underneath it together within Tesco's internal systems. A TPNA represents a broader type of product than a TPNB, for example, ‘Tesco branded 6 pack of yoghurts (all flavours)’.  
 > See also [Tesco product number (TPN)](t.md#tesco-product-number-tpn).
+
+#### TPNB
+Tesco product number – base product. 9-digit number assigned to every product we sell, used by stores to order products. All sales and financial reporting is completed at TPNB level, as is merchandising. Each TPNB has its own EAN, for example, ‘Tesco brand 6 pack of yoghurts in strawberry 150g’.  
+> See also [European article number (EAN)](e.md#european-article-number-ean) and [Tesco product number (TPN)](t.md#tesco-product-number-tpn).  
+> ![Stock control](assets/images/tag-stockcontrol.png).  
+
+#### TPNB variant
+Tesco product number – base variant. 12-digit number beginning with the standard TPNB and then ending in 001, 002, 003 and so on. Used when a small amendment is needed to an existing product e.g. small change in product weight or for price marking. A range change is not required to launch a TPNB variant, for exmaple, ‘Tesco brand 6 pack of yoghurts in strawberry 160g’.  
+> Also known as variant TPNB.  
+> See also [Tesco product number (TPN)](t.md#tesco-product-number-tpn).  
+> ![Stock control](assets/images/tag-stockcontrol.png).  
 
 #### TPNC
 Tesco product number – consumer unit. Number assigned to a case of every product.
 > See also [Tesco product number (TPN)](t.md#tesco-product-number-tpn).
 
 #### TPND
-Tesco product number – distribtion unit. 7-digit number assigned to products for distribution.
-> See also [Tesco product number (TPN)](t.md#tesco-product-number-tpn).
+Tesco product number – distribtion unit. 7 or 9-digit number assigned to products for distribution. Used by depots to order cases of stock. All costs and invoicing are completed at TPND level.  
+> Also known as Tesco product number – depot.  
+> See also [Tesco product number (TPN)](t.md#tesco-product-number-tpn).  
+> ![Distribution](assets/images/tag-distribution.png)
 
 #### TPXid
 Universal login details for managers which also act as an email address.  
