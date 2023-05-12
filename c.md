@@ -58,8 +58,12 @@ A box containing a number of single products.
 > ![Stock control](assets/images/tag-stockcontrol.png)
 
 #### Case measuring
-Determining the height, width, depth and weight of cases of product so they can be stored, assembled and transported safely and efficiently.
+Determining the height, width, depth and weight of cases of product so they can be stored, assembled and transported safely and efficiently.  
 > Previously known as Cubi scan.  
+> ![Distribution](assets/images/tag-distribution.png) ![Stock control](assets/images/tag-stockcontrol.png)
+
+#### Case size
+A term to describe the number of products within a deliverable case or carton. A case size greater than 1 will reduce packaging and handling costs, aid in more efficient supply chain, store replenishment and help to improve service levels.  
 > ![Distribution](assets/images/tag-distribution.png) ![Stock control](assets/images/tag-stockcontrol.png)
 
 #### Cash return on investment
