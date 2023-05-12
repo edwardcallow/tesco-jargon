@@ -194,6 +194,9 @@ Level of authorisation, from 1 to 8, for tasks completed on a progress till. The
 #### Produce
 Fruit and vegetables.
 
+#### Product group
+> See [class](c.md#class).  
+
 #### Product look-up number (PLU)
 A number required at the checkout for all loose produce and in-store bakery items that don’t have a barcode.  
 > ![Checkouts](assets/images/tag-checkouts.png)
