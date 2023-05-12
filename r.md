@@ -55,6 +55,10 @@ A routine to reduce the price on a product.
 #### Refresh
 A five-year refresh involves minor works to the store environment to last for five years. A 10-year refresh is a remodelling of the store to bring it up to current format layout and reopen as a new store.
 
+#### Region
+A level of the organisational hierarchy used by NBS.  
+> See also [NBS](n.md#nbs).  
+
 #### Regional Planning (team)
 > See [Transport Planning (team)](t.md#transport-planning-team).  
 > ![Distribution](assets/images/tag-distribution.png)
