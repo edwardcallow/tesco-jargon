@@ -53,6 +53,7 @@ A piece of mechanical equipment used to move pallets or cages around a depot. Ex
 
 #### Merchandisable unit (MU)
 A display cage or box that can be wheeled or placed straight out on the shop floor or shelf, without being unpacked, for example, high-volume products such as milk or baked beans.  
+MUs stock one product only, are ranged all year round and are re-ordered automatically based on sales. They share the same EAN regardless of case size, are loaded into the same subgroup as the linked product and enable a smaller case size to be sent to smaller format stores.  
 > ![Stock control](assets/images/tag-stockcontrol.png)
 
 #### Merchandise plan
