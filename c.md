@@ -94,8 +94,7 @@ Cash, bank, coupon and lottery report. Details finance performance figures for e
 > ![Checkouts](assets/images/tag-checkouts.png)
 
 #### Central file
-Database for all products sold through the checkouts.  
-> ![Checkouts](assets/images/tag-checkouts.png)
+> See [NBS](n.md#nbs).  
 
 #### Central file maintenance (CFM)
 > See [price integrity (PI)](p.md#price-integrity-pi).  
@@ -117,6 +116,11 @@ System used in-store to control the progress checkouts. CBO maintains the list o
 #### Chiller
 Fancy word for a big fridge.  
 > ![Stock control](assets/images/tag-stockcontrol.png)
+
+#### Class
+The fourth level of the merchandise hierarchy used by NBS.  
+> Previously known as product group.  
+> See also [NBS](n.md#nbs).  
 
 #### Click and collect (C+C)
 Service allowing Dotcom and Direct customers to order products online and then collect them in-store.  
