@@ -46,3 +46,7 @@ The bakery department in a store which prepares its own baked goods.
 #### Isotrack
 > See [vehicle tracking system](v.md#vehicle-tracking-system).  
 > ![Distribution](assets/images/tag-distribution.png) ![Dotcom](assets/images/tag-dotcom.png)
+
+#### Item
+The NBS term for a product.  
+> See also [NBS](n.md#nbs).  
