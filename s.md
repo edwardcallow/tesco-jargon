@@ -64,6 +64,10 @@ Promotional events in-store linked to special events or seasons.
 Space for seasonal products or ranges, for example Easter eggs.  
 > ![Stock control](assets/images/tag-stockcontrol.png)
 
+#### Section
+The third level of the merchandise hierarchy used by NBS.  
+> See also [NBS](n.md#nbs).  
+
 #### Section manager
 A manager to whom Team Leaders and staff report.  
 > ![People](assets/images/tag-people.png)
@@ -251,6 +255,11 @@ All the Operations Directors, Store Directors and Store Operations Managers in T
 #### Stores Management Group
 This group’s main purpose is to maximise the return on individual store investments, by ensuring that the best offer for customers is delivered in each store.  
 > ![People](assets/images/tag-people.png)
+
+#### Sub class
+The fifth and lowest level of the merchandise hierarchy used by NBS.  
+> Also known as sub group.  
+> See also [NBS](n.md#nbs).  
 
 #### Superstore
 A type of Tesco store that tends to be between 20,000 and 60,000 square feet in size and employs between 150 to 800 staff.
