@@ -60,8 +60,9 @@ Clothing including men’s, women’s and kids’ socks, hosiery, nightwear, kid
 > ![People](assets/images/tag-people.png)
 
 #### European article number (EAN)
-A unique 13-digit number allocated to each product and sometimes shown after the Tesco Product Number on a shelf edge label. You may hear people refer to a product’s EAN – this is the European Article Number.  
+A unique 13-digit number allocated to each product and sometimes shown after the Tesco Product Number on a shelf edge label. You may hear people refer to a product’s EAN – this is the European Article Number.  Every EAN has an associated TPNB.  
 > Also known as barcode number.  
+> See also [TPNB](t.md#tpnb).  
 > ![Stock control](assets/images/tag-stockcontrol.png)
 
 #### Every little helps
