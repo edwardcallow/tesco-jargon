@@ -52,6 +52,10 @@ Dotcom customers can choose to receive their shopping without carrier bags. Cust
 #### Demand time
 > See [fill from time](f.md#fill-from-time).
 
+#### Department
+The second level of the merchandise hierarchy used by NBS.  
+> See also [NBS](n.md#nbs).  
+
 #### Department key entry
 Checkout proccess to charge a customer the correct price for a product, when no barcode is available, by manually entering the department and price. Only available to operators with privilege level 3.  
 > ![Checkouts](assets/images/tag-checkouts.png) ![Stock control](assets/images/tag-stockcontrol.png)
@@ -117,6 +121,14 @@ The team of people who handle store queries about distribution over the telephon
 Central office between the UK and the Hindustan Support Centre that supports the distribution network.
 > Previously known as Daventry 1 office (top floor).  
 > ![Distribution](assets/images/tag-distribution.png)
+
+#### District
+A level of the organisational hierarchy used by NBS.  
+> See also [NBS](n.md#nbs).  
+
+#### Division
+The first and highest level of the organisational hierarchy used by NBS.  
+> See also [NBS](n.md#nbs).  
 
 #### Dolly
 A base on wheels used to transport trays of stock.  
