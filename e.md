@@ -34,8 +34,8 @@ A payroll document on mainframe used to report changes to basic working hours, f
 > ![People](assets/images/tag-people.png)
 
 #### Emergency product withdrawal (EPW)
-A request to remove a product from sale as quickly as possible for quality, health and safety or legal reasons. We won’t usually contact our customers to ask them to return any they've previously purchased.  
-> See also [product recall](p.md#product-recall).  
+A request to remove a product from sale as quickly as possible for quality, health and safety or legal reasons. We won’t usually contact our customers to ask them to return any they've previously purchased. A blue shelf-edge label will be printed to make colleages aware when putting products out, with the affected dates or batch codes written on the back.  
+> See also [product recall](p.md#product-recall) and [shelf-edge label](s.md#shelf-edge-label-sel).  
 > ![Stock control](assets/images/tag-stockcontrol.png)
 
 #### Emotion cycle of change
