@@ -97,7 +97,8 @@ The volume of stock on the shelf calculated by multiplying the number of product
 > ![Stock control](assets/images/tag-stockcontrol.png)
 
 #### Shelf-edge label (SEL)
-The label on the shelf edge showing the Tesco product number, the number of products across the shelf, the price, the description and the European Article Number.
+The label on the shelf edge showing the Tesco product number, the number of products across the shelf, the price, the description and the European Article Number. A blue shelf-edge label shows that a product is linked to an emergency product withdrawal.  
+> See also [emergency product withdrawal (EPW)](e.md#emergency-product-withdrawal-epw).  
 
 #### Shelf-identifying shelf-edge label (SISEL)
 The label on the shelf edge that shows the number of the shelving unit and the letter of the shelf. Usually given in the format 04L12A, meaning aisle 4 on the left, mod 12, shelf A. Uses include identifying product location for Dotcom and stock control.
