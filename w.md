@@ -72,6 +72,9 @@ A type of in-store promotion with limited stock.
 #### Whole-store scheduler (WSS)
 Online system for calculating the numbers of hours needed to complete all jobs in-store.
 
+#### Whoosh
+Website & app allowing 20-60 minute deliveries of smaller orders, fufilled by a 3rd party delivery partner.
+
 #### [to] work
 Action of working through something, usuallyusually putting products from on a certain cage onto the shop floor. ‘I’m working a cage.’
 > ! See [cage](c.md#cage)
