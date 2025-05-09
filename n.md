@@ -23,7 +23,7 @@ Depot dedicated to general merchandise returns. All store GM returns, uplift sto
 > See also [general merchandise (GM)](g.md#general-merchandise-gm) and [emergency product withdrawal (EPW)](e.md#emergency-product-withdrawal-epw).  
 > ![Direct](assets/images/tag-direct.png) ![Distribution](assets/images/tag-distribution.png) ![Stock control](assets/images/tag-stockcontrol.png)  
 
-#### National work team
+#### Natural working team
 A team of people from different departments with a stake in a particular project or initiative.
 
 #### NBS
