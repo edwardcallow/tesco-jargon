@@ -24,7 +24,8 @@ same page.
 language. These include CD, DVD, AM, PM, UK. In these cases, the abbreviation can be used.
 
 
-Thanks to Andy King for his contributions. Think we’ve missed or got something wrong? Let us know at [jargon@edwardcallow.co.uk](mailto:jargon@edwardcallow.co.uk). If you know Git, submit a pull request on [GitHub](https://github.com/edwardcallow/tesco-jargon)
+Thanks to Andrew Bruce and Andy King for their contributions.
+Think we’ve missed or got something wrong? Let us know at [jargon@edwardcallow.co.uk](mailto:jargon@edwardcallow.co.uk). If you know Git, submit a pull request on [GitHub](https://github.com/edwardcallow/tesco-jargon)
 
 <!-- ## Still to be defined
 We’re still searching for a simple definition for these terms…
