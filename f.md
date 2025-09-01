@@ -68,6 +68,7 @@ This is a permanent space for displaying stock, for example, shelving.
 
 #### Flat-top
 A trolley with a table-top.
+> Also known as blue-top.  
 
 #### Fleximat
 A promotional space in Extra stores.  
