@@ -74,6 +74,9 @@ Buy one get one free. This is Tesco terminology for a certain promotional offer.
 #### Branch accounts reports
 Monthly budget statements showing sales, including and excluding the petrol filling station, waste, shrinkage, payroll, expenses and proft found on the information for business system.
 
+#### Bring product to life form (BPTL)
+Presentation outlining the specifications and appearance ready for approval as part of new product development.
+
 #### BST
 Business support team. A team responsible for supporing an area of the business.
 
