@@ -13,6 +13,11 @@ Search this page by pressing Ctrl+F on Windows, ⌘+F on Mac, or choosing ‘fin
 > See [Team Support/Shift Leader pay grade](t.md#team-supportshift-leader-pay-grade).  
 > ![People](assets/images/tag-people.png)
 
+#### Pack copy
+The text found on a product’s packaging.  
+> See also [reason to believe (RTB)](r.md#reason-to-believe-rtb).  
+> ![Development](assets/images/tag-development.png)
+
 #### Paired counts
 When you add together the count of a product on the shop floor with the count of a product in the Warehouse.
 
