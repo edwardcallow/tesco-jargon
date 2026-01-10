@@ -174,7 +174,7 @@ Button at staff reception in large stores to trigger an automated announcement o
 
 #### Start of life (SOL)
 A product on its day of production.  
-> See also [end of life (EOL)](e.md#end-of-life-eol)  
+> See also [date of production (DOP)](d.md#date-of-production-dop)  
 > ![Development](assets/images/tag-development.png)
 
 #### Steering wheel
