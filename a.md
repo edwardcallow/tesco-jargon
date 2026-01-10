@@ -56,6 +56,10 @@ A small computer terminal worn on the arm, used in distribution to help a picker
 The person who leads Express Operations Managers within a geographical region.  
 > ![People](assets/images/tag-people.png)
 
+#### Ashbury check
+Final check of a product’s technical specifications and information which will be shown on food product packaging.  
+> ![Development](assets/images/tag-development.png)
+
 #### Ask more than tell
 A skill taught in Tesco training sessions to help people focus on questioning and listening rather than simply telling.
 
