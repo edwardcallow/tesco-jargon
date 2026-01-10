@@ -47,6 +47,11 @@ Colleagues who have a common interest and who get together to find out informati
 #### End of…
 Series of processes to be completed at the end of a given time period. Commonly end of day (EOD), week (EOW), period (EOP) and year (EOY).
 
+#### End of life (EOL)
+A product on its expiration date. Products are usually reduced to clear before reaching EOL.  
+> See [reduction](r.md#redudction)  
+> ![Development](assets/images/tag-development.png) ![Stock control](assets/images/tag-stockcontrol.png)
+
 #### ENTS
 Entertainments. A category of products available in stores and online via Tesco Direct.  
 > ![Direct](assets/images/tag-direct.png) ![Stock control](assets/images/tag-stockcontrol.png)
