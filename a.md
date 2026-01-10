@@ -94,3 +94,8 @@ The average sales per week calculated over the last four weeks.
 
 #### Average weight of purchase
 The average weight of the products bought.
+
+#### AW#
+Autumn winter. The range of products on shelves between October and March/April of a given year. For example, ‘AW26’ for 2026.  
+> See also [SS#](s.md#ss).  
+> ![Development](assets/images/tag-development.png)
