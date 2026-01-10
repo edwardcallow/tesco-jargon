@@ -49,7 +49,7 @@ Series of processes to be completed at the end of a given time period. Commonly 
 
 #### End of life (EOL)
 A product on its expiration date. Products are usually reduced to clear before reaching EOL.  
-> See [reduction](r.md#redudction)  
+> See [reduction](r.md#redudction).  
 > ![Development](assets/images/tag-development.png) ![Stock control](assets/images/tag-stockcontrol.png)
 
 #### ENTS
