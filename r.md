@@ -44,6 +44,12 @@ Retail excellence at customer’s home handheld device. A type of PDA, used in D
 #### Reach truck
 Fork-lift truck.
 
+#### Reason to believe (RTB)
+Product and packing details submitted by suppliers to Tesco to help write the pack copy.  
+> Also known as product care story (PCS).  
+> See also [pack copy](p.md#pack-copy).  
+> ![Development](assets/images/tag-development.png)  
+
 #### Recycling unit
 Area at a depot where we recycle plastic, cardboard and clean trays.
 > Previously known as RSU.
