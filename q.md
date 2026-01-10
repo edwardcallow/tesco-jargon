@@ -9,6 +9,10 @@ Search this page by pressing Ctrl+F on Windows, ⌘+F on Mac, or choosing ‘fin
 
 ## Q is for…
 
+#### Quality attribute standard (QAS)
+The Tesco product standard document filled in by a supplier which lays out what is acceptable and unacceptable for the appearance and taste of a product. Product quality is then judged against this standard when deciding whether to accept or reject deliveries.  
+> ![Development](assets/images/tag-development.png)  
+
 #### Quarter
 A Tesco quarter is made up of three periods. There are four each year.
 > See also [period](p.md#period) and [year](y.md#year).
