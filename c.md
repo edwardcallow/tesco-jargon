@@ -223,6 +223,10 @@ The process of counting stock.
 A count the system tells you that you have to do, for example, because it has identified an error in the stock records in stores.  
 > ![Stock control](assets/images/tag-stockcontrol.png)
 
+#### Critical path (CP)
+The project timeline for developing new products. Goes from concept creation to post-launch and gives deadlines for each step.
+> ![Development](assets/images/tag-development.png)
+
 #### Critical success factors
 The nine behaviours a Tesco leader should demonstrate:
 - customer focus
