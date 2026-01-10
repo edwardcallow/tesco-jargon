@@ -16,6 +16,11 @@ The measure, in pounds or as a percentage of sales, of products that are damaged
 A diary that is used to record long life fresh products that are about to go out of date.  
 > ![Stock control](assets/images/tag-stockcontrol.png)
 
+#### Date of production (DOP)
+The date a food product was produced.  
+> See also [start of life (SOL)[d.md#start-of-life-sol]  
+> ![Development](assets/images/tag-development.png)
+
 #### Daventry 1 office (top floor)
 > See [distribution support centre](#distribution-support-centre).  
 > ![Distribution](assets/images/tag-distribution.png)
