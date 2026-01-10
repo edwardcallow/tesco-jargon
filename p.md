@@ -13,6 +13,11 @@ Search this page by pressing Ctrl+F on Windows, ⌘+F on Mac, or choosing ‘fin
 > See [Team Support/Shift Leader pay grade](t.md#team-supportshift-leader-pay-grade).  
 > ![People](assets/images/tag-people.png)
 
+#### P+#
+Shelf life stages of a product where ‘P’ is the date of production. For example, ‘D+2’ means the date of production plus two days.  
+> See also [date of production (DOP)](d.md#date-of-production-dop)  
+> ![Development](assets/images/tag-development.png) ![Stock control](assets/images/tag-stockcontrol.png)
+
 #### Pack copy
 The text found on a product’s packaging.  
 > See also [reason to believe (RTB)](r.md#reason-to-believe-rtb).  
@@ -241,9 +246,4 @@ The shelving fixture at the end of an aisle, which will hold products that are o
 
 #### Promotion forecasting information
 The forecast of how much of a particular product will be sold when it goes on promotion.  
-> ![Stock control](assets/images/tag-stockcontrol.png)
-
-#### P+#
-Shelf life stages of a product where ‘P’ is the date of production. For example, ‘D+2’ means the date of production plus two days.  
-> See also [date of production (DOP)](d.md#date-of-production-dop)  
-> ![Development](assets/images/tag-development.png) ![Stock control](assets/images/tag-stockcontrol.png)  
+> ![Stock control](assets/images/tag-stockcontrol.png)  
