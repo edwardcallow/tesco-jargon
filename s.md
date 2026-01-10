@@ -172,6 +172,11 @@ Button at staff reception in large stores to trigger an automated announcement o
 > See [colleague room card](c.md#colleague-room-card).  
 > ![People](assets/images/tag-people.png)
 
+#### Start of life (SOL)
+A product on its day of production.  
+> See also [end of life (EOL)](e.md#end-of-life-eol)  
+> ![Development](assets/images/tag-development.png)
+
 #### Steering wheel
 The tool we use to manage our business in a balanced way. There’s a sector for each area of our business plan:
 – Customer
