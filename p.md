@@ -11,7 +11,7 @@ Search this page by pressing Ctrl+F on Windows, ⌘+F on Mac, or choosing ‘fin
 
 #### P grade
 > See [Team Support/Shift Leader pay grade](t.md#team-supportshift-leader-pay-grade).  
-> ![People](assets/images/tag-people.png)  
+> ![People](assets/images/tag-people.png)
 
 #### Paired counts
 When you add together the count of a product on the shop floor with the count of a product in the Warehouse.
@@ -194,6 +194,10 @@ Level of authorisation, from 1 to 8, for tasks completed on a progress till. The
 #### Produce
 Fruit and vegetables.
 
+#### Product care story (PCS)
+> See [reason to believe (RTB)](r.md#reason-to-believe-rtb)  
+> ![Development](assets/images/tag-development.png)  
+
 #### Product group
 > See [class](c.md#class).  
 
@@ -233,3 +237,8 @@ The shelving fixture at the end of an aisle, which will hold products that are o
 #### Promotion forecasting information
 The forecast of how much of a particular product will be sold when it goes on promotion.  
 > ![Stock control](assets/images/tag-stockcontrol.png)
+
+#### P+#
+Shelf life stages of a product where ‘P’ is the date of production. For example, ‘D+2’ means the date of production plus two days.  
+> See also [date of production (DOP)](d.md#date-of-production-dop)  
+> ![Development](assets/images/tag-development.png) ![Stock control](assets/images/tag-stockcontrol.png)  
