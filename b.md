@@ -75,7 +75,7 @@ Buy one get one free. This is Tesco terminology for a certain promotional offer.
 Monthly budget statements showing sales, including and excluding the petrol filling station, waste, shrinkage, payroll, expenses and proft found on the information for business system.
 
 #### Bring it to life form (BITL)
-> See [bring product to life form (BPTL)](b.md#bring-product-to-life-form-bptl)
+> See [bring product to life form (BPTL)](b.md#bring-product-to-life-form-bptl).  
 
 #### Bring product to life form (BPTL)
 Presentation outlining the specifications and appearance of a new product being developed which is ready for approval.  
