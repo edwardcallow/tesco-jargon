@@ -200,7 +200,7 @@ Level of authorisation, from 1 to 8, for tasks completed on a progress till. The
 Fruit and vegetables.
 
 #### Product care story (PCS)
-> See [reason to believe (RTB)](r.md#reason-to-believe-rtb)  
+> See [reason to believe (RTB)](r.md#reason-to-believe-rtb).  
 > ![Development](assets/images/tag-development.png)  
 
 #### Product group
