@@ -18,7 +18,7 @@ A diary that is used to record long life fresh products that are about to go out
 
 #### Date of production (DOP)
 The date a food product was produced.  
-> See also [start of life (SOL)[d.md#start-of-life-sol]  
+> See also [start of life (SOL)](d.md#start-of-life-sol)  
 > ![Development](assets/images/tag-development.png)
 
 #### Daventry 1 office (top floor)
