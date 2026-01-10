@@ -61,7 +61,12 @@ A planogram that shows how much of each product should go where on the shelf. Me
 > ![Stock control](assets/images/tag-stockcontrol.png)
 
 #### Metro store
-A type of Tesco store that’s compact and usually on the high street. They tend to be between 4,000 and 20,000 square feet in size. They have a limited non-food range and no petrol station.
+A previous type of Tesco store that was compact and usually on the high street. They tended to be between 4,000 and 20,000 square feet in size. They had a limited non-food range and no petrol station. Metro stores were rebranded to either Express or Superstore in 2021.  
+> See also [Express](e.md#express) and [Superstore](s.md#superstore)  
+
+#### Minimum life on receipt (MLOR)
+The minimum amount of remaining shelf life a product must have when it is delivered to Tesco.
+> ![Development](assets/images/tag-development.png) ![Stock control](assets/images/tag-stockcontrol.png)
 
 #### Mismatch
 A failed price verification (and the associated report).
@@ -80,6 +85,10 @@ The point of time during the day when a store should be at its fullest.
 
 #### Mr Robinson ![Checkouts](assets/images/tag-checkouts.png)
 > See [Call Mr Robinson](c.md#call-mr-robinson).
+
+#### MS2
+Milestone 2. Step of development where suppliers submit products to Tesco developers for approval.
+> ![Development](assets/images/tag-development.png)
 
 #### Multiskilling
 Training and working on another department to your own, most commonly checkouts, to provide support at busy periods.
