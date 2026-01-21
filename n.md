@@ -9,9 +9,14 @@ Search this page by pressing Ctrl+F on Windows, ⌘+F on Mac, or choosing ‘fin
 
 ## N is for…
 
+#### Name badge
+Personalised plastic badge which shows a colleage’s name, year they joined Tesco and their choice from a selection of images. Badges previously featured job titles and a ‘funky fact’ but were redesigned in 2016 to make the name easier to read. Can be embelished with a badge surround to celebrate events, new offerings and policies.  
+> See also [badge surround](b.md#badge-surround).  
+> ![People](assets/images/tag-people.png)  
+
 #### National distribution centre
 A depot which contains slow moving products and products required by stores not for resale, for example, carrier bags.  
-> ![Distribution](assets/images/tag-distribution.png)
+> ![Distribution](assets/images/tag-distribution.png)  
 
 #### National Planning (team)
 > See [Transport Planning (team)](t.md#transport-planning-team).  
