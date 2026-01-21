@@ -170,8 +170,8 @@ Pence per thousand. This is how we measure our cash loss in a percentage.
 Location for holding empty cages and low-backstock cages ready to be pre-sorted onto.
 
 #### Price integrity (PI)
-The department in-store accountable for ensuring we meet our legal obligations in pricing.
-> Previously known as central file maintenance (CFM).  
+The department in-store accountable for ensuring we meet our legal obligations in pricing. The room where PI materials are stored is often known as the FMC room, after a previous name for the department.  
+> Previously known as central file maintenance (CFM) and file maintenance control (FMC).  
 
 #### Price-sensitive store
 A store in an area where customers are more conscious of what they spend.
