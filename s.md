@@ -172,6 +172,11 @@ Button at staff reception in large stores to trigger an automated announcement o
 > See [colleague room card](c.md#colleague-room-card).  
 > ![People](assets/images/tag-people.png)
 
+#### STAR
+See, think, act, report. Part of the Tesco health and safety policy which summarises what should happen when something potentially dangerous is found. Featured on badge surrounds and stress ball keyrings when it launched.  
+> See also [badge surround](b.md#badge-surround).
+> ![People](assets/images/tag-people.png)  
+
 #### Start of life (SOL)
 A product on its day of production.  
 > See also [date of production (DOP)](d.md#date-of-production-dop).  
