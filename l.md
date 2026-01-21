@@ -56,7 +56,8 @@ Manager responsible for colleagues through the line management chain.
 > ![Stock control](assets/images/tag-stockcontrol.png)
 
 #### LISA
-Look inside, always. A security process when conducting service checks.
+Look inside, always. A security process when conducting service checks on Scan as you Shop, often used with BOB.  
+> See also [BOB](b.md#bob) and [Scan as you Shop](s.md#scan-as-you-shop-says).  
 > ![Checkouts](assets/images/tag-checkouts.png)  
 
 #### Live the values
