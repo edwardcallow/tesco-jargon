@@ -61,7 +61,8 @@ Report that scores performance down a grading system as blue, green, amber or re
 > See [flat-top](f.md#flat-top).
 
 #### BOB
-Bottom of bag. A security process when conducting service checks.
+Bottom of bag. A security process when conducting service checks on Scan as you Shop.  
+> See also [Scan as you Shop](s.md#scan-as-you-shop-says).  
 > ![Checkouts](assets/images/tag-checkouts.png)  
 
 #### BOGOF
