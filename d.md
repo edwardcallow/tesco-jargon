@@ -160,6 +160,10 @@ The part of the business where customers order their groceries on the internet t
 A double-decker trailer with two floors.  
 > ![Distribution](assets/images/tag-distribution.png)
 
+#### Dunnhumby
+Customer data science company owned by Tesco. Dunnhumby helped establish the Clubcard scheme and now runs it on behalf of Tesco Stores Ltd.  
+> See also [Clubcard](c.md#clubcard).  
+
 #### Double scan
 When a product is scanned more than once at the checkout, but the customer has only purchased one item.  
 > ![Checkouts](assets/images/tag-checkouts.png) ![Stock control](assets/images/tag-stockcontrol.png)
