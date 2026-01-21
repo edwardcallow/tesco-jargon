@@ -33,6 +33,11 @@ A system used in-store to maintain sales and pricing information for the produts
 > See also [checkout back office (CBO)](c.md#checkout-back-office-cbo) and [SRTB](s.md#srtb).  
 > ![Stock control](assets/images/tag-stockcontrol.png)
 
+#### Badge surround
+Round pieces of plastic with printed graphics which name badges clip into. Used to promote offerings like Clubcard, policies such as STAR or just because it’s Christmas.  
+> See also [Clubcard](c.md#clubcard), [name badge](n.md#name-badge) and [STAR](s.md#star).  
+> ![People](assets/images/tag-people.png)  
+
 #### Basket checkout
 Checkout designed for customers with fewer than 10 items of shopping, that are placed straight into a bag once they have been scanned at the checkout.
 > Previously known as express checkout.  
