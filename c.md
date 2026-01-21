@@ -81,6 +81,10 @@ A grouping of stores based on sales and complexity that is used to determine Sto
 #### Catering partners
 Third-party companies who run some of our cafés on behalf of Tesco. These are traditional cafés, often with food, and cater for Tesco staff or customers.
 
+#### CAYG tools
+Clean as you go tools. Stored under certain mods in various aisles so that basic cleaning tools are available close to hand.  
+> See also [clean as you go](c.md#clean-as-you-go-cayg).  
+
 #### CBCL
 Cash, bank, coupon and lottery report. Details finance performance figures for each store on a weekly basis, along with the dishonoured sales report (DSR). Published on G drive each Friday.  
 > Previously known as CBL.  
@@ -120,7 +124,11 @@ Fancy word for a big fridge.
 #### Class
 The fourth level of the merchandise hierarchy used by NBS.  
 > Previously known as product group.  
-> See also [NBS](n.md#nbs).  
+> See also [NBS](n.md#nbs).
+
+#### Clean as you go (CAYG)
+Tesco policy which says spillages and dirty areas should be cleaned as and when they’re noticed. Also used to refer to the cleaning tools stored under certain mods.  
+> See also [CAYG tools](c.md#cayg-tools) and [mod](m.md#mod).  
 
 #### Click and collect (C+C)
 Service allowing Dotcom and Direct customers to order products online and then collect them in-store.  
