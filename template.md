@@ -11,7 +11,7 @@ Brief definition.
 > Also known as another term.  
 > Previously known as old term.  
 > See also [related term](p.md#permit-to-work-rp2k740).  
-> ![Checkouts](assets/images/tag-checkouts.png) ![Direct](assets/images/tag-direct.png) ![Distribution](assets/images/tag-distribution.png) ![Dotcom](assets/images/tag-dotcom.png) ![People](assets/images/tag-people.png) ![Stock control](assets/images/tag-stockcontrol.png)
+> ![Checkouts](assets/images/tag-checkouts.png) ![Development](assets/images/tag-development.png) ![Direct](assets/images/tag-direct.png) ![Distribution](assets/images/tag-distribution.png) ![Dotcom](assets/images/tag-dotcom.png) ![People](assets/images/tag-people.png) ![Stock control](assets/images/tag-stockcontrol.png)
 
 #### Old term
 > See [new term](g.md#grocery).
