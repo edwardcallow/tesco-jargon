@@ -74,6 +74,10 @@ A trolley with a table-top.
 A promotional space in Extra stores.  
 > ![Stock control](assets/images/tag-stockcontrol.png)
 
+#### FMC room
+The room where price integrity materials are stored, so called for file maintenance control – a previous name of the department.  
+> See also [price integrity (PI)](p.md#price-integrity-pi).  
+
 #### Format
 A type of Tesco store, either Express, Metro, Superstores, Extra or Homeplus.
 
