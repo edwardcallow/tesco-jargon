@@ -149,6 +149,11 @@ A strip of plastic which hooks on to a shelf to display things customers wouldnâ
 > See [T&A card](t.md#ta-card).  
 > ![People](assets/images/tag-people.png)
 
+#### Clubcard
+The Tesco loyalty card introduced in 1995. Run by Dunnhumby, customers collect one point for every pound spent on most products by scanning their card at the checkout. Points are exchanged at 100 points to Â£1 in vouchers once at least 150 points have been collected.
+> See also [Dunnhumby](d.md#dunnhumby).  
+> ![Checkouts](assets/images/tag-checkouts.png)
+
 #### CMS
 Cash management system.
 
