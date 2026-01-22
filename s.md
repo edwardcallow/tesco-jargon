@@ -161,6 +161,11 @@ Login details used by stock control and price integrity to access back office an
 > See also [back office](b.md#back-office).  
 > ![Stock control](assets/images/tag-stockcontrol.png)
 
+#### SS#
+Spring summer. The range of products on shelves between March/April and October of a given year. For example, ‘SS26’ for 2026.
+> See also [AW#](a.md#aw).
+> ![Development](assets/images/tag-development.png)
+
 #### Staff reception
 Area by the staff and visitor entrance in large stores. Previously manned throughout the day, it’s functions have now been taken over by the customer service desk. Often used to store handheld computers and the colleague shop.  
 > See also [colleague shop](c.md#colleague-shop).
