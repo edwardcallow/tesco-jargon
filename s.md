@@ -166,6 +166,10 @@ Spring summer. The range of products on shelves between March/April and October 
 > See also [AW#](a.md#aw).
 > ![Development](assets/images/tag-development.png)
 
+#### Staff number
+> See [employee number](e.md#employee-number).
+> > ![People](assets/images/tag-people.png)
+
 #### Staff reception
 Area by the staff and visitor entrance in large stores. Previously manned throughout the day, it’s functions have now been taken over by the customer service desk. Often used to store handheld computers and the colleague shop.  
 > See also [colleague shop](c.md#colleague-shop).
