@@ -30,7 +30,7 @@ Button at the back gate in large stores to trigger an automated announcement ove
 
 #### Back office
 A system used in-store to maintain sales and pricing information for the produts ranged. Back office downloads price changes each night and pushes them to the checkouts. Also used to print shelf-edge labels and POS. Accessed with SRTB sign-in details.  
-> See also [checkout back office (CBO)](c.md#checkout-back-office-cbo) and [SRTB](s.md#srtb).  
+> See also [checkout back office (CBO)](c.md#checkout-back-office-cbo), [point of sale](p.md#point-of-sale-pos), [shelf-edge label](s.md#shelf-edge-label-sel) and [SRTB](s.md#srtb).  
 > ![Stock control](assets/images/tag-stockcontrol.png)
 
 #### Badge surround
