@@ -27,7 +27,7 @@ This site is based on a store comminications book from July 2010 called ‘Talki
 Thanks to Andrew Bruce, Carlotta Canavesio and Andy King for their contributions.  
 Think we’ve missed or got something wrong? Let us know at [jargon@edwardcallow.co.uk](mailto:jargon@edwardcallow.co.uk). If you know Git, submit a pull request on [GitHub](https://github.com/edwardcallow/tesco-jargon).
 
-Last updated 21 January 2026.
+Last updated 22 January 2026.
 
 <!-- ## Still to be defined
 We’re still searching for a simple definition for these terms…
