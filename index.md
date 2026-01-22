@@ -35,3 +35,5 @@ We’re still searching for a simple definition for these terms…
 #### CBL
 `Definition unavailable.`
 -->
+
+{% include footer.md %}
