@@ -223,6 +223,11 @@ A warehouse that sorts cages sent from a national depot to send out to stores, a
 > See also [trunk](t.md#trunk).  
 > ![Distribution](assets/images/tag-distribution.png)
 
+#### TSAYS
+The new Scan as you Shop software to replace the legacy SayS system.
+> See [Scan as you Shop (SayS)](s.md#scan-as-you-shop-says).
+> ![Checkouts](assets/images/tag-checkouts.png)
+
 #### TTS
 Tesco technical support. Helpline available to support customers with electrical products.
 
