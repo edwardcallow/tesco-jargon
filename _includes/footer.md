@@ -1,3 +1,3 @@
 ___
 
-*Tesco Jargon was last updated 22 January 2026.*
+*Tesco Jargon was last updated 7 September 2026.*
