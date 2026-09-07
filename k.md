@@ -1,5 +1,4 @@
-**Welcome to the Tesco jargon buster.**  
-Just choose a letter (or 123) below to get started.  
+{% include header.md %}
 
 [A](a.md) | [B](b.md) | [C](c.md) | [D](d.md) | [E](e.md) | [F](f.md) | [G](g.md) | [H](h.md) | [I](i.md)  
 [J](j.md) | [**K**](k.md) | [L](l.md) | [M](m.md) | [N](n.md) | [O](o.md) | [P](p.md) | [Q](q.md) | [R](r.md)  
@@ -20,3 +19,5 @@ Training material for managers that focuses on legal trading requirements, backe
 #### Know your stuff (KYS)
 Stores’ training solution produced by Tesco Academy. Our training is split into three different levels: bronze, silver and gold. Staff will work through the bronze and silver levels when they join Tesco. These go through all the different elements of the job. Gold level is optional if people wish to progress or learn a new skill. We also have manager’s workbooks for the different departments within the store. Largely replaced by click and learn.
 > See also [click and learn](c.md#click-and-learn) and [Tesco Academy](t.md#tesco-academy).
+
+{% include footer.md %}

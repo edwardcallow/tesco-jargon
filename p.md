@@ -1,5 +1,4 @@
-**Welcome to the Tesco jargon buster.**  
-Just choose a letter (or 123) below to get started.  
+{% include header.md %}
 
 [A](a.md) | [B](b.md) | [C](c.md) | [D](d.md) | [E](e.md) | [F](f.md) | [G](g.md) | [H](h.md) | [I](i.md)  
 [J](j.md) | [K](k.md) | [L](l.md) | [M](m.md) | [N](n.md) | [O](o.md) | [**P**](p.md) | [Q](q.md) | [R](r.md)  
@@ -248,3 +247,5 @@ The shelving fixture at the end of an aisle, which will hold products that are o
 #### Promotion forecasting information
 The forecast of how much of a particular product will be sold when it goes on promotion.  
 > ![Stock control](assets/images/tag-stockcontrol.png)  
+
+{% include footer.md %}

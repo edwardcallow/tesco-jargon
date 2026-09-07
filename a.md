@@ -1,5 +1,4 @@
-**Welcome to the Tesco jargon buster.**  
-Just choose a letter (or 123) below to get started.  
+{% include header.md %}
 
 [**A**](a.md) | [B](b.md) | [C](c.md) | [D](d.md) | [E](e.md) | [F](f.md) | [G](g.md) | [H](h.md) | [I](i.md)  
 [J](j.md) | [K](k.md) | [L](l.md) | [M](m.md) | [N](n.md) | [O](o.md) | [P](p.md) | [Q](q.md) | [R](r.md)  
@@ -103,3 +102,5 @@ The average weight of the products bought.
 Autumn winter. The range of products on shelves between October and March/April of a given year. For example, ‘AW26’ for 2026.  
 > See also [SS#](s.md#ss).  
 > ![Development](assets/images/tag-development.png)
+
+{% include footer.md %}

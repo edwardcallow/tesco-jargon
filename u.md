@@ -1,5 +1,4 @@
-**Welcome to the Tesco jargon buster.**  
-Just choose a letter (or 123) below to get started.  
+{% include header.md %}
 
 [A](a.md) | [B](b.md) | [C](c.md) | [D](d.md) | [E](e.md) | [F](f.md) | [G](g.md) | [H](h.md) | [I](i.md)  
 [J](j.md) | [K](k.md) | [L](l.md) | [M](m.md) | [N](n.md) | [O](o.md) | [P](p.md) | [Q](q.md) | [R](r.md)  
@@ -41,3 +40,5 @@ A unit of measurement within distribution depots - how many units of product are
 
 #### Upmarket store
 A store in an affluent area.
+
+{% include footer.md %}
